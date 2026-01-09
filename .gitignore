@@ -1,0 +1,15 @@
+# Obsidian workspace + caches
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/plugins/**/data.json
+
+# OS junk
+.DS_Store
+
+# Optional: ignore Obsidian trash (if you use it)
+.trash/
+
+# Optional: ignore all plugin configs (ONLY if you don't want plugins synced)
+# .obsidian/plugins/
+
+
