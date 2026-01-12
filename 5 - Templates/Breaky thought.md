@@ -1,13 +1,18 @@
-{{date}} {{time}}
 
-Quote/moment:[Ø]
+Status: 
 
+Tags: 
+
+Quote/moment:
 
 My claim: 
 
 Connects to: 
 
-Tags: 
+
+
+
+
 
 
 
