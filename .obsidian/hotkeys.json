@@ -7,5 +7,21 @@
       ],
       "key": "T"
     }
+  ],
+  "yet-another-obsidian-synchronizer:sync": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
+  ],
+  "yet-another-obsidian-synchronizer:show-unmerged": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }
