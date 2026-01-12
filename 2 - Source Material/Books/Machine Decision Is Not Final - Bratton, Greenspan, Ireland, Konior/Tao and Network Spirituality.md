@@ -1,5 +1,5 @@
 
-Status: 
+Status: #baby
 
 Tags: 
 
@@ -19,8 +19,16 @@ Quote/moment:
 *At the outer edges of predictive modelling, as systems become so complex that they border on chaos, forecasting and fortune are hard to tell apart. [...] the impossibility of certainty is as present as ever.*
 
 
-
 My claim: 
+The Way as Network spirituality. 
+
+At some point, when information networks become so complex that we cannot make sense of them anymore, when the information in its nodes and edges spills over into new layers, tensions,  and networks upon networks emerge, the information becomes the reality itself. How individual nodes interact with one another is the information, is the reality. Even a mere observation can cause effect, even that produces information. 
+
+There is thus only uncertainty. Successful prediction becomes less and less likely in realities where anything is an influential factor. In realities produced by predictive modelling, 
+
+In the edges between nodes, nothing is certain; pure chaos, uncertainty. This agrees with the Tao, which asks of nodes (humans) to become evermore complex, in accordance with Nature. 
+
+In re
 
 harmonising nature and artifice --> the Way
 
