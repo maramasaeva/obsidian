@@ -27,13 +27,20 @@ I will try to connect three of my claims:
 
 
 ---
+
+
+
+
+FINAL:
 Our modern bodies are moulded to fit properly within the designed patriarchal and capitalist state. They must belong to categories; male/female, heterosexual/homosexual, &c. Shifting between categories is not desired, and punished by the state. There must always be the Self and the Other, in order to ensure the Self can profit from the Other. This is why we have categories. 
 
-When bodies shift between categories, and live in the margins of categories, they cannot serve the state. The boundary between Self and other blurs, thus, creating profit becomes less likely. These bodies cannot be forced to labor for profit.
+When bodies shift between categories, and live in the margins of categories, they cannot serve the state. The boundary between Self and other blurs, thus, creating profit becomes less likely. These bodies cannot be forced to labor for profit. They cannot produce or consume something that is Other than itSelf. 
 
 This is what happens when bodies shift, when a lonesome node decides they no longer want to escape the Other. 
 
-The lesbian body, which is not one body but a network, and exists only within that network of nodes and edges, is the collective telebody; a hive mind of telebodies that live in the margins, building the totality of its Self. This type of body produces nothing other than its own Self; no external profit. No gains, no losses, other than increasing its own complexity in all realms. Increasing the number of nodes and edges, making the Lesbian Body more and more complex. **With more nodes and edges, each node and edge becomes smaller until only the whole can be perceived.** 
+The lesbian body, which is not one body but a network, and exists only within that network of nodes and edges, is the collective telebody; a hive mind of telebodies that live in the margins, building the totality of its Self. This type of body produces nothing other than its own Self; no external profit. No production, no consumption. No gains, no losses, other than increasing its own complexity in all realms. Increasing the number of nodes and edges, making the Lesbian Body more and more complex. **With more nodes and edges, each node and edge becomes smaller until only the whole can be perceived.** That whole is impossible to describe in terms or concepts that we commonly know and use to describe other, modern, individual bodies, because it functions on another level of reality. From our, sensical, reality, the Lesbian Body travels to the reality it might operate in, that place we can only assume it engineers itself abundantly, and it loops back to our reality, manifesting in the nodes and edges we can perceive. 
+
+There is not one point from where  the LB is engineered; it grows by itself, from itself, by means of itself. Without origins, it is itself the origin, loops back to the vulva by staying in place. 
 
 
 

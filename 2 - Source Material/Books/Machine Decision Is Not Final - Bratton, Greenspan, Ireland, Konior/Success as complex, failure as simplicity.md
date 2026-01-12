@@ -1,6 +1,6 @@
 Status: #baby
 
-Tags: 
+Tags: [[loops]], [[tao]], [[desire]], [[UCI]]
 
 Quote/moment:
 
@@ -9,7 +9,7 @@ p.15:
 
 *The 'Sinofuturist' proclamation that 'neo-China arrives from the future' as a designation of a different world order to come coexisted with a post-pandemic malaise that has been dubbed "Sino-no-futurism' and 'Sinopessimism'.*
 
-The addiction is necessary when you have it. 
+The addiction/[[desire]] is necessary when you have it. 
 &
 *The young couple's nihilistic response, uttered calmly before politely closing the door, saw the video go viral: 'Thanks, but we are the last generation.'*
 
