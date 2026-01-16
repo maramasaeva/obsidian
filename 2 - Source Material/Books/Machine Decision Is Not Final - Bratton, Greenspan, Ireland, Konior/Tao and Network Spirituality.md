@@ -1,7 +1,7 @@
 
 Status: #baby
 
-Tags: [[tao]], [[exocapitalism]], [[Network spirituality]], [[numerology]]
+Tags: [[tao]], [[exocapitalism]], [[Network spirituality]], [[numerology]], [[spirituality]]
 
 Quote/moment:
 
