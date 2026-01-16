@@ -32,7 +32,7 @@ IT CONTINUES:
 
 *Demons are multiple because they precede the conceptual singling-out of a singular object. In general, in the context of lemurianism, I understand plurality as rhizome in the philosophy of Deleuze and Guattari: not just multicomponent, but a non-hierarchical, heterogeneous, non-linear, creative, swarming plurality.*
 
-*Time-complexity, again, refers to the original non-linearity, unorderedness of aeonic time, but also brings us back to spirodynamism: ==self-generation in the feedback spirals.*==
+
 
 
 
