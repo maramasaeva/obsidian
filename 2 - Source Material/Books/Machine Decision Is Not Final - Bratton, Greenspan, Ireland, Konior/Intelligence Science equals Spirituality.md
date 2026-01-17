@@ -1,5 +1,4 @@
 
-
 Status: #baby
 
 Tags: [[spirituality]]
@@ -30,9 +29,7 @@ p. 60:
 	[...] it upholds a universalist imaginary that diverges little from the narrative typically put forward by Silicon Valley, in which the hope for efficiency, prosperity, and human flourishing rests upon the continuous improvement of digital technology. 
 	[...] the mythical nature of the discourses surrounding cloud computing [...] He notes transcendent visions of ending pace, time, and social divisions tend to dilute our appreciation of the more grounded, long-term, but banal consequences of implementing cloud systems. [...] Since techno-utopian claims about digital futures gloss over the politics of technological innovation and development, it is only by reembedding these imaginaries into social and material relations that we can begin to demystify them. 
 
-p. 69 & 71:
-	He had been unable to write stories since the coronavirus outbreak had begun. [...] Science-fiction writers could no longer write stories as before. 
-	Truth is that abyss forever gazing back at you. 
+
 
 
 My claim: 
