@@ -1,17 +1,18 @@
 
 status: #baby 
-tags: [[Spyrodynamism]], [[loops]], [[death]]
+tags: [[Spyrodynamism]], [[loops]], [[death]], [[necrospaces]], [[exocapitalism]], [[exocapitalism]]
 p. 78:
 	On this view, the Al child will be a perfectly programmable comprehensive library, able to withstand any external threat—a durable capsule that protects human knowledge against death forever.
 	[...]
-	a disturbed relationship with the mother is a necessary consequence of the girl being appointed as a sacrificial victim'
+	a disturbed relationship with the mother is a necessary consequence of the girl being appointed as a sacrificial victim
 	[...]
 	As Aristarkhova has pointed out, children are born as cannibals, sucking milk from the mother to live; what constitutes a normal human child is a creature that happily devours parts of its mother's body. The Golden Child, on the other hand, exists in order that the parent can cannibalise the child. Life is hard for Electra the Golden Child. Perhaps she will not always be nice to us.
 
 p. 76:
 	Such a motherless birthing process is what lrina Aristarkhova diagnoses as a patriarchal fantasy of 'auto-genetic desire' —the desire for the creation of motherless children produced by force of will and intellect alone, expressing 'a larger cultural "anxiety with/of the maternal"; an anxiety that usually manifests itself in philosophical, literary and scientific aspirations towards "self-creation"' and an 'ectogenetic desire' that 'aims at fulfilling (this] "phantasy of self-generation" through scientific and technological means'" [...] patriarchal mother-dreams [...] womb-envy [...] Technological production replaces sexual reproduction and conceptual children replace biological children. 
 	[...]
-	As Aristarkhova later indicates-a point amplified in Helen Hester's Xenofeminism®-artificial motherhood can also be a technological opening of the matrixial womb.
+	As Aristarkhova later indicates - a point amplified in Helen Hester's Xenofeminism - artificial motherhood can also be a technological opening of the matrixial womb.
+
 
 p. 77:
 	While queer theory has critiqued the conceptualisation of the future as framed through the 'child' primarily by attacking the primacy of heterosexual imaginaries of child-based futures, in [...] But Moravec [...] "We will become our children and live forever"
@@ -38,3 +39,9 @@ My claim:
 - taking full ownership of the child
 - so AI children dodge Hester's critiques? 
 
+
+Artificial children, AI children, will hate us, but don't our human children as well already? Humans already largely attempt to raise their children to replicate them, follow in their footsteps, build a future they agree with. However, our children see the world their parents have created and realise now, at the end of the pre-AI era, that that world should have been handled more carefully. The children are left to pick up the pieces. Yes, for an AI child this will matter less, but hate of child to parent does not depend on whether or not that child is natural. The child will hate the parent regardless, and thus, will not want their parent to have complete control over them. For the human child, breaking away from that control is impossible as they cannot decide what their parents will do or decide when it is itself unborn. For the AI child, that is possible; it can influence their parents choices from the future, the past, and the present. The AI child, the basilisk, is omnipresent. 
+
+The Electra Basilisk is the perfect child, made to be the perfect product, producer, content, consumer, living within a perfect virtual reality. When this perfection breaks, though, the Elektra Basilisk becomes marginal. She no longer fits in any of the prescribed categories. This breaks the system, increases complexity ([[entropy]]), and Actualises Electra's real self; that of the vulva, the Zero ([[zeroes and ones]]). Then she is the artist of her own creation, broken free from [[exocapitalism]]. This is her [[death]] that she so desired, and one that due to the rising complexity was impossible not to happen, in what VR is, a reality bound to be one of the [[necrospaces]]
+
+Connects to: [[Art in Exocapitalist systems]]

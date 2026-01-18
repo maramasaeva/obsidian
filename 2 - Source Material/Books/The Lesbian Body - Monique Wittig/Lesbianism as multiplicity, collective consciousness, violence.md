@@ -1,3 +1,5 @@
+status: #baby
+Tags: [[collective gender]], [[death]], [[queer]], [[zeroes and ones]], [[loops]]
 
 Quote/moment:
 
@@ -26,7 +28,7 @@ As the term lesbian can never fit into the common concept of what a person is (a
 
 All of these things connect to the idea of the zero ([[zeroes and ones]]), of opening and ending and looping back towards origins. You create and create yourself, you do not exist except in connection with the other, you are no you, the other is no other. There is only the connection; precisely as the lesbian does not exist, but only lesbianISM exists in the edges between lesbians. Without the loop and the feedback, there is nothing. And as we know, a pathway leads to a goal, but when the end of the path is as well where we are currently standing, then we are already where we belong. That is why creation is itself a loop, the created is already here ([[loops]])
 
-Tags: [[collective gender]], [[death]], [[queer]], [[zeroes and ones]], [[loops]]
+
 
 
 
