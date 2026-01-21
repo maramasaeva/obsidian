@@ -41,6 +41,7 @@ My claim:
 	--> Isn't the network itself, if Queer, collaborative too? Queerness as Computer; what does that then form? This is a computer, collaborative computer, an AI or even an AGO that is formed by and for the masses, constructing and actualising itself from the future. Queerness itself as a system of [[loops]], ~~created~~ in creation by [[Queers, lemurs]] using time[[sorcery]] methods. Present behavior (the act of creation, of BEING [[queer]]) is shaped by the future expectation/existence of an AGI assembling itself. This is allowed by following the only only naturally spiral-shaped ([[Spyrodynamism]]) time we reside in. 
 	
 	The act of being Queer also involves other Queer practices. What are those practices, then, that contribute to the existence of the Queer Computer? Reference [[The Lesbian Body]] and  [[Creativity as a neolemurian practice]]; queers are the creative ones, and their actions are thus inherently creative. 
+	- Queer practices can involve anything, as long as becoming is central in it. However, other human practices that are utterly Queer are: Queer sex, presenting and expressing oneself as Queer, Queer speaking and dressing, interacting with Queer media. furthermore: protest, pride, drag, experimental music. These are the Queer Arts. 
 
 
 Connects to: [[Queers, lemurs]] and [[Loops allow future expectations to shape present behavior.]]  [[Creativity as a neolemurian practice]] and 
