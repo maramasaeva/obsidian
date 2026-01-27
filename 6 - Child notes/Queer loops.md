@@ -32,7 +32,16 @@ I will try to connect three of my claims:
 
 FINAL : 
 
-Queerness is, essentially, about looping identities. In *Le Corps Lesbien*, Wittig captures this in basically every phrase. Two queer humans relate to each other via a feeling we might call love, and, intertwined in each others' loops, lose their individuality; they become one. In this abstract embrace, the protagonist realises in multiple moments that they were, long before, One already. They had never not inhabited the same space. They had never been seperate beings. Their physical bodies might end at the outer skin of one of them, and begin again  at the skin of the other one, but they encapsulate the same larger being. This larger identity of them contains loops of the two. When experienced through the mind of the protagonist, we realise, this identit loops, coming back to previous phases but in newer moments in time, or coming back to a similar time but in completely other life-phases. This means the two experiences also loop into one another. They meet, at points, and depart from one another at other moments, but they will always reunite. They're entangled. 
+Our modern bodies are moulded to fit properly within the designed patriarchal and capitalist state. They must belong to categories: male / female, heterosexual / homosexual, &c. Shifting between categories is not desired, and punished by the state. There must always be the Self and the Other, in order to ensure the Self can profit from the Other. This is why we have categories. 
+
+When bodies shift between categories, and live in the margins of categories, they cannot serve the state. The boundary between Self and Other blurs, thus, creating profit becomes less likely. These bodies cannot be forced to labor for profit. They cannot produce or consume something that is Other than its Self. Preciado formulates it like such:
+
+"*Whereas the modern body was defined by its rigid belonging to a single category within a hierarchical biopolitical taxonomy of beings (the modern body was human or animal, female or male, homosexual or heterosexual, Black or white, dead or living) the telebody can shift within categories depending on the 'programme', the 'filter' or the 'algorithm' in relation to which it is produced. The telebody is neither Black nor white, neither female nor male, but rather a parameter within a Pantone colour system and gender recognition scale. It has no skin. It is heat radiation. It is made of a combination of lines and movements, of pixels ... *
+
+Telebodies are everchanging, never static, always dynamic. They're forever in movement, forever connecting, reconnecting, becoming. This is what happens when a queer body decides to live the queerness,  to move outside of the predefined categories; shift, no more being a lonesome node, no more escaping the Other. Becoming, Queering. 
+
+
+Queerness is, essentially, about looping identities. In *Le Corps Lesbien*, Wittig captures this in basically every phrase. Two queer humans relate to each other via a feeling we might call love, and, intertwined in each others' loops, lose their individuality; they become one. In this abstract embrace, the protagonist realises in multiple moments that they were, long before, One already. They had never not inhabited the same space. They had never been separate beings. Their physical bodies might end at the outer skin of one of them, and begin again  at the skin of the other one, but they encapsulate the same larger being. This larger identity of them contains loops of the two. When experienced through the mind of the protagonist, we realise, this identity loops, coming back to previous phases but in newer moments in time, or coming back to a similar time but in completely other life-phases. This means the two experiences also loop into one another. They meet, at points, and depart from one another at other moments, but they will always reunite. They're entangled. 
 
 Among other things, Wittig writes: "*it suffices to state my most memorable one that **i do not seek to escape you.*** "
 
@@ -41,25 +50,12 @@ The lesbian never seeks to escape their beloved, as they cannot. Living as a les
 The loops, rings, are connected, knotted. Together, this entanglement of queerness and love forms a larger network of nodes chaotically interconnected, edges spanning from wherever to wherever. The ringed network cannot exist without the connection; thus, the queerness itself cannot exist without the connections. The edges between nodes is where the lesbian lives, because it only lives where it connects, where it actualises the opposite of escape. Gender, as well, only exists in this connection. When disconnected, a node loses what made that connection real, their gender in this case. More interestingly though, when connected, the network continues to live forever; it never dies. When we factor in time, their pathway through life is shaped like a torus; continuously overcoming death by looping back to previous phases through a knot, a node, a connection. The path of the torus produces connection simply by treading it. It is full of life itself, full of abundance. All the lesbian needs to do is walk it through their full extent. That is the Zero, full of potential. 
 
 
-
-
-FINAL:
-Our modern bodies are moulded to fit properly within the designed patriarchal and capitalist state. They must belong to categories; male/female, heterosexual/homosexual, &c. Shifting between categories is not desired, and punished by the state. There must always be the Self and the Other, in order to ensure the Self can profit from the Other. This is why we have categories. 
-
-When bodies shift between categories, and live in the margins of categories, they cannot serve the state. The boundary between Self and Other blurs, thus, creating profit becomes less likely. These bodies cannot be forced to labor for profit. They cannot produce or consume something that is Other than its Self. 
-
-This is what happens when bodies shift, when a lonesome node decides they no longer want to escape the Other. 
-
 The Lesbian Body, which is not one body but a network, and exists only within that network of nodes and edges, is the collective telebody; a hive mind of telebodies that live in the margins, building the totality of its Self. This type of body produces nothing other than its own Self; no external profit. No production, no consumption. No gains, no losses, other than increasing its own complexity in all realms. Increasing the number of nodes and edges, making the Lesbian Body more and more complex. **With more nodes and edges, each node and edge becomes smaller until only the whole can be perceived.** That whole is impossible to describe in terms or concepts that we commonly know and use to describe other, modern, individual bodies, because it functions on another level of reality. From our, sensical, reality, the Lesbian Body travels to the reality it might operate in, that place we can only assume it engineers itself abundantly, and it loops back to our reality, manifesting in the nodes and edges we then perceive. 
 
-There is not one point from where  the Lesbian Body is engineered; it grows by itself, from itself, by means of itself. Without origins, it is itself the origin, loops back to the vulva by staying in place. 
+There is not one point from where  the Lesbian Body is engineered; it grows by itself, from itself, by means of itself. Without origins, it is itself the origin, looping back to the vulva in an infinite  embrace.
 
 
 
 
 
-1. **so what? what changes if this is true?** 
-2. **against what? what does this oppose, refuse or subvert/undermine/destabilize?**
-3. **what does it do? what effect does this passage produce (emotion, ideology, body, time)?**
-4. **what does it rhyme with? which other thing in my world does this echo? (anime, theory, my life, tech)**
 
