@@ -9,7 +9,13 @@
 # Optional: ignore Obsidian trash (if you use it)
 .trash/
 
-# Optional: ignore all plugin configs (ONLY if you don't want plugins synced)
-# .obsidian/plugins/
+# Plugin source (may contain embedded secrets)
+.obsidian/plugins/**/main.js
+.obsidian/plugins/**/styles.css
 
+# Smart composer DB
+.smtcmp_json_db/
+.smtcmp_vector_db*
 
+# Untitled scratch files
+Untitled.md
