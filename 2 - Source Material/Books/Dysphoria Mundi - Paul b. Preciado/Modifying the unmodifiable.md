@@ -2,10 +2,7 @@
 Tags: [[entropy]]
 
 *“Hungary’s President Viktor Orbán and Justice Minister Judit Varga presented a draft amendment to inscribe in the Hungarian Constitution the determination of sex at birth, as well as the impossibility of any subsequent modification.” p. 350*
-
-There is that moment in your gut, heart, chest, your blood, when it itches only ever so slightly, and you know you need to write this down. THat moment when you're actually falling asleep, running, when there is no pen to write but the heart aches for it anyways, so you drill into your mind that you will write it down later. No. You will not write it down lter. 
-
-This is what they feel when the ground starts shaking under their glossy, leather, high-end prada loafers, on the hardwood floor of the parliament when they write into law that "man is man" and "woman is woman" and "only man shall be with woman, and woman with man". As if nature needs to be legislated. As if we need a law to tell us what is true. No, law enforces that which was not enforced before. Law makes something true. 
+ 
 
 What these politicians believe is that gender / sex (in their belief, this is the same) is assigned at birth, based on visible genitalia. Weird, though, that they are themselves allowing changes to what is fundamentally So (like, their own Constitution) while forbidding someone to change their gender (that is what is talked abt here) (dont mind their sex). 
 
