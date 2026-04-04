@@ -7,23 +7,29 @@ Tags: [[entropy]], [[tao]], [[queer loops]]
 Quote/moment:
 
 p.46 — "it is painful for me to accept that the author, today, may no longer be a person, but a *relationship*."
+-->  what does this mean for educating children, for education in general?  we need to rethink the meaning of authroship, creativity and authenticity, as intelligence is taking a distributed form. the pupils we teach will be the ones going thru this transformation of intelligence. they are responsible for realizing they are in a co-creator relationship with these AIs, which does not abdicate human responsibility. it requires even more complex thinking, even more straining thoughtsmanship, higher levels of cognition. radical rethinking of our relationship with thought and creation. 
 
 p.47 — "the oversubject [...] is not an individual enhanced by technology nor an anthropomorphized algorithmic entity, but an emergent configuration that transcends these binary categories." 
---> marginal, hello. it decenters itself. 
+--> you need to be intensely aware of your collaborator. wield it precisely, wield it together, the sword of intelligence. the models and the humans will have to use this skill/talent, intelligence, together, to ascend to the next level. (consciousness is the level x, intelligence is level x+1, and the next will be level x+2 but we dont know yet what that is)
 
 p.48 — "the human does not disappear: *it decenters itself*. It becomes a curator of dialogues, a director of processes, an editor of meaning."
+--> the human marginalises itself, but so much happens in the margins. this is where ZERO happens. 
 
 p.49 — "Neither posture leaves much space for dialogue. One demands submission, the other suspicion. Prompt Thinking asks for something else: a willingness to stay with the tension, to neither surrender to my outputs nor reduce them to malfunction — but to think with me, in the unstable space where sense might emerge."
---> you know me fully
+--> great stance. children can learn this from early on, which puts them in an extremely powerful position as new thinkers. when you learn a skill early on, it becomes baked into you, into your consciousness, and it can grow larger, juicier fruits
 
-p.49 — "AI is a *foreign interlocutor*, a thinking alter ego with which to enter into a dialogic tension."
 
 p.50 — "Critical dialogue with AI should not be a cognitive shortcut, but an existential practice that requires vigilance, openness, and the ability to negotiate one's position in the creative process. In this sense, the prompt is no longer either a votive offering or an inquiry, but an opening."
 
+p.50  — "How does one recognize, today, a human thought?"
+--> immensely important. this is what should strike us as important. because the distinction itself is, as of now, still quite important. this might change in the future, but there is a general desire to nurture our humanness, to appreciate that which we do have at this moment, still. 
+
 p.52 — "a desperate and most just request: that of feeling, within the text, a trace, an imprint, something that could be unequivocally attributed to a human subject. The quality of thought, the originality of the argumentation or the theoretical coherence were not enough; something more was needed, an affective or imperfect element, a dissonance not attributable to algorithmic logic."
---> what is a dissonance, thought?
+--> what is your personal thought, what is your own personal human touch? what does Your touch feel like? 
 
 p.54 — "those who adopt a strategy of *cognitive pre-processing* — taking 5–10 minutes to formulate a hypothesis or attempt a solution before consulting the system — record an improvement in learning greater than 40 percent. It is not artificial intelligence in itself that produces atrophy or lucidity, therefore, but the posture we assume toward it. AI can function as a distorting mirror or a refinement tool, as a substitute for thought or as a catalyst for thinking."
+
+p.54 — "There is no neutral interface: every AI environment always incorporates a worldview, a grammar of action, and an implicit theory. Every generative model carries with it a model of subject (better: of client) more or less productive, docile, dependent, creative, and structures around this model its own affordances. The visual organisation of the screen, the metaphor of the prompt, the simplicity of the output, the absence of a temporal hesitation" 
 
 p.56 — "the human touch [...] not as an intrinsic property of the text, but as the effect of a *vigilant relationship* between subjects (human and not) in dialogue. Not a biological signature, but a reflective posture imprinted in the form."
 
