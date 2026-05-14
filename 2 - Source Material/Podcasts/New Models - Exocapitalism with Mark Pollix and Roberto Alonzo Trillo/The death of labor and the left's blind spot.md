@@ -22,4 +22,20 @@ Also connects to what Lovink says in [[Copium Compendium - How do you cope in th
 
 And the [[Right-wing aesthetics vs left-wing reality]] argument gets more complicated here. The left focuses on reality -- real labor, real wages, real conditions. But if reality has shifted, if the real value creation has floated up into abstract financial space, then the left's attachment to material reality is also a kind of blindness. Not because material conditions don't matter (they do, people are suffering), but because the power to change those conditions no longer lives at that scale.
 
-Connects to: [[Debating techno-feudalism]], [[Copium Compendium - How do you cope in this digital age]], [[Right-wing aesthetics vs left-wing reality]], [[Hyperpolitics]], [[The collapse of offstage space]]
+---
+
+## Labor as incalculable, slavery as the only option, and maybe not
+
+There's a possible connection to the [[AGI's natural enemy|calculable vs incalculable]] thing. In exocapitalism, the calculable part of labor -- the rate, the wage, the hours, the output -- is what the system used. That was the number it needed. But there was always an incalculable part attached: the exhaustion, the dignity, what it does to your body over years, the fact that it's your life. The system tolerated the incalculable part because it needed the calculable part.
+
+Now it doesn't. Capital can generate volatility through algorithms, financial instruments, time itself. Your body was the original volatility engine. Now there are better ones. So you're not exploited in the Marxist sense anymore -- you're just irrelevant. And that might be worse. Exploitation at least meant you mattered to the machine. Irrelevance means it doesn't even need your number anymore. The system took the number and left the person. That's lift.
+
+But we still need to physically and socially reproduce. People still need to eat, build, care, make things. And we know we have to keep generating these things for humans to survive. The problem is we can't attach any real value or price to this labor anymore because the system has floated above it. Mark and Roberto say in the podcast that the only solution we really have left at this scale is slavery. Labor at no cost, because the cost can't compete with what capital generates at higher layers.
+
+I think they're right about the diagnosis but I don't think that has to be the endpoint. Maybe there's something in the idea of incalculable value as a reward for labor. Not wages. Not a number. But something that can't be extracted from you -- the meaning of the work itself, the connection it creates, what it returns to you as a person. Labor that is its own reward because the reward is incalculable and therefore can't be lifted away by the system.
+
+Or maybe we need to turn the word slavery around. Not in a way that excuses it, but in a way that says: we know this labor doesn't generate capital-level value. We know the system doesn't need it. But we need it. We need it for each other. And doing it anyway, knowing it's "worthless" in the system's eyes, is a kind of refusal. You do it because it matters to you and to the person next to you. Not because it pays. The system can't eat that. It's incalculable.
+
+I'm still thinking this through. It might fall apart. But there's something in the idea that the incalculable is not just AGI's natural enemy -- it might also be the only ground left for labor that isn't slavery.
+
+Connects to: [[Debating techno-feudalism]], [[Copium Compendium - How do you cope in this digital age]], [[Right-wing aesthetics vs left-wing reality]], [[Hyperpolitics]], [[The collapse of offstage space]], [[AGI's natural enemy]], [[Art in Exocapitalist systems]]
