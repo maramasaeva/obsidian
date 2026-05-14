@@ -1,35 +1,43 @@
 
 
-Status: #baby
+Status: #growing
 
-Tags: [[queer loops]], [[cognitive safety]]
+Tags: [[queer loops]], [[cognitive safety]], [[platform capitalism]], [[art]], [[3 - Tags/isolation]]
 
 Source: Doomscroll podcast, April 22 2026. Joshua Citarella interviewing Natalie Wynn (ContraPoints). https://www.youtube.com/watch?v=DWBWebX63Vs
 
-Full ep is 3h21m. Listening up to ~10:29 for now.
+Full ep is 3h21m (part 2 is Patreon-only, starts at ~2:29:00).
 
-Timestamps from description:
-- 0:00 Intro
-- 0:39 Left vs right online politics
-- 9:03 Trans issues & democracy
-- 14:20 Brandolini's law vs deradicalization
-- 26:53 Debate & algorithms
-- 35:27 Breadtube vs academia
-- 42:46 Post-modern conservatives
-- 47:33 Saw movies: morality & sadism
-- 55:35 Luigi vs justice
-- 59:39 Tarantino & ultra-violence
-- 1:08:32 Power vs the left
-- 1:13:15 Daddy vs mommy politics
-- 1:21:48 Young men & elections
-- 1:33:01 URL vs IRL
-- 1:40:13 Epstein files
-- 1:46:49 Elevatorgate & pipelines
-- 1:53:01 Left vs liberal
-- 2:05:41 Right vs populist
-- 2:13:32 Enlightenment & Marxism
-- 2:19:45 Rightward drift & creators
-- 2:27:06 Audience & influences
+---
+
+## Chapter index
+
+| Timestamp | Topic | Note |
+|-----------|-------|------|
+| 0:00 | Intro | |
+| 0:39 | Left vs right online politics | asymmetry of resources, Joe Rogan question |
+| 4:43 | Tall poppy syndrome on the left | [[The tall poppy and the parasocial turn]] |
+| 9:03 | Trans issues & democracy | left should stop talking about trans issues publicly |
+| 14:20 | Brandolini's law vs deradicalization | [[Deradicalization happens offline]] |
+| 26:53 | Debate & algorithms | Section 230, algorithmic recommendation |
+| 35:27 | Breadtube vs academia | ContraPoints dropping PhD for YouTube |
+| 38:39 | Mark Fisher mention | slow cancellation of the future |
+| 42:46 | Post-modern conservatives | [[Fascism as aestheticization of politics]] |
+| 47:33 | Saw movies: morality & sadism | Freud, contrapasso, punishment as spectacle |
+| 55:35 | Luigi vs justice | vigilante justice, social media as public execution |
+| 59:39 | Tarantino & ultra-violence | victimhood narratives, Israel/Gaza |
+| 1:08:32 | Power vs the left | left embraces hopeless causes, oppositional identity |
+| 1:13:15 | Daddy vs mommy politics | [[Daddy politics and the libidinal unconscious]] |
+| 1:21:48 | Young men & elections | looksmaxing, loneliness, men experiencing what women always had |
+| 1:33:01 | URL vs IRL | consuming media is not practice |
+| 1:40:13 | Epstein files | [[Conspiracy as dream, not fact]] |
+| 1:46:49 | Elevatorgate & pipelines | atheist-to-alt-right pipeline, Gamergate precursor |
+| 1:53:01 | Left vs liberal | tribal identity, left pushback on own fringe |
+| 2:05:41 | Right vs populist | [[The collapse of offstage space]] |
+| 2:13:32 | Enlightenment & Marxism | crisis of institutions, might makes right |
+| 2:19:45 | Rightward drift & creators | online fame derangement, JK Rowling spiral |
+| 2:27:06 | Audience & influences | Zizek, Freud, psychoanalysis, critical theory |
+| 2:29:00 | Part 2 (Patreon) | ContraPoints origin story, philosophy, future plans |
 
 ---
 
@@ -49,7 +57,7 @@ Timestamps from description:
 
 [02:53] The reason that Joe Rogan is so successful is there's this kind of like front of like, I'll just talk to anyone and everyone is welcome and in practice that's not really true because he doesn't really have very much in the way of like, I don't think there's ever been a trans person on Joe Rogan, except maybe Blair White, a conservative, reactionary trans person. There's an ideological strain to the particular type of guest.
 
-[03:25] But I also think that the right is so talented, it kind of in a soft kind of way, they love bomb. I've experienced it myself when in periods, every few months, some large faction of the online left decides that I am the villain of the month. And when that happens, I often am reached out to by people on the right, like, hey, I see what's happening to you on Twitter, that's really horrible what they're saying to you. Like, do you want to come on my podcast sometime? That's kind of their recruitment method — they exploit the divisiveness and the vitriol of leftist spaces to lure people out.
+[03:25] But I also think that the right is so talented, it kind of in a soft kind of way, they love bomb. I've experienced it myself when in periods, every few months, some large faction of the online left decides that I am the villain of the month. And when that happens, I often am reached out to by people on the right, like, hey, I see what's happening to you on Twitter, that's really horrible what they're saying to you. Like, do you want to come on my podcast sometime? That's kind of their recruitment method -- they exploit the divisiveness and the vitriol of leftist spaces to lure people out.
 
 [04:43] There is a genuine tall poppy syndrome on the left. If you rise to a certain level of prominence, the left turns on you. Part of that is the same hipster mindset that leads leftists to turn on a politician who gets elected. It's like, well, now you're the establishment.
 
@@ -73,10 +81,36 @@ Timestamps from description:
 
 ---
 
-## My thoughts
+## Key threads across the full episode
 
-[to add — parking this here, will come back after listening to more]
+**The asymmetry problem**: The right has institutional money, narrative simplicity, aesthetic power, and loyalty to daddy. The left has structural analysis, moral purity demands, internal cannibalism, and no offstage space. This is not a fair fight.
+
+**Radicalization is three things**: social disconnection + economic stagnation + radicalizing media. ContraPoints and Citarella independently arrived at the same formula. It's boring because it's true.
+
+**The performance trap**: Social media makes all political thinking public. You can't try wrong ideas, change your mind, or strategize without an audience. The left has forgotten 100 years of socialist practice by internalizing the transparency values of Silicon Valley.
+
+**Conspiracy as displaced class consciousness**: Conspiracy populism speaks in the language of plots, good vs evil. It's intuitive. Class analysis requires effort. The left fact-checks. The right tells stories. Dream-analyzing conspiracy would be more productive than debunking it.
+
+**Creator evolution as case study**: ContraPoints's trajectory from deradicalization content to confessional trans vlogs to politics-through-film-analysis mirrors the broader question: how do you do political work in an attention economy that punishes complexity?
 
 ---
 
-Connects to: [[queer loops]], [[cognitive safety]], [[plzdontkillus application - April 2026]]
+## My thoughts
+
+The thing that sticks with me most is the offstage space argument. The left can't think because it can't stop performing. Every conversation is public. Every position is a performance. And thinking -- real thinking -- requires the freedom to be wrong, to go too far, to try something and walk it back. The platform takes that away.
+
+This is also why my own work keeps happening in notes and in private videos before it becomes public. The Obsidian vault is my offstage space. The notes are where I think. The videos are where I perform the thinking. If I had to do all of this on Twitter, I'd never get anywhere. I'd just be defending myself.
+
+ContraPoints saying she does politics through Twilight now -- that's the same instinct. Don't announce your politics. Smuggle them in through something people already care about. The Trojan horse. I think that's what the short videos should be too. Not "here's my leftist position" but "here's this thing I noticed, isn't it strange."
+
+---
+
+Connects to: [[queer loops]], [[cognitive safety]], [[plzdontkillus application - April 2026]], [[Hyperpolitics]], [[Right-wing aesthetics vs left-wing reality]]
+
+Sub-notes:
+- [[Deradicalization happens offline]]
+- [[Fascism as aestheticization of politics]]
+- [[The collapse of offstage space]]
+- [[Daddy politics and the libidinal unconscious]]
+- [[Conspiracy as dream, not fact]]
+- [[The tall poppy and the parasocial turn]]
