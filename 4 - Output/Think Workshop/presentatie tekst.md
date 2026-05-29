@@ -61,9 +61,9 @@ oké. leg je telefoon weg. die heb je voor de rest van vandaag niet meer nodig.
 
 *[wacht. kijk of iedereen het doet. wees chill maar duidelijk.]*
 
-ik ben mara. ik bouw elke dag met kunstmatige intelligentie. ik ben 24, ik ben queer, ik werk voor een tech-bedrijf. en ik zit hier vandaag niet om jullie de les te lezen over jullie telefoon — want mijn schermtijd is net zo fucked als die van jullie.
+ik ben mara. ik ben 24, ik ben queer, en ik werk in kunstmatige intelligentie. ik bouw er letterlijk elke dag mee. ik bouw tools, ik werk met modellen, ik zit in die wereld. en ik zit hier vandaag niet om jullie de les te lezen over jullie telefoon — want mijn schermtijd is net zo fucked als die van jullie. ik heb hetzelfde probleem. ik weet hoe het werkt, ik weet wat het doet, en ik kan er toch niet mee stoppen. en ik denk dat dat iets zegt.
 
-ik zit hier omdat ik iets aan het zien ben dat me bang maakt. en ik denk dat jullie het ook zien.
+maar de reden dat ik hier sta is dat ik iets aan het zien ben dat me echt bang maakt. ik zie het bij mezelf — mijn concentratie is slechter dan drie jaar geleden, ik kan minder lang lezen, ik grijp naar mijn telefoon zonder na te denken. en ik zie het bij iedereen om me heen. en ik wil dat we daar samen naar kijken. niet vanuit een les, maar als gesprek. want ik denk dat jullie het ook voelen. jullie praten er misschien niet zo over, maar ik denk dat jullie weten dat er iets mis is.
 
 ---
 
@@ -93,7 +93,9 @@ mijn antwoord: tanden poetsen. *[lach]* maar eerlijk? daarvoor scroll ik nog een
 
 en het eerste dat je doet als je wakker wordt?
 
-bij mij is het X checken. nog voor ik opsta. nog voor ik water drink. telefoon.
+bij mij is het X checken. nog voor ik opsta. nog voor ik water drink of naar het toilet ga. ik lig nog in bed en mijn duim scrollt al. en ik weet dat het niet goed is. ik weet het. maar het is zo automatisch dat het voelt alsof het geen keuze meer is. het is alsof mijn hand het zelf doet.
+
+en dan merk ik dat ik al tien minuten lig te scrollen door dingen die ik morgen vergeten ben, en mijn dag is al begonnen met het gevoel dat ik achterloop. dat ik iets gemist heb. terwijl er niks te missen was.
 
 *[neem antwoorden. weer: bijna alles zal telefoon zijn.]*
 
@@ -115,7 +117,9 @@ en dat is raar toch? want als je erover nadenkt — je beste ideeën komen altij
 
 begin je ooit aan een video en voor die gedaan is denk je al: volgende? of je opent TikTok en 45 minuten later weet je niet meer wat je gezien hebt?
 
-ja. constant. ik kijk een video van twee minuten en halverwege denk ik al: is er iets beters?
+ja. constant. ik kijk een video van twee minuten en halverwege denk ik al: is er iets beters? en soms open ik TikTok of youtube shorts en dan is het letterlijk 45 minuten later en ik kan je niet vertellen wat ik gezien heb. het is gewoon... weg. die tijd is weg en ik heb er niks aan overgehouden. het is alsof je een maaltijd eet maar je bent daarna nog steeds hongerig. je hebt wel gegeten maar er zat niks in.
+
+en het rare is — ik merk het terwijl het gebeurt. ik denk: ik zit nu al een halfuur te scrollen en ik wil stoppen. maar ik doe het niet. alsof er een deel van je brein is dat weet dat het genoeg is, en een ander deel dat gewoon doorscrollt. en dat tweede deel wint bijna altijd.
 
 *[bijna iedereen herkent dit. het kan licht en grappig zijn — het punt hoeft niet zwaar te landen, het moet gewoon benoemd worden.]*
 
@@ -161,11 +165,13 @@ maar kijk — ik sta hier. ik ben er wél iets aan aan het doen. en dat is het p
 
 *[dit is het scharnierpunt van act II. maak het rustig.]*
 
-oké. kijk naar jullie antwoorden.
+oké. kijk naar jullie antwoorden. kijk er echt naar.
 
-slaap — telefoon. wakker worden — telefoon. verveling — telefoon. hobby's kwijt — telefoon nam de plek in. vergelijken — telefoon. machteloos — telefoon.
+slaap — telefoon. wakker worden — telefoon. verveling — telefoon. hobby's kwijt — de telefoon nam die plek in. vergelijken met anderen — telefoon. machteloos voelen — telefoon.
 
-hij zit overal. in elk antwoord. en niemand heeft dat zo gekozen. niemand van jullie heeft gezegd: ik wil dat mijn telefoon het middelpunt van mijn hele leven wordt. het is gewoon... gebeurd.
+hij zit in elk antwoord. letterlijk elk antwoord. en het ding is — niemand van jullie heeft dat ooit zo besloten. niemand heeft ooit gezegd: ik wil dat mijn telefoon het middelpunt van mijn hele leven wordt. ik wil dat het het eerste is wat ik 's ochtends doe en het laatste voor ik slaap. ik wil dat het de plek inneemt van mijn hobby's en mijn concentratie en mijn rust. dat heeft niemand gekozen. het is gewoon... gebeurd. langzaam, onzichtbaar, elke dag een klein beetje meer. en nu zit het overal.
+
+en ik heb hetzelfde. dit is niet iets dat ik van buitenaf zeg. ik kijk naar mijn eigen antwoorden en ze zijn hetzelfde als die van jullie. ik ben hier niet als iemand die het opgelost heeft. ik ben hier als iemand die in hetzelfde probleem zit en weigert om te doen alsof dat normaal is.
 
 ### "is dit wat je wil?"
 
@@ -181,9 +187,11 @@ hij zit overal. in elk antwoord. en niemand heeft dat zo gekozen. niemand van ju
 
 *[slide: "dit is niet jullie schuld. het is een ontwerp."]*
 
-ik wil iets heel duidelijks zeggen: dit is niet jullie schuld. dit is geen gebrek aan discipline. dit is geen zwakte. dit is een ontwerp.
+ik wil iets heel duidelijks zeggen, en ik wil dat jullie dit onthouden: dit is niet jullie schuld. dit is geen gebrek aan discipline. dit is geen zwakte. dit is geen "ik moet gewoon meer wilskracht hebben." dit is een ontwerp.
 
-de apps die jullie elke dag gebruiken zijn gemaakt door teams van ingenieurs en psychologen wiens *enige doel* is om jullie zo lang mogelijk op het scherm te houden. elke scroll, elke notificatie, elke autoplay — dat is geen toeval. dat is design.
+de apps die jullie elke dag gebruiken — TikTok, instagram, snapchat, youtube — zijn gemaakt door teams van honderden ingenieurs, psychologen, en designers. en hun enige doel, hun letterlijk enige KPI, is: hoelang houden we deze persoon op het scherm. dat is alles wat telt. niet of je er blij van wordt. niet of je er iets van leert. niet of je daarna beter slaapt. gewoon: hoe houden we ze hier.
+
+elke scroll, elke notificatie, elke autoplay, elke "voor jou" pagina, dat "misschien vind je dit ook leuk" — dat is geen toeval. dat zijn features die specifiek ontworpen zijn om het moeilijker te maken om te stoppen. je vecht niet tegen jezelf. je vecht tegen een systeem dat gebouwd is door mensen die slimmer zijn dan jij en ik samen, met miljarden euro's budget, wiens hele business model is dat jij niet kan stoppen met scrollen. en dan zeggen ze: ja maar het is jouw keuze. nee. het is niet jouw keuze als het systeem zo gebouwd is dat stoppen het moeilijkste is dat je kan doen.
 
 ### aandachtscijfers
 
@@ -211,7 +219,7 @@ dit is hoe het werkt. elke scroll geeft je een kleine kick. een beetje dopamine.
 
 maar je brein is slim. het compenseert. het zakt onder je basislijn. na een tijdje heb je meer scrolling nodig om je gewoon normaal te voelen. het dagelijkse leven — een boek lezen, een les volgen, een gesprek voeren — begint plat te voelen. saai. niet genoeg.
 
-dat ben jij niet die kapot is. dat is het ontwerp dat precies doet wat het moet doen.
+dat ben jij niet die kapot is. dat is het ontwerp dat precies doet wat het moet doen. en het is niet dat iédereen dit heeft, dit type verslaving, dat het gewoon oke is. de meeste zaken waaraan we verslaafd kunnen raken zijn verboden of gelimiteerd omdat ze een negatief effect hebben op onze gezondheid. hetzelfde geldt voor je telefoon, scrollen, maar dat kan niemand van jullie afpakken, omdat het zo hard in onze sociale infrastructuur gebakken zit, en omdat mensen er gewoon zoveel geld mee verdienen. 
 
 ### de meta-analyse
 
@@ -255,23 +263,27 @@ jullie weten al dat er iets mis is. jullie zeggen het zelf. de vraag is niet *of
 
 *[slide: "het gaat niet alleen over jou."]*
 
-oké. nu wordt het groter.
+oké. nu wordt het groter. want tot nu toe ging het over jullie — jullie schermtijd, jullie aandacht, jullie brein. maar er is nog iets. en dit is het stuk waar het voor mij echt persoonlijk wordt, want dit is waar ik elke dag mee werk.
 
 *[slide: "alles wat je online zet wordt trainingsdata voor AI."]*
 
-alles wat je online zet — elke post, elke meme, elke comment, elk kunstwerk, elke rant — wordt opgegeten door kunstmatige intelligentie. AI leert van ons. het leest wat wij schrijven. het kijkt wat wij maken. het absorbeert onze waarden, onze angsten, onze creativiteit, onze wanhoop.
+alles wat je online zet — elke post, elke meme, elke comment, elk kunstwerk, elke rant, elke foto, elke DM die een platform kan lezen — wordt opgegeten door kunstmatige intelligentie. letterlijk. AI-systemen worden getraind op menselijke data. op tekst die wij geschreven hebben, op beelden die wij gemaakt hebben, op gesprekken die wij gevoerd hebben. het leert van ons. het leest wat wij schrijven. het kijkt wat wij maken. het absorbeert onze waarden, onze angsten, onze creativiteit, onze wanhoop. alles.
 
-wij zijn de trainingsdata. letterlijk. jullie data — wat je post, wat je liket, wat je scrollt — dat is wat de AI van morgen leert over wat het betekent om mens te zijn.
+en ik bedoel niet "in de toekomst" of "misschien." dit is nu. dit is al jaren bezig. ChatGPT, Claude, Gemini, alle AI-systemen die jullie kennen — die zijn getraind op wat wij als mensheid online hebben gezet. en dat stopt niet. elk model dat hierna komt, wordt getraind op wat wij nu produceren. op wat jullie vandaag posten.
+
+dus: wij zijn de trainingsdata. letterlijk. wat je post, wat je liket, wat je scrollt, hoe lang je ergens naar kijkt — dat is wat de AI van morgen leert over wat het betekent om mens te zijn. en dat is een verantwoordelijkheid die niemand jullie ooit verteld heeft dat jullie hebben.
 
 ### twee kolommen
 
 *[slide: doom vs. creatie — twee kolommen]*
 
-dus: als we het voeden met doom, cynisme, rage-bait, en korte nietsigheid — dan is dat de intelligentie die we bouwen. een AI die denkt dat mens-zijn draait om negativiteit en apathie.
+dus denk daar even over na. als het meeste wat wij als generatie produceren doom is, cynisme, rage-bait, korte nietsigheid — als dat de bulk is van wat we online zetten — dan is dat de intelligentie die we bouwen. dan bouw je een AI die denkt dat mens-zijn draait om negativiteit, apathie, en eindeloos door dingen scrollen zonder ergens om te geven. want dat is wat het gezien heeft. dat is het beeld van de mensheid dat wij het geven.
 
-maar als we het voeden met kunst, met echt nadenken, met echt gevoel, met dingen die ertoe doen — dan vormen we iets anders.
+maar als we het voeden met kunst. met echt nadenken. met echt gevoel. met dingen die ertoe doen, dingen die we met zorg gemaakt hebben. dan vormen we iets anders. dan leert het iets anders over wie wij zijn.
 
-dit is wat *value alignment* heet in de AI-wereld. en het is niet alleen een probleem voor ingenieurs in een lab. het is een probleem voor iedereen die iets maakt. want wat jij maakt is wat de AI eet.
+en dit is waar het echt interessant wordt. in de AI-wereld heet dit *value alignment* — ervoor zorgen dat de waarden van een AI overeenkomen met de waarden van de mensheid. en iedereen behandelt dat als een technisch probleem. alsof ingenieurs in een lab het moeten oplossen. maar dat is het niet. het is een cultureel probleem. want de waarden van de AI komen uit de data. en de data zijn wij. wat wij maken is wat het eet. wat wij consumeren bepaalt wat er geproduceerd wordt. en wat er geproduceerd wordt is wat de AI leert.
+
+dus als je denkt "ik ben maar een tiener, wat maakt het uit wat ik post" — het maakt heel veel uit. alles wat je maakt, of niet maakt, vormt letterlijk de intelligentie die na ons komt. en dat is iets dat niemand jullie vertelt. maar het is waar.
 
 ### wat voor AI?
 
@@ -299,23 +311,27 @@ herkennen jullie jezelf hierin? of mist het iets?
 
 *[laat ze reageren.]*
 
-wat het mist is precies het punt. de AI maakte een profiel van jullie. het klopte een beetje. maar het miste alles wat er echt toe doet — jullie humor, jullie angsten, jullie dromen, de reden waarom die ene hobby zo belangrijk was.
+wat het mist is precies het punt. de AI maakte een profiel van jullie. en het klopte een beetje — het zag patronen, het zag thema's. maar het miste alles wat er echt toe doet. het miste jullie humor. het miste de manier waarop die ene persoon daar net iets zei en de hele kamer begon te lachen. het miste waarom die hobby zo belangrijk was — niet *dat* je tekende maar hoe het *voelde* om te tekenen. het miste de stilte in dat antwoord over eenzaamheid. het zag de woorden maar het voelde niks.
 
-dat is wat er gebeurt als je leven data wordt. het berekenbare vervangt het onberekenbare. en alles wat ertoe doet — liefde, betekenis, creatie — is onberekenbaar.
+en daar zit iets waar ik heel veel over nadenk. er is dit idee van een denker genaamd geert lovink — het berekenbare versus het onberekenbare. het berekenbare is alles wat het systeem in data kan veranderen. je klikken, je schermtijd, je locatie, je hartslag. dat kan het allemaal verwerken. maar er zijn dingen die je niet in data kan veranderen zonder ze te doden. wat een liedje met je doet. de stilte tussen twee mensen. waarom je van iemand houdt — niet de data van van-iemand-houden, niet de berichten en de foto's en de locatie-pings, maar de echte liefde. je probeert dat te kwantificeren en je krijgt een volgersaantal. een nummer. en dat nummer betekent eigenlijk dat de liefde, de vriendschap, dood is nu je het een getal gemaakt hebt.
+
+dat is wat er gebeurt als je leven data wordt. het berekenbare vervangt het onberekenbare. en alles wat ertoe doet — liefde, betekenis, iets maken voor niks, ergens om geven zonder reden — dat is onberekenbaar. dat is waar we echt leven. of waar we zouden kunnen leven, als we stopten met alles in te leveren.
 
 ### AI en denken
 
 *[slide: "betere output" vs. "slechter denken"]*
 
-en dan is er nog dit. er was een studie van MIT vorig jaar. studenten die essays schreven met AI kregen betere scores. maar hun hersenactiviteit was de laagste van alle groepen.
+en dan is er nog dit, en dit is iets waar ik dagelijks mee worstel in mijn werk. er was een studie van MIT vorig jaar. ze lieten studenten essays schrijven — sommigen met AI, sommigen zonder. de essays die met AI geschreven waren scoorden hoger. betere structuur, betere argumenten, beter taalgebruik. maar — en dit is het punt — de hersenactiviteit van de studenten die AI gebruikten was de laagste van alle groepen.
 
 betere output. slechter brein.
 
-je krijgt een beter essay. maar je leert niks. je brein doet niks. en een brein dat niks doet, vergeet hoe het moet.
+dus je krijgt een beter essay. maar je hebt niks geleerd. je brein heeft niks gedaan. het heeft de opdracht doorgestuurd naar een machine en het resultaat gekopieerd. en een brein dat niks doet, dat vergeet hoe het moet. dat is hoe spieren werken — als je ze niet gebruikt, verdwijnen ze. en je brein is een spier.
+
+en ik zeg dit niet als iemand die anti-AI is. ik werk in AI. ik gebruik het elke dag. maar er is een verschil — en dit is echt belangrijk — er is een verschil tussen een tool gebruiken om *beter* te denken, en een tool gebruiken om *niet meer te hoeven* denken. een rekenmachine helpt je sneller rekenen. maar als je nooit geleerd hebt hoe vermenigvuldigen werkt, helpt die rekenmachine je niet — dan ben je afhankelijk. en dat is wat er gebeurt met AI en denken.
 
 *[slide: "als je het niet zonder AI kan, heb je het niet geleerd."]*
 
-als je het niet zonder AI kan, heb je het niet geleerd. je hebt het uitbesteed. en er is een verschil tussen een tool gebruiken om beter te denken en een tool gebruiken om niet meer te hoeven denken.
+als je je essay niet zonder AI kan schrijven, heb je het niet geleerd. je hebt het uitbesteed. en dat is oké als je weet wat je aan het doen bent. maar als je 15 bent en je brein is nog aan het groeien en je besteedt je denken uit aan een machine — dan groei je niet. dan train je jezelf om niet te denken. en dat is eng. dat zou ons allemaal bang moeten maken.
 
 ---
 
@@ -325,13 +341,15 @@ als je het niet zonder AI kan, heb je het niet geleerd. je hebt het uitbesteed. 
 
 *[slide: "je hoeft niet te stoppen met consumeren. maar het zou long-form moeten zijn."]*
 
-oké, genoeg slecht nieuws. laten we het over oplossingen hebben.
+oké, genoeg slecht nieuws. want ik wil niet dat jullie hier weggaan met het gevoel dat alles fucked is en er niks aan te doen valt. dat is doom-scrolling-energie en daar hebben we al genoeg van. laten we het over oplossingen hebben.
 
-je hoeft niet te stoppen met consumeren. dat is niet realistisch en dat vraag ik niet. maar het zou long-form moeten zijn.
+en het eerste dat ik wil zeggen is: je hoeft niet te stoppen met consumeren. ik ga jullie niet vragen om je telefoon weg te gooien of geen internet meer te gebruiken. dat is niet realistisch en dat is ook niet het punt. het punt is *wat* je consumeert.
 
-lees een boek. kijk een hele documentaire. luister een album van voor tot achter. zit een les uit en let écht op. dat klinkt saai maar dat gevoel van saaiheid — dát is precies het probleem. je brein is zo gewend aan korte kicks dat iets wat langer dan twee minuten duurt al moeilijk voelt.
+want er is een verschil tussen lang en kort. en dat verschil is alles. een boek lezen — een heel boek, van voor tot achter. een documentaire kijken zonder tussendoor iets anders te openen. een album luisteren, niet op shuffle, maar van begin tot eind zoals de artiest het bedoeld heeft. een les volgen en écht opletten, niet met een half oog op je telefoon.
 
-lange content traint je brein. het bouwt de spier op waarmee je kan nadenken, creëren, ergens bij blijven. korte content breekt die spier af.
+dat klinkt saai. ik weet het. en dat gevoel van saaiheid — dát is precies het probleem. jullie brein is zo gewend geraakt aan korte kicks, aan die constante stroom van nieuwe prikkels, dat iets wat langer dan twee of drie minuten duurt al aanvoelt als te veel. te langzaam. niet genoeg. maar dat gevoel is niet de realiteit. dat gevoel is het bewijs dat je brein veranderd is.
+
+lange content traint je brein. het bouwt de spier op waarmee je kan nadenken, creëren, ergens bij blijven, je concentreren op iets dat moeilijk is. korte content breekt die spier af. elke keer. een beetje meer.
 
 ### de quote
 
@@ -385,11 +403,13 @@ en jij? heb jij een ding? iets waar je je tijd in stopt — niet omdat het moet,
 
 *[slide: "wat is jouw ding? wat zou je doen met een extra uur per dag?"]*
 
-wat zou je doen met een extra uur per dag? niet wat je zou moeten doen — wat zou je *willen* doen?
+wat zou je doen met een extra uur per dag? en ik bedoel niet: wat zou je moeten doen. niet huiswerk, niet productief zijn. wat zou je *willen* doen? als je een uur had dat van niks was, dat je niet hoefde te verantwoorden — wat zou je ermee doen?
 
-*[laat ze antwoorden. typ ze in. sommige antwoorden zullen klein zijn ("slapen"), sommige verrassend ("ik wil leren naaien"). laat alles toe.]*
+*[laat ze antwoorden. typ ze in. sommige antwoorden zullen klein zijn ("slapen"), sommige verrassend ("ik wil leren naaien"), sommige grappig. laat alles toe. lach mee. er zijn geen foute antwoorden.]*
 
-ergens in jullie zit een ding. muziek, tekenen, schrijven, skaten, coderen, koken, een taal leren, een sport, een raar project dat je nog nooit aan iemand verteld hebt. en de platforms eten de tijd op die dat ding nodig heeft om te groeien.
+kijk naar die antwoorden. ergens in jullie allemaal zit een ding. iets eigens. muziek, tekenen, schrijven, skaten, coderen, koken, een taal leren, een sport, een raar project dat je nog nooit aan iemand verteld hebt. en dat ding — dat heeft tijd nodig om te groeien. het heeft aandacht nodig. het heeft die momenten nodig waarop je niks beters te doen hebt en je brein begint te spelen. en die momenten worden opgegeten door de platforms. niet omdat je dat gekozen hebt, maar omdat het systeem zo werkt.
+
+underscores had ook gewoon een tiener kunnen zijn die de hele dag op haar telefoon zat. in plaats daarvan begon ze tracks te maken. niet perfecte tracks. gewoon tracks. en nu heeft ze een album dat de wereld over gaat. het verschil is niet talent. het verschil is waar ze haar tijd in stopte.
 
 ### de uitdaging
 
