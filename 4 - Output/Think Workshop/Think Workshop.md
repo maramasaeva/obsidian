@@ -182,6 +182,17 @@ technically: host on vercel, minimal — a form, a feed, maybe a class code to g
 
 this is NOT a dopamine detox (jordi calls that "mostly bullcrap"). it's about experiencing the difference, noticing what you reach for, and discovering what you actually want to do with your time.
 
+### 7b. optional: watch "The AI Doc" together
+
+*The AI Doc: Or How I Became an Apocaloptimist* — a documentary about where AI is going and what it means for us. relevant because it gives the "bigger picture" context that the workshop opens up but can't fully cover in 90 minutes.
+
+**how to use it:**
+- **option A:** separate session during lunch break — mara watches with the students, discusses after. more intimate, voluntary, self-selecting for the kids who actually want to go deeper.
+- **option B:** teacher shows it in class as follow-up to the workshop. works if the teacher is on board and wants to continue the conversation. mara provides a short discussion guide.
+- **option C:** homework / watch at home. weakest version but lowest barrier. pair with a simple prompt: *"what did this change about how you think about AI?"*
+
+this is not part of the 90-minute workshop itself — it's a follow-up resource. the workshop plants the seed; the documentary waters it.
+
 ### 8. the generational pitch: we do this together *(5 min)*
 
 **format:** mara talks directly. this is the emotional close before the practical.
