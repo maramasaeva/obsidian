@@ -146,23 +146,41 @@ the point: before the challenge, give them a *taste* of what their brain can act
 
 ### 7. the challenge: bewijs het *(10 min)*
 
-**format:** a dare, framed as a competition. not a lecture, not a "you should." a challenge: *if your phone is so harmless, prove you can go without it.*
+**format:** a dare that grows out of the conversation, not a slide that drops from the sky.
 
-this comes from jordi's insight: *"a way of saying oh, if it's so harmless why don't you try to go without it and see what happens, can't you do it or what?"* the difficulty of abstaining IS the evidence. you don't need to convince them with arguments — the discomfort convinces them.
+mara asks: *who here thinks they could go a whole day without their phone?* hands go up. some confident, some hesitant.
 
-**frame it as a competition. options they choose from:**
-- ⚡ **level 1:** wissel je telefoon met een vriend. zij bepaalt wat jij wel en niet kan openen.
-- ⚡⚡ **level 2:** geef je telefoon aan je leerkracht. de hele dag.
-- ⚡⚡⚡ **level 3:** zet hem helemaal uit. leg hem in je tas. niet kijken.
+then: *okay. let's actually do it. this weekend. one day. pick saturday or sunday. your phone is off.*
 
-their choice. their level. but the dare is public — the class knows who's doing what. that's the competitive pressure that makes it social instead of preachy.
+options:
+- **wissel met een vriend** — you swap phones. they control what you can access. social, fun, slightly chaotic.
+- **geef het aan mij** — mara holds their phone during the workshop as a symbolic start. (only works for the workshop day itself, but sets the tone.)
+- **zet hem uit. leg hem weg. niet kijken.** — the most powerful version. just you and the day.
 
-**after the challenge day:**
+the point is NOT abstinence. it's not about streaks or detox. it's about what they *do* with the time they get back. what happens when you're bored and there's no phone? what do you reach for instead? what do you notice? what do you make?
+
+**the tracking website — vibecoded, lightweight:**
+
+a simple site where workshop participants can:
+- put in their name
+- log each phone-free day
+- write what they did instead: created something, talked to someone, played a sport, read, went outside, got bored and sat with it
+- write what they're proud of
+- see what other people in their class did
+
+NOT a streak tracker. NOT a leaderboard of abstinence. it's a journal of *what you gained*. the competition is not "who can go longest without a phone" — it's "who discovered the coolest thing to do with their time."
+
+this reframes the whole challenge from *loss* (no phone) to *gain* (what you found instead). the website is a living document of what a class full of teenagers does when they stop scrolling.
+
+technically: host on vercel, minimal — a form, a feed, maybe a class code to group students. no auth complexity. vibecoded, not over-engineered.
+
+**after the challenge:**
 - was het makkelijk? dan is er geen probleem.
 - was het moeilijk? dat onrustige gevoel, die hand die naar iets zoekt dat er niet is — *dat is het bewijs dat je nodig had.*
-- now: what do you reintroduce, how, and with what limits? the conscious choice is the point, not permanent abstinence.
+- what did you do instead? that's the real answer. not "I survived without my phone" but "I drew something / I talked to my dad / I went running / I read for two hours and forgot to check the time."
+- now: what do you reintroduce, how, and with what limits? conscious choice, not permanent abstinence.
 
-this is NOT a dopamine detox (jordi calls that "mostly bullcrap"). it's about experiencing the difference between modes of attention, noticing the difficulty, and then making a *conscious choice* about how to reintroduce.
+this is NOT a dopamine detox (jordi calls that "mostly bullcrap"). it's about experiencing the difference, noticing what you reach for, and discovering what you actually want to do with your time.
 
 ### 8. the generational pitch: we do this together *(5 min)*
 
@@ -490,5 +508,5 @@ see `Research/` subfolder. key areas:
 - [ ] refine the 7 cognitive health rules — test them: are they concrete enough? memorable? would a 16-year-old repeat them?
 - [ ] design a one-page "mesh map" — visual version of the table above, for the government pitch
 - [ ] **design the deep thinking experiment (section 6)** — the hardest and most important part. what makes them experience sustained attention? options: claude code live collab, creative exercise without devices, something else entirely. needs to land in 10 minutes and feel different from everything else in their school day.
-- [ ] **design the challenge follow-up** — how do students report back after the phone-free day? a form? a group chat? sharing in next class? the competitive element needs a social feedback loop.
+- [ ] **vibecode the tracking website** — simple vercel site. class code, name input, daily log (what did you do instead? what are you proud of?), feed of classmates' entries. NOT a streak tracker — a gain tracker. keep it minimal. maybe next.js + a simple db (vercel postgres or even just json).
 - [ ] reply to @blankspaces_222 with what we're building — they might have more ideas, especially about making reading appealing to teens
