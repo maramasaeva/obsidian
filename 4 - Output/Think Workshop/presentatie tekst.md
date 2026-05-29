@@ -125,9 +125,13 @@ ja. constant. ik kijk een video van twee minuten en halverwege denk ik al: is er
 
 ben je ooit een hobby kwijtgeraakt? iets dat je vroeger graag deed — tekenen, muziek, schrijven, gamen, sporten — dat gewoon... stopte?
 
-ik tekende vroeger. veel. ik was er echt goed in. en op een gegeven moment is het gewoon verdwenen. ik heb er geen bewuste keuze in gemaakt. het is niet dat ik dacht: ik stop met tekenen. het ging gewoon weg. en ik wil er al jaren weer mee beginnen en het lukt maar niet.
+ik tekende vroeger. veel. ik was er echt goed in — kijk, dit is een schilderij van mij.
 
-*[dit is een kwetsbaar moment. laat het even zijn. sommige antwoorden zullen verrassend eerlijk zijn.]*
+*[laat het schilderij zien — op het scherm of op je telefoon rondgeven. laat hen even kijken. dit is kwetsbaar en dat is het punt.]*
+
+en op een gegeven moment is het gewoon verdwenen. ik heb er geen bewuste keuze in gemaakt. het is niet dat ik dacht: ik stop met tekenen. het ging gewoon weg. en ik wil er al jaren weer mee beginnen en het lukt maar niet. dit was iets van mij en ik ben het kwijtgeraakt.
+
+*[sommige antwoorden zullen verrassend eerlijk zijn. bescherm dat.]*
 
 was het een keuze? of nam iets anders die plek in?
 
@@ -361,6 +365,10 @@ dat is wat je brein kan als je het de kans geeft. dat gevoel — dat je ergens *
 
 oké, andere vraag. naar wie kijk jij op? welke artiesten, muzikanten, sporters, creators — wie inspireert je?
 
+ik ga weer eerst. ik kijk op naar underscores. kent iemand haar? *[handen. waarschijnlijk ja — U was overal dit jaar.]* zij is 25, bijna even oud als ik. ze is begonnen met dubstep uploaden op SoundCloud toen ze 13 was. jullie leeftijd. ze schrijft, produceert en mixt alles zelf. ze heeft haar hele carrière opgebouwd vanuit haar slaapkamer, op het internet, zonder platenlabel dat haar ontdekte. ze deed livestreams waar ze in real-time een track maakte van nul — gewoon zodat je kon zien hoe het werkt.
+
+dat is iemand die haar *tijd* ergens in stopte. niet in scrollen. in maken.
+
 *[neem namen aan, typ ze in.]*
 
 *[slide: "ze zijn allemaal gepassioneerd over iets."]*
@@ -368,6 +376,8 @@ oké, andere vraag. naar wie kijk jij op? welke artiesten, muzikanten, sporters,
 kijk naar die namen. wat hebben ze allemaal gemeen?
 
 ze zijn ergens gepassioneerd over. ze werken ergens voor. ze stoppen hun tijd en aandacht in iets waar ze om geven. hun kunst, hun sport, hun mening, hun ding.
+
+underscores was op jullie leeftijd al tracks aan het uploaden. niet perfecte tracks — gewoon tracks. ze begon. dat is het enige dat telt.
 
 en jij? heb jij een ding? iets waar je je tijd in stopt — niet omdat het moet, maar omdat je het wil?
 
