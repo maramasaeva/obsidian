@@ -1,0 +1,1145 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>think — messier</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/theme/black.css" id="theme">
+<style>
+  :root {
+    --bg: #111111;
+    --fg: #fafafa;
+    --muted: #b0b0b0;
+    --dim: #555;
+    --accent: #c8f060;
+    --pink: #ec4899;
+    --border: rgba(255,255,255,0.08);
+    --card-bg: #1a1a1a;
+    --input-bg: #1e1e1e;
+  }
+
+  .reveal-viewport { background: var(--bg); }
+
+  .noise {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 9999;
+    opacity: 0.04;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='1'/%3E%3C/svg%3E");
+    background-repeat: repeat;
+  }
+
+  .reveal {
+    font-family: 'DM Mono', monospace;
+    font-weight: 300;
+    color: var(--fg);
+    font-size: 28px;
+  }
+
+  .reveal h1, .reveal h2, .reveal h3 {
+    font-family: 'DM Mono', monospace;
+    font-weight: 400;
+    color: var(--fg);
+    text-transform: none;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+  }
+
+  .reveal h1 { font-size: 2.4em; }
+  .reveal h2 { font-size: 1.6em; }
+  .reveal h3 { font-size: 1.2em; color: var(--muted); }
+
+  .reveal p, .reveal li {
+    font-weight: 300;
+    line-height: 1.6;
+    color: var(--fg);
+  }
+
+  .reveal .dim { color: var(--dim); }
+  .reveal .muted { color: var(--muted); }
+  .reveal .accent { color: var(--accent); }
+  .reveal .pink { color: var(--pink); }
+  .reveal em { color: var(--accent); font-style: italic; }
+  .reveal strong { font-weight: 500; color: var(--fg); }
+  .reveal .terminal { color: var(--dim); font-size: 0.6em; font-weight: 300; }
+
+  .reveal .big-number {
+    font-size: 4em;
+    font-weight: 500;
+    color: var(--accent);
+    line-height: 1;
+    margin: 0.2em 0;
+  }
+
+  .reveal .big-number .unit {
+    font-size: 0.4em;
+    color: var(--muted);
+    font-weight: 300;
+  }
+
+  .reveal .question {
+    font-size: 1.3em;
+    font-style: italic;
+    color: var(--accent);
+    text-align: left;
+    max-width: 80%;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+
+  .reveal .card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.5em;
+    text-align: left;
+    margin: 0.5em 0;
+  }
+
+  .reveal .rule-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 0.8em 1.2em;
+    text-align: left;
+    margin: 0.6em auto;
+    max-width: 85%;
+  }
+
+  .reveal .rule-card .number {
+    color: var(--accent);
+    font-weight: 500;
+    margin-right: 0.5em;
+  }
+
+  .reveal .divider {
+    color: var(--dim);
+    font-size: 0.8em;
+    letter-spacing: 0.5em;
+    margin: 1em 0;
+  }
+
+  .reveal .stat-row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 1em 0;
+    flex-wrap: wrap;
+    gap: 1em;
+  }
+
+  .reveal .stat {
+    text-align: center;
+    flex: 1;
+    min-width: 150px;
+  }
+
+  .reveal .stat .num {
+    font-size: 2.5em;
+    font-weight: 500;
+    color: var(--accent);
+    line-height: 1.1;
+  }
+
+  .reveal .stat .label {
+    font-size: 0.6em;
+    color: var(--muted);
+    margin-top: 0.3em;
+  }
+
+  .reveal .tools-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.8em;
+    max-width: 85%;
+    margin: 1em auto;
+  }
+
+  .reveal .tool-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1em;
+    text-align: left;
+    font-size: 0.7em;
+  }
+
+  .reveal .tool-card .name {
+    color: var(--accent);
+    font-weight: 500;
+    font-size: 1.1em;
+    margin-bottom: 0.3em;
+  }
+
+  .reveal section { text-align: center; }
+
+  .reveal ul, .reveal ol {
+    text-align: left;
+    max-width: 80%;
+    margin: 0 auto;
+  }
+
+  .reveal li { margin-bottom: 0.5em; }
+  .reveal .left { text-align: left; max-width: 85%; margin: 0 auto; }
+
+  .reveal .decorative {
+    color: var(--dim);
+    font-size: 0.5em;
+    letter-spacing: 0.3em;
+  }
+
+  .reveal .slide-number {
+    font-family: 'DM Mono', monospace;
+    color: var(--dim);
+    font-size: 12px;
+  }
+
+  .reveal .progress span { background: var(--accent); }
+
+  .reveal .controls .navigate-left,
+  .reveal .controls .navigate-right,
+  .reveal .controls .navigate-up,
+  .reveal .controls .navigate-down { color: var(--muted); }
+
+  .reveal a { color: var(--accent); text-decoration: none; }
+  .reveal a:hover { color: var(--pink); }
+
+  .reveal .two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2em;
+    text-align: left;
+    max-width: 90%;
+    margin: 0 auto;
+  }
+
+  /* === INTERACTIVE === */
+  .answer-zone {
+    max-width: 85%;
+    margin: 1em auto 0;
+    text-align: left;
+  }
+
+  .answer-input-row {
+    display: flex;
+    gap: 0.5em;
+    margin-bottom: 0.8em;
+  }
+
+  .answer-input-row input {
+    flex: 1;
+    background: var(--input-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 0.5em 0.8em;
+    color: var(--fg);
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65em;
+    font-weight: 300;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .answer-input-row input:focus { border-color: var(--accent); }
+  .answer-input-row input::placeholder { color: var(--dim); }
+
+  .answer-input-row button {
+    background: var(--accent);
+    color: var(--bg);
+    border: none;
+    border-radius: 8px;
+    padding: 0.5em 1em;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65em;
+    font-weight: 500;
+    cursor: pointer;
+    transition: opacity 0.2s;
+  }
+
+  .answer-input-row button:hover { opacity: 0.8; }
+
+  .answer-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+    margin-top: 0.5em;
+  }
+
+  .answer-chip {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 0.3em 0.8em;
+    font-size: 0.6em;
+    color: var(--fg);
+    animation: chipIn 0.3s ease-out;
+  }
+
+  .answer-chip.mara-chip {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  @keyframes chipIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .mara-label {
+    font-size: 0.5em;
+    color: var(--dim);
+    margin-bottom: 0.3em;
+  }
+
+  /* screen time number input */
+  .screentime-zone {
+    max-width: 85%;
+    margin: 1em auto 0;
+  }
+
+  .screentime-input-row {
+    display: flex;
+    gap: 0.5em;
+    align-items: center;
+    margin-bottom: 0.5em;
+  }
+
+  .screentime-input-row input {
+    width: 100px;
+    background: var(--input-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 0.5em 0.8em;
+    color: var(--accent);
+    font-family: 'DM Mono', monospace;
+    font-size: 1.2em;
+    font-weight: 500;
+    outline: none;
+    text-align: center;
+    transition: border-color 0.2s;
+  }
+
+  .screentime-input-row input:focus { border-color: var(--accent); }
+  .screentime-input-row input::placeholder { color: var(--dim); font-size: 0.7em; }
+
+  .screentime-input-row .st-unit {
+    color: var(--muted);
+    font-size: 0.7em;
+  }
+
+  .screentime-input-row button {
+    background: var(--accent);
+    color: var(--bg);
+    border: none;
+    border-radius: 8px;
+    padding: 0.5em 1em;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65em;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .screentime-numbers {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+    margin-top: 0.8em;
+    justify-content: center;
+  }
+
+  .st-chip {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 0.3em 0.7em;
+    font-size: 0.9em;
+    font-weight: 500;
+    color: var(--accent);
+    animation: chipIn 0.3s ease-out;
+  }
+
+  .st-chip.high { color: var(--pink); border-color: var(--pink); }
+  .st-chip.mara { border-color: var(--accent); }
+
+  #st-average {
+    font-size: 1.5em;
+    font-weight: 500;
+    color: var(--accent);
+    margin-top: 0.8em;
+    min-height: 1.5em;
+  }
+
+  /* glitch */
+  .glitch { position: relative; }
+
+  .glitch::before,
+  .glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+  }
+
+  .glitch::before {
+    animation: glitch-1 2s infinite linear alternate-reverse;
+    clip-path: polygon(0 0, 100% 0, 100% 35%, 0 35%);
+    color: var(--pink);
+    opacity: 0.5;
+  }
+
+  .glitch::after {
+    animation: glitch-2 3s infinite linear alternate-reverse;
+    clip-path: polygon(0 65%, 100% 65%, 100% 100%, 0 100%);
+    color: var(--accent);
+    opacity: 0.5;
+  }
+
+  @keyframes glitch-1 {
+    0% { transform: translate(0); }
+    20% { transform: translate(-2px, 1px); }
+    40% { transform: translate(2px, -1px); }
+    60% { transform: translate(-1px, 2px); }
+    80% { transform: translate(1px, -2px); }
+    100% { transform: translate(0); }
+  }
+
+  @keyframes glitch-2 {
+    0% { transform: translate(0); }
+    25% { transform: translate(2px, -1px); }
+    50% { transform: translate(-2px, 1px); }
+    75% { transform: translate(1px, 2px); }
+    100% { transform: translate(0); }
+  }
+
+  /* act label */
+  .act-label {
+    color: var(--dim);
+    font-size: 0.45em;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    margin-bottom: 0.5em;
+  }
+
+  /* AI demo */
+  .ai-demo-box {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.5em;
+    text-align: left;
+    max-width: 85%;
+    margin: 1em auto;
+    font-size: 0.75em;
+    min-height: 120px;
+  }
+
+  .ai-demo-box .prompt-line {
+    color: var(--dim);
+    margin-bottom: 0.8em;
+  }
+
+  .ai-demo-box .prompt-line span {
+    color: var(--accent);
+  }
+
+  .ai-typing {
+    color: var(--muted);
+    font-style: italic;
+  }
+</style>
+</head>
+<body>
+<div class="noise"></div>
+
+<div class="reveal">
+<div class="slides">
+
+<!-- ========================================== -->
+<!-- TITEL                                      -->
+<!-- ========================================== -->
+<section>
+  <p class="decorative">⋆˙˖✧ ₊˚⊹</p>
+  <h1 class="glitch" data-text="think">think</h1>
+  <p class="muted">neem je tijd terug.</p>
+  <p class="divider">* * *</p>
+  <p class="terminal">mara masaeva — messier systems</p>
+</section>
+
+
+<!-- ========================================== -->
+<!-- ACT I — HET EXPERIMENT                     -->
+<!-- de kamer ontdekt zichzelf                  -->
+<!-- ========================================== -->
+<section>
+  <section>
+    <p class="act-label">act I</p>
+    <h2>pak je telefoon.</h2>
+    <p class="muted" style="margin-top:0.5em; font-size:0.8em;">nee echt. pak hem. nu.</p>
+  </section>
+
+  <section>
+    <div class="left">
+      <p>open je instellingen.</p>
+      <p style="margin-top:0.5em;">ga naar <em>schermtijd</em>.</p>
+      <p style="margin-top:0.5em;">wat is je dagelijks gemiddelde?</p>
+    </div>
+    <div class="screentime-zone" id="screentime">
+      <div class="screentime-input-row" style="justify-content:center;">
+        <input type="text" id="st-input" placeholder="3u40" onkeydown="if(event.key==='Enter')addScreenTime()">
+        <span class="st-unit">uur per dag</span>
+        <button onclick="addScreenTime()">+</button>
+      </div>
+      <div class="screentime-numbers" id="st-numbers">
+        <span class="st-chip mara">4u10 — mara</span>
+      </div>
+      <p id="st-average"></p>
+    </div>
+  </section>
+
+  <section>
+    <p class="muted" style="font-size:0.7em;">dat zijn per week</p>
+    <p class="big-number" id="weekly-number">29 <span class="unit">uur</span></p>
+    <p>van jullie leven. elke week. aan een scherm.</p>
+    <p class="muted" style="margin-top:1em; font-size:0.6em;">dat is meer dan een volledige dag. elke week.</p>
+  </section>
+
+  <section>
+    <p style="font-size:0.8em;" class="muted">nu leg je telefoon weg. die heb je niet meer nodig.</p>
+    <p class="divider" style="margin-top:1.5em;">* * *</p>
+    <p style="margin-top:1em;">ik ben mara. ik werk in AI.<br>ik bouw er elke dag mee.</p>
+    <p style="margin-top:1em;">en mijn schermtijd is net zo erg als die van jullie.</p>
+    <p style="margin-top:1em;"><em>we hebben hetzelfde probleem.</em></p>
+  </section>
+</section>
+
+
+<!-- ========================================== -->
+<!-- ACT II — DE VRAGEN                         -->
+<!-- de kamer wordt eerlijk                     -->
+<!-- ========================================== -->
+<section>
+  <section>
+    <p class="act-label">act II</p>
+    <h2>laten we eerlijk zijn.</h2>
+    <p class="muted" style="margin-top:0.5em; font-size:0.7em;">ik ga eerst.</p>
+  </section>
+
+  <!-- slaap -->
+  <section>
+    <p class="question">wat is het laatste dat je doet voor je gaat slapen?</p>
+    <div class="answer-zone" id="q-sleep">
+      <p class="mara-label">mara: <span class="answer-chip mara-chip">tanden poetsen lol</span></p>
+      <div class="answer-input-row">
+        <input type="text" placeholder="typ een antwoord..." onkeydown="if(event.key==='Enter')addAnswer('q-sleep',this)">
+        <button onclick="addAnswer('q-sleep',this.previousElementSibling)">+</button>
+      </div>
+      <div class="answer-list"></div>
+    </div>
+  </section>
+
+  <!-- wakker -->
+  <section>
+    <p class="question">en het eerste als je wakker wordt?</p>
+    <div class="answer-zone" id="q-wake">
+      <p class="mara-label">mara: <span class="answer-chip mara-chip">X checken</span></p>
+      <div class="answer-input-row">
+        <input type="text" placeholder="typ een antwoord..." onkeydown="if(event.key==='Enter')addAnswer('q-wake',this)">
+        <button onclick="addAnswer('q-wake',this.previousElementSibling)">+</button>
+      </div>
+      <div class="answer-list"></div>
+    </div>
+  </section>
+
+  <!-- verveling -->
+  <section>
+    <p class="question">wanneer was je voor het laatst écht verveeld?</p>
+    <p class="muted" style="font-size:0.7em; max-width:80%; margin:0.3em auto;">geen telefoon, niks te doen, gewoon... niks.</p>
+    <div class="answer-zone" id="q-bored">
+      <p class="mara-label">mara: <span class="answer-chip mara-chip">geen idee... ik kan het me niet herinneren?</span></p>
+      <div class="answer-input-row">
+        <input type="text" placeholder="typ een antwoord..." onkeydown="if(event.key==='Enter')addAnswer('q-bored',this)">
+        <button onclick="addAnswer('q-bored',this.previousElementSibling)">+</button>
+      </div>
+      <div class="answer-list"></div>
+    </div>
+  </section>
+
+  <!-- video's -->
+  <section>
+    <p class="question">begin je ooit aan een video en zoek je al naar de volgende voor die gedaan is?</p>
+    <div class="answer-zone" id="q-video">
+      <p class="mara-label">mara: <span class="answer-chip mara-chip">ja, constant</span></p>
+      <div class="answer-input-row">
+        <input type="text" placeholder="typ een antwoord..." onkeydown="if(event.key==='Enter')addAnswer('q-video',this)">
+        <button onclick="addAnswer('q-video',this.previousElementSibling)">+</button>
+      </div>
+      <div class="answer-list"></div>
+    </div>
+  </section>
+
+  <!-- hobby -->
+  <section>
+    <p class="question">ben je ooit een hobby kwijtgeraakt?</p>
+    <p class="muted" style="font-size:0.7em; max-width:80%; margin:0.3em auto;">iets dat je vroeger graag deed dat gewoon... stopte?</p>
+    <div class="answer-zone" id="q-hobby">
+      <p class="mara-label">mara: <span class="answer-chip mara-chip">tekenen. ik wil er al JAREN weer mee beginnen.</span></p>
+      <div class="answer-input-row">
+        <input type="text" placeholder="typ een antwoord..." onkeydown="if(event.key==='Enter')addAnswer('q-hobby',this)">
+        <button onclick="addAnswer('q-hobby',this.previousElementSibling)">+</button>
+      </div>
+      <div class="answer-list"></div>
+    </div>
+  </section>
+
+  <!-- vergelijken -->
+  <section>
+    <p class="question">vergelijk je jezelf ooit met mensen online en voel je je daarna slechter?</p>
+    <div class="answer-zone" id="q-compare">
+      <p class="mara-label">mara: <span class="answer-chip mara-chip">ja. ik voel me meestal neutraal maar het beïnvloedt me wel.</span></p>
+      <div class="answer-input-row">
+        <input type="text" placeholder="typ een antwoord..." onkeydown="if(event.key==='Enter')addAnswer('q-compare',this)">
+        <button onclick="addAnswer('q-compare',this.previousElementSibling)">+</button>
+      </div>
+      <div class="answer-list"></div>
+    </div>
+  </section>
+
+  <!-- machteloos -->
+  <section>
+    <p class="question">heb je het gevoel dat je weet wat er in de wereld gebeurt maar er niks aan kan doen?</p>
+    <div class="answer-zone" id="q-powerless">
+      <p class="mara-label">mara: <span class="answer-chip mara-chip">ja — maar kijk, ik sta hier. ik ben er wél iets aan aan het doen.</span></p>
+      <div class="answer-input-row">
+        <input type="text" placeholder="typ een antwoord..." onkeydown="if(event.key==='Enter')addAnswer('q-powerless',this)">
+        <button onclick="addAnswer('q-powerless',this.previousElementSibling)">+</button>
+      </div>
+      <div class="answer-list"></div>
+    </div>
+  </section>
+
+  <!-- patroon -->
+  <section>
+    <h3>kijk naar het bord.</h3>
+    <p style="margin-top:1em;">de telefoon zit in <em>elk antwoord</em>.</p>
+    <p class="muted" style="margin-top:1em; font-size:0.8em;">slaap. verveling. hobby's. zelfwaarde. machteloosheid.</p>
+    <p class="muted" style="font-size:0.8em;">hij zit er altijd tussen.</p>
+  </section>
+
+  <section>
+    <p class="question" style="text-align:center;">is dit wat je wil?</p>
+    <p class="muted" style="margin-top:1em; font-size:0.8em;">is dit wat je zou kiezen als je kon kiezen?</p>
+  </section>
+</section>
+
+
+<!-- ========================================== -->
+<!-- ACT III — WAT ER GEBEURT                   -->
+<!-- de wetenschap, maar als antwoord           -->
+<!-- ========================================== -->
+<section>
+  <section>
+    <p class="act-label">act III</p>
+    <h2>dit is niet jullie schuld.</h2>
+    <p class="muted" style="margin-top:0.5em; font-size:0.8em;">het is een ontwerp.</p>
+  </section>
+
+  <section>
+    <p class="muted" style="font-size:0.7em;">gemiddelde aandacht op één scherm</p>
+    <div class="stat-row">
+      <div class="stat">
+        <div class="num">2,5 <span class="unit">min</span></div>
+        <div class="label">2004</div>
+      </div>
+      <div class="stat">
+        <div class="num" style="color:var(--muted);">→</div>
+      </div>
+      <div class="stat">
+        <div class="num">75 <span class="unit">sec</span></div>
+        <div class="label">2012</div>
+      </div>
+      <div class="stat">
+        <div class="num" style="color:var(--muted);">→</div>
+      </div>
+      <div class="stat">
+        <div class="num">47 <span class="unit">sec</span></div>
+        <div class="label">2020</div>
+      </div>
+    </div>
+    <p class="muted" style="font-size:0.5em; margin-top:1em;">gloria mark, UC irvine — 20 jaar onderzoek</p>
+  </section>
+
+  <section>
+    <p class="muted" style="font-size:0.7em;">na één onderbreking</p>
+    <p class="big-number">23 <span class="unit">minuten</span></p>
+    <p>om terug te keren naar wat je bezig was.</p>
+    <p class="muted" style="font-size:0.6em; margin-top:1em;">elke notificatie kost je 23 minuten.</p>
+  </section>
+
+  <section>
+    <p class="muted" style="font-size:0.7em;">de dopamine-wip</p>
+    <div class="left" style="margin-top:1em;">
+      <p>elke scroll geeft je een kleine <em>kick</em>.</p>
+      <p>je brein compenseert door <strong>onder</strong> je basislijn te zakken.</p>
+      <p>na verloop van tijd: je hebt meer nodig om je gewoon <strong>normaal</strong> te voelen.</p>
+      <p style="margin-top:0.8em;">het dagelijkse leven begint plat te voelen.</p>
+      <p class="muted" style="margin-top:0.8em;">dat ben jij niet die kapot is. dat is het ontwerp dat werkt.</p>
+    </div>
+  </section>
+
+  <section>
+    <p class="muted" style="font-size:0.7em;">71 studies. 98.299 mensen. vijf continenten.</p>
+    <div class="left" style="margin-top:1em;">
+      <p>korte video's zijn gelinkt aan:</p>
+      <ul>
+        <li>zwakkere aandacht</li>
+        <li>slechter geheugen</li>
+        <li>minder impulscontrole</li>
+        <li>meer angst en depressie</li>
+      </ul>
+    </div>
+    <p class="muted" style="font-size:0.5em; margin-top:1em;">nguyen et al., psychological bulletin, 2025</p>
+  </section>
+
+  <section>
+    <p class="muted" style="font-size:0.7em;">even handen omhoog</p>
+    <div class="left" style="margin-top:1em; font-size:0.9em;">
+      <p>→ wie kan een volledig youtube-filmpje uitkijken zonder iets anders te checken?</p>
+      <p style="margin-top:0.8em;">→ wie heeft deze maand een boek gelezen?</p>
+      <p style="margin-top:0.8em;">→ wie voelt dat hun aandacht slechter is dan twee jaar geleden?</p>
+    </div>
+  </section>
+
+  <section>
+    <p class="muted" style="font-size:0.7em;">jullie klasgenoten, dit jaar</p>
+    <div class="stat-row">
+      <div class="stat">
+        <div class="num" style="color:var(--pink);">48%</div>
+        <div class="label">van Vlaamse scholieren:<br>mentaal welzijn = #1 prioriteit</div>
+      </div>
+      <div class="stat">
+        <div class="num">93%</div>
+        <div class="label">ervaart stress<br>door school</div>
+      </div>
+      <div class="stat">
+        <div class="num">25%</div>
+        <div class="label">voelt zich<br>eenzaam</div>
+      </div>
+    </div>
+    <p class="muted" style="font-size:0.5em; margin-top:1em;">Vlaamse Scholierenbevraging 2026 — 34.288 leerlingen</p>
+  </section>
+
+  <section>
+    <div class="left">
+      <p>jullie weten al dat er iets mis is.</p>
+      <p style="margin-top:0.5em;">48% van jullie zei het zelf.</p>
+      <p style="margin-top:1em;">de vraag is niet <em>of</em> er een probleem is.</p>
+      <p>de vraag is: <em>wat doen we ermee?</em></p>
+    </div>
+  </section>
+</section>
+
+
+<!-- ========================================== -->
+<!-- DE DRAAI — het wordt groter dan jij        -->
+<!-- ========================================== -->
+<section>
+  <section>
+    <p class="act-label">de draai</p>
+    <h2>het gaat niet alleen over jou.</h2>
+  </section>
+
+  <section>
+    <div class="left">
+      <p>alles wat je online zet —</p>
+      <p>elke post, elk kunstwerk, elke meme, elke comment —</p>
+      <p style="margin-top:0.5em;">wordt <em>trainingsdata</em> voor kunstmatige intelligentie.</p>
+      <p style="margin-top:1em;">AI leert van ons. het absorbeert onze waarden, onze angsten, onze creativiteit, onze wanhoop.</p>
+      <p style="margin-top:1em; font-size:1.2em;"><em>wij zijn de trainingsdata.</em></p>
+    </div>
+  </section>
+
+  <section>
+    <div class="two-col">
+      <div>
+        <h3 style="color:var(--pink);">als we het voeden met</h3>
+        <p>doom, cynisme, rage-bait, korte nietsigheid</p>
+        <p style="margin-top:0.5em;">→ dan is dat de intelligentie die we bouwen.</p>
+      </div>
+      <div>
+        <h3 style="color:var(--accent);">als we het voeden met</h3>
+        <p>kunst, echt nadenken, echt gevoel, dingen die ertoe doen</p>
+        <p style="margin-top:0.5em;">→ dan vormen we iets dat de moeite waard is.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <p class="question" style="text-align:center; max-width:90%;">als een AI alles over de wereld leerde alleen uit jouw schermtijd — wat voor intelligentie zou het worden?</p>
+    <div class="answer-zone" id="q-screenai">
+      <div class="answer-input-row">
+        <input type="text" placeholder="typ een antwoord..." onkeydown="if(event.key==='Enter')addAnswer('q-screenai',this)">
+        <button onclick="addAnswer('q-screenai',this.previousElementSibling)">+</button>
+      </div>
+      <div class="answer-list"></div>
+    </div>
+  </section>
+
+  <!-- AI LIVE DEMO -->
+  <section>
+    <p class="muted" style="font-size:0.7em;">laten we het testen.</p>
+    <h3>ik ga jullie antwoorden aan een AI voeren.</h3>
+    <p class="muted" style="margin-top:0.5em; font-size:0.7em;">alles wat jullie net gezegd hebben — over slaap, verveling, hobby's, vergelijken, machteloosheid.</p>
+    <p style="margin-top:1em;">ik geef het aan een AI en vraag:<br><em>"op basis van deze data — wie zijn deze mensen? waar geven ze om?"</em></p>
+    <p class="muted" style="margin-top:1.5em; font-size:0.6em;">[ mara opent ChatGPT/Claude in een nieuw tabblad en plakt de antwoorden ]</p>
+  </section>
+
+  <section>
+    <div class="ai-demo-box">
+      <p class="prompt-line"><span>></span> dit is wat de AI teruggeeft:</p>
+      <p class="ai-typing">[ lees het antwoord hardop voor van het scherm ]</p>
+    </div>
+    <p style="margin-top:1.5em;">herkennen jullie jezelf hierin?</p>
+    <p class="muted" style="margin-top:0.5em; font-size:0.8em;">of mist het iets?</p>
+    <p style="margin-top:1em;"><em>wat het mist is precies het punt.</em></p>
+  </section>
+
+  <section>
+    <div class="left">
+      <p>de AI maakte een profiel van jullie.</p>
+      <p style="margin-top:0.5em;">het klopte een beetje. het miste alles wat er echt toe doet.</p>
+      <p style="margin-top:1em;">dat is wat er gebeurt als je leven data wordt.</p>
+      <p style="margin-top:1em;">het berekenbare vervangt het <em>onberekenbare</em>.</p>
+      <p style="margin-top:0.5em;">en alles wat ertoe doet — liefde, betekenis, creatie — is onberekenbaar.</p>
+    </div>
+  </section>
+
+  <!-- AI & denken -->
+  <section>
+    <p class="muted" style="font-size:0.7em;">en dan is er nog dit:</p>
+    <div class="two-col" style="margin-top:1em;">
+      <div>
+        <p style="color:var(--accent); font-size:1.5em; font-weight:500;">betere output</p>
+        <p class="muted">essays met AI scoren hoger</p>
+      </div>
+      <div>
+        <p style="color:var(--pink); font-size:1.5em; font-weight:500;">slechter denken</p>
+        <p class="muted">AI-gebruikers: laagste hersenactiviteit</p>
+      </div>
+    </div>
+    <p style="margin-top:1.5em;">je krijgt een beter essay. maar een <em>slechter brein</em>.</p>
+    <p class="muted" style="font-size:0.5em; margin-top:0.5em;">MIT-studie, 2025</p>
+  </section>
+
+  <section>
+    <div class="left">
+      <p>als je het niet zonder AI kan,</p>
+      <p>heb je het niet geleerd.</p>
+      <p>je hebt het <em>uitbesteed</em>.</p>
+      <p style="margin-top:1.5em;">en een brein dat niks meer zelf doet,</p>
+      <p>is een brein dat vergeet hoe het moet.</p>
+    </div>
+  </section>
+</section>
+
+
+<!-- ========================================== -->
+<!-- ACT IV — DE WEG ERUIT                      -->
+<!-- ========================================== -->
+<section>
+  <section>
+    <p class="act-label">act IV</p>
+    <h2>en nu?</h2>
+  </section>
+
+  <!-- long-form -->
+  <section>
+    <div class="left">
+      <p>je hoeft niet te stoppen met consumeren.</p>
+      <p style="margin-top:0.5em;">maar het zou <em>long-form</em> moeten zijn.</p>
+      <p style="margin-top:1.5em;">lees een boek. kijk een hele documentaire.<br>luister een album van voor tot achter.<br>zit een les uit en let écht op.</p>
+      <p style="margin-top:1em;">lange content <em>traint je brein</em>.<br>korte content breekt het af.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="left">
+      <p class="muted" style="font-size:0.7em;">iemand die exact hetzelfde had als jullie schreef me dit:</p>
+      <div class="card" style="margin-top:0.8em; font-size:0.75em; border-color:var(--dim);">
+        <p style="color:var(--muted); font-style:italic;">"the only thing that cured me was a total disconnection and the will to get back my younger voracious reading habit. i slowly got back my mental faculties, my spirit and the brain fog lifted."</p>
+      </div>
+      <p style="margin-top:1em;"><em>lezen</em> is het enige dat je brein terug opbouwt in plaats van afbreekt.</p>
+      <p class="muted" style="margin-top:0.5em; font-size:0.7em;">niet als huiswerk. als medicijn.</p>
+    </div>
+  </section>
+
+  <!-- deep thinking experiment -->
+  <section>
+    <p class="act-label">experiment</p>
+    <h2>laten we het proberen.</h2>
+    <p class="muted" style="margin-top:0.5em; font-size:0.8em;">nu. samen. in deze ruimte.</p>
+  </section>
+
+  <section>
+    <div class="left">
+      <p>we gaan iets doen dat jullie brein niet meer gewend is:</p>
+      <p style="margin-top:1em; font-size:1.2em;"><em>diep nadenken over iets nieuws.</em></p>
+      <p style="margin-top:1em;">geen telefoon. geen AI. geen shortcut.</p>
+      <p style="margin-top:1em;">gewoon jullie brein.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="left">
+      <p class="muted" style="font-size:0.6em;">[ het experiment wordt live geleid door mara — details volgen ]</p>
+      <p style="margin-top:1.5em;">hoe voelde dat?</p>
+      <p style="margin-top:0.5em;">anders dan scrollen?</p>
+      <p style="margin-top:1em;"><em>dat is wat je brein kan als je het de kans geeft.</em></p>
+    </div>
+  </section>
+
+  <!-- rolmodellen callback -->
+  <section>
+    <p class="question" style="text-align:center;">naar wie kijk jij op?</p>
+    <div class="answer-zone" id="q-rolemodels">
+      <div class="answer-input-row">
+        <input type="text" placeholder="typ een naam..." onkeydown="if(event.key==='Enter')addAnswer('q-rolemodels',this)">
+        <button onclick="addAnswer('q-rolemodels',this.previousElementSibling)">+</button>
+      </div>
+      <div class="answer-list"></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="left">
+      <p>ze zijn allemaal gepassioneerd over iets.</p>
+      <p>ze werken ergens voor.</p>
+      <p style="margin-top:1em;">ze stoppen hun <em>tijd</em> en <em>aandacht</em> in iets waar ze om geven.</p>
+      <p style="margin-top:1em;">jij ook?</p>
+    </div>
+  </section>
+
+  <section>
+    <p class="question" style="text-align:center; max-width:90%;">wat is jouw ding?</p>
+    <p class="muted" style="margin-top:0.5em; font-size:0.7em;">wat zou je doen met een extra uur per dag?</p>
+    <div class="answer-zone" id="q-yourthing">
+      <div class="answer-input-row">
+        <input type="text" placeholder="typ een antwoord..." onkeydown="if(event.key==='Enter')addAnswer('q-yourthing',this)">
+        <button onclick="addAnswer('q-yourthing',this.previousElementSibling)">+</button>
+      </div>
+      <div class="answer-list"></div>
+    </div>
+  </section>
+
+  <!-- DE UITDAGING -->
+  <section>
+    <p class="act-label">de uitdaging</p>
+    <h2 style="color:var(--accent);">bewijs het.</h2>
+    <p class="muted" style="margin-top:0.5em; font-size:0.8em;">als je telefoon zo onschuldig is — bewijs dat je er een dag zonder kan.</p>
+  </section>
+
+  <section>
+    <div class="left">
+      <h3 style="color:var(--accent);">kies je level:</h3>
+      <div style="margin-top:1em;">
+        <div class="rule-card"><span class="number">⚡</span> wissel je telefoon met een vriend. zij bepaalt wat jij wel en niet kan.</div>
+        <div class="rule-card"><span class="number">⚡⚡</span> geef je telefoon aan je leerkracht. de hele dag.</div>
+        <div class="rule-card"><span class="number">⚡⚡⚡</span> zet hem helemaal uit. in je tas. niet kijken.</div>
+      </div>
+      <p style="margin-top:1em; font-size:0.85em;">kies zelf. maar probeer het. <em>één dag.</em></p>
+    </div>
+  </section>
+
+  <section>
+    <p class="question" style="text-align:center;">wie durft?</p>
+    <div class="answer-zone" id="q-challenge">
+      <div class="answer-input-row">
+        <input type="text" placeholder="naam + level (bv. 'sara ⚡⚡')..." onkeydown="if(event.key==='Enter')addAnswer('q-challenge',this)">
+        <button onclick="addAnswer('q-challenge',this.previousElementSibling)">+</button>
+      </div>
+      <div class="answer-list"></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="left">
+      <p>als het makkelijk was — oké. geen probleem.</p>
+      <p style="margin-top:1em;">maar als het <em>moeilijk</em> was?</p>
+      <p style="margin-top:1em;">als je je onrustig voelde, als je hand bleef zoeken naar iets dat er niet was —</p>
+      <p style="margin-top:1.5em; font-size:1.1em;"><em>dan weet je genoeg.</em></p>
+    </div>
+  </section>
+
+  <!-- samen -->
+  <section>
+    <div class="left">
+      <p>dit is geen persoonlijk falen.</p>
+      <p style="margin-top:0.5em;">dit is een <em>generatie-uitdaging</em>.</p>
+      <p style="margin-top:1.5em;">dat jullie hier zitten, in deze ruimte, hierover praten met jullie échte klasgenoten —</p>
+      <p style="margin-top:0.5em;"><em>dat is al het begin.</em></p>
+    </div>
+  </section>
+
+  <!-- tools -->
+  <section>
+    <h3 class="muted">gratis tools — kies er één, probeer het een week</h3>
+    <div class="tools-grid" style="margin-top:1em;">
+      <div class="tool-card">
+        <p class="name">opal</p>
+        <p>sessieblokker, focusmodi. grimes gebruikt het.</p>
+        <p class="dim">opal.so</p>
+      </div>
+      <div class="tool-card">
+        <p class="name">schermtijd / digitaal welzijn</p>
+        <p>staat al op je telefoon. applimieten, downtime.</p>
+        <p class="dim">instellingen → schermtijd</p>
+      </div>
+      <div class="tool-card">
+        <p class="name">one sec</p>
+        <p>een pauze voor je een app opent. even ademen.</p>
+        <p class="dim">one-sec.app</p>
+      </div>
+      <div class="tool-card">
+        <p class="name">forest</p>
+        <p>plant een boom. hij sterft als je de app verlaat.</p>
+        <p class="dim">forestapp.cc</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- afsluiting -->
+  <section>
+    <p class="question" style="text-align:center; max-width:90%;">waar wil je deze week je tijd in steken?</p>
+    <p class="muted" style="margin-top:0.8em; font-size:0.8em;">gewoon één ding. zeg het hardop.</p>
+    <div class="answer-zone" id="q-onething">
+      <div class="answer-input-row">
+        <input type="text" placeholder="typ een antwoord..." onkeydown="if(event.key==='Enter')addAnswer('q-onething',this)">
+        <button onclick="addAnswer('q-onething',this.previousElementSibling)">+</button>
+      </div>
+      <div class="answer-list"></div>
+    </div>
+  </section>
+</section>
+
+
+<!-- ========================================== -->
+<!-- REGELS                                     -->
+<!-- ========================================== -->
+<section>
+  <section>
+    <p class="decorative">⋆˙˖✧</p>
+    <h2>wat we vandaag gevonden hebben</h2>
+    <p class="muted" style="font-size:0.7em; margin-top:0.5em;">jullie regels, niet de mijne</p>
+  </section>
+
+  <section data-auto-animate>
+    <div class="left" style="font-size:0.7em;">
+      <div class="rule-card"><span class="number">01</span> bescherm je slaap tegen je scherm.</div>
+      <div class="rule-card"><span class="number">02</span> bescherm je verveling. daar komen ideeën vandaan.</div>
+      <div class="rule-card"><span class="number">03</span> maak dingen af. ergens bij blijven is een spier.</div>
+      <div class="rule-card"><span class="number">04</span> denk eerst, gebruik dan de tool.</div>
+      <div class="rule-card"><span class="number">05</span> heb een ding. iets dat je telefoon niet kan opeten.</div>
+      <div class="rule-card"><span class="number">06</span> niet alles heeft een publiek nodig.</div>
+    </div>
+  </section>
+
+  <section data-auto-animate>
+    <div class="left" style="font-size:0.7em;">
+      <div class="rule-card"><span class="number">07</span> kies wat je binnenlaat. informatie zonder actie is gewoon gewicht.</div>
+      <div class="rule-card"><span class="number">08</span> jij bent de trainingsdata. wat je maakt vormt de toekomst.</div>
+      <div class="rule-card"><span class="number">09</span> de dingen die je gestopt bent zijn niet dood. ze wachten.</div>
+      <div class="rule-card"><span class="number">10</span> het gevoel dat je niet genoeg bent is gefabriceerd. je loopt niet achter.</div>
+    </div>
+  </section>
+</section>
+
+
+<!-- ========================================== -->
+<!-- EINDE                                      -->
+<!-- ========================================== -->
+<section>
+  <p class="decorative">⋆˙˖✧ ₊˚⊹ ˙⋆.˚</p>
+  <h2 class="glitch" data-text="think" style="margin-top:0.5em;">think</h2>
+  <p class="muted" style="margin-top:1em;">neem je tijd terug.</p>
+  <p class="divider">* * *</p>
+  <p class="dim" style="font-size:0.6em;">mara masaeva · messier-systems.vercel.app/think</p>
+</section>
+
+</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
+<script>
+function addAnswer(zoneId, input) {
+  const val = input.value.trim();
+  if (!val) return;
+  const zone = document.getElementById(zoneId);
+  const list = zone.querySelector('.answer-list');
+  const chip = document.createElement('span');
+  chip.className = 'answer-chip';
+  chip.textContent = val;
+  list.appendChild(chip);
+  input.value = '';
+  input.focus();
+}
+
+const stValues = [];
+
+function addScreenTime() {
+  const input = document.getElementById('st-input');
+  const raw = input.value.trim();
+  if (!raw) return;
+
+  const container = document.getElementById('st-numbers');
+  const chip = document.createElement('span');
+
+  // parse hours
+  let hours = 0;
+  const match = raw.match(/(\d+)[uh:]?\s*(\d+)?/);
+  if (match) {
+    hours = parseInt(match[1]) + (match[2] ? parseInt(match[2])/60 : 0);
+  }
+
+  chip.className = 'st-chip' + (hours >= 5 ? ' high' : '');
+  chip.textContent = raw;
+  container.appendChild(chip);
+
+  if (hours > 0) {
+    stValues.push(hours);
+    const avg = stValues.reduce((a,b) => a+b, 0) / stValues.length;
+    const avgH = Math.floor(avg);
+    const avgM = Math.round((avg - avgH) * 60);
+    document.getElementById('st-average').innerHTML =
+      'gemiddelde in de kamer: <span style="color:var(--accent)">' + avgH + 'u' + (avgM > 0 ? avgM.toString().padStart(2,'0') : '') + '</span>';
+
+    // update weekly
+    const weekly = Math.round(avg * 7);
+    const weeklyEl = document.getElementById('weekly-number');
+    if (weeklyEl) weeklyEl.innerHTML = weekly + ' <span class="unit">uur</span>';
+  }
+
+  input.value = '';
+  input.focus();
+}
+
+Reveal.initialize({
+  hash: true,
+  slideNumber: false,
+  controls: true,
+  progress: true,
+  center: true,
+  transition: 'fade',
+  transitionSpeed: 'slow',
+  backgroundTransition: 'fade',
+  width: 1280,
+  height: 720,
+  margin: 0.1,
+  keyboard: true
+});
+</script>
+</body>
+</html>
