@@ -1,11 +1,7 @@
 Status: #baby
 Tags: [[cognitive safety]], [[education]], [[pedagogy]]
 
-# presentatie tekst — think workshop
 
-dit is geen script. het is een gids. de exacte woorden veranderen elke keer — het gaat om de beats, de overgangen, de energie. lees dit door, ken de structuur, en praat dan gewoon.
-
-de tekst hieronder is geschreven alsof mara praat. eerste persoon, hun register.
 
 ---
 
@@ -23,25 +19,29 @@ geen intro hier. laat de slide even staan. laat de stilte werken. de kamer moet 
 
 *[slide: "pak je telefoon. nee echt. pak hem. nu."]*
 
-oké, we gaan iets doen. ik wil dat jullie allemaal je telefoon pakken. ja echt. dit is het enige moment vandaag dat ik jullie ga vragen om je telefoon te gebruiken.
+oke, hoi. hebben jullie allemaal je telefoon bij? zo ja, pak em er even bij. ik weet niet of jullie dat normaal gezien mogen binnen de lesuren, of binnen de schoolmuren, maar doe gewoon even. 
 
-*[wacht tot iedereen hun telefoon heeft. er zullen blikken richting de leerkracht gaan — dat is grappig, gebruik het.]*
-
-ik weet het, normaal mag het niet. vandaag wel. één keer.
 
 ### schermtijd check
 
 *[slide: "open je instellingen. ga naar schermtijd. wat is je dagelijks gemiddelde?"]*
 
-open je instellingen. ga naar schermtijd — op iphone staat dat bij instellingen, op android zoek je "digitaal welzijn." zoek je dagelijks gemiddelde van de afgelopen week.
+alright, we gaan even allemaal samen naar onze schermtijd kijken. niet bang zijn dat ik jullie ga judgen ofzo, ik ben eerder gewoon benieuwd. staat gewoon bij je instellingen, als je op schermtijd of screen time zoekt. je dagelijks gemiddelde per week. ik ga wat rondkijken. misschien is dit een beetje privacy infringement but im trying to see something. 
+
 
 *[loop door de kamer terwijl ze zoeken. reageer op wat je ziet. "wauw." "oké." sommigen zullen schrikken. sommigen weten het al.]*
 
-roep je getal maar. ik typ het in.
+steek je hand misschien even op als je je wekelijks gemiddelde wil zeggen. als je je gsm niet mee hebt maar je wil het toch zeggen, doe ook maar natuurlijk. 
 
 *[typ de getallen in op het scherm. de gemiddeldes verschijnen als chips. mara's eigen getal staat er al: 4u10.]*
 
-kijk, ik sta er ook. vier uur tien. per dag. ik werk in AI en mijn schermtijd is net zo erg als die van jullie. ik ben hier niet als iemand die het beter doet — ik ben hier als iemand die hetzelfde probleem heeft.
+ik heb de mijne er ook effe in gezet, 2u20, maar dat is voordat ik een bepaalde app gebruikte, waar ik jullie straks wat meer over ga zeggen, maar goed. 
+
+3 u, 6, ok damn 12u... nee ik judge niet hoor. ik ben een van jullie hier, ik heb hetzelfde probleem. een probleem, right? iedereen akkoord? 
+
+CHECK OF IEDEREEN AKKOORD IS
+wie vindt het een beetje problematisch?
+ok, toch wel wat mensen, een deel vindt het niet problematisch. let me prove you wrong. 
 
 ### het weekgetal
 
@@ -49,9 +49,24 @@ kijk, ik sta er ook. vier uur tien. per dag. ik werk in AI en mijn schermtijd is
 
 *[laat dit even inzinken. zeg niks. laat hen naar het getal kijken.]*
 
-dat is meer dan een volledige dag. elke week. aan een scherm. niet voor school, niet voor werk — gewoon... scrollen. kijken. checken.
+alright, dus dit is jullie gemiddelde. ik ga het even vergelijken met de belgische gemiddelden:
+https://statbel.fgov.be/en/news/belgians-spend-average-37-hours-day-online
 
-per jaar is dat... *[reken even hardop]* ... meer dan twee maanden van je leven. nonstop. geen slaap, geen pauze.
+kinda gelijkaardig. vinden jullie dit veel? wie vindt dit veel? 
+even denken. pak dat het gemiddelde 3u per dag is. even direct, aan jullie gericht, maar voel je niet aangevallen: waarom doen jullie dit? 
+...
+willen jullie dit? 
+...
+
+elke dag 3u scrollen. of 2. of 1. of zelfs een half. 
+
+en hier is iets dat ik wil dat jullie weten. TikTok, instagram, snapchat — die werken letterlijk hetzelfde als een casino. variabele beloningen op random tijden, dat is dé techniek waarmee casino's mensen verslaafd maken. en die pull-to-refresh, als je je feed naar beneden trekt om iets nieuws te zien? dat is letterlijk like, the lever of the slot machine. de dude die de infinite scroll heetf uitgevonden heeft gezegd dat hij er spijt van heeft. (https://www.theguardian.com/technology/2018/may/08/social-media-copies-gambling-methods-to-create-psychological-cravings)
+
+dus. het is niet jullie schuld. echt niet. jullie vechten tegen een systeem dat door gokpsychologen gebouwd is om jullie aandacht te grijpen en nooit los te laten. maar willen jullie dat?
+
+en nog belangrijker: wat zou je kunnen doen met die 3u op een dag? can you imagine? wat voor mens word je als je elke dag 3 uur van jezelf terugkrijgt? wat je zou kunnen doen, maken, bedenken? 
+
+alright.
 
 ### mara intro
 
@@ -60,10 +75,12 @@ per jaar is dat... *[reken even hardop]* ... meer dan twee maanden van je leven.
 oké. leg je telefoon weg. die heb je voor de rest van vandaag niet meer nodig.
 
 *[wacht. kijk of iedereen het doet. wees chill maar duidelijk.]*
+dus. ik zal mezelf ff voorstellen. ik ben mara. ik ben 26, ik vind het heel raar om terug in een middelbare school te zijn want das lang geleden maar ook weer niet zo lang geleden lol. als ik mezelf moest voorstellen op school vroeger zei ik altijd dat mijn hobbys tekenen en lezen waren. ik teken en ik lees nog steeds maar VEEL minder not gonna lie. verder; ik ben queer, ook belangrijk om te vermelden, en ik werk in artificiele intelligentie. ik bouw er letterlijk elke dag dingen mee. ik bouw tools, ik werk met large language models, ik zit in die wereld. en ik zit hier vandaag niet om jullie de les te lezen over jullie gsm, want mijn schermtijd was net zo fucked als die van jullie, tot like 2 jaar geleden. ik had hetzelfde probleem. ik val tot vandaag de dag soms nog in die trap; ik weet hoe het werkt, ik weet wat het doet, en ik kan er toch niet mee stoppen. en ik denk dat dat iets zegt over waar we hier precies mee te maken hebbe,. 
 
-ik ben mara. ik ben 24, ik ben queer, en ik werk in kunstmatige intelligentie. ik bouw er letterlijk elke dag mee. ik bouw tools, ik werk met modellen, ik zit in die wereld. en ik zit hier vandaag niet om jullie de les te lezen over jullie telefoon — want mijn schermtijd is net zo fucked als die van jullie. ik heb hetzelfde probleem. ik weet hoe het werkt, ik weet wat het doet, en ik kan er toch niet mee stoppen. en ik denk dat dat iets zegt.
+de reden dat ik hier sta is dat ik iets aan het zien ben dat me echt bang maakt. ik zie het bij mezelf, mijn concentratie is véél slechter dan drie jaar geleden, ik kan minder lang lezen, ik grijp naar mijn gsm zonder na te denken. en ik zie het bij iedereen om me heen, mijn vrienden, mijn zussen, OVERAL. en ik wil daar samen naar kijken met jullie, hier, nu, omdat ik en heel veel andere mensen in AI geloven dat we dit moéten doen, dat we jullie bewust moeten maken van iets, iets dat de vorige generatie gecreëerd heeft en jullie de slachtoffers van zijn. ja, ik ga het gewoon even zo noemen. je moet sociale media, en ai, even zien als een wapen. je mag me straks tegenspreken daarover, maar ik wil eerst samen nadenken. 
 
-maar de reden dat ik hier sta is dat ik iets aan het zien ben dat me echt bang maakt. ik zie het bij mezelf — mijn concentratie is slechter dan drie jaar geleden, ik kan minder lang lezen, ik grijp naar mijn telefoon zonder na te denken. en ik zie het bij iedereen om me heen. en ik wil dat we daar samen naar kijken. niet vanuit een les, maar als gesprek. want ik denk dat jullie het ook voelen. jullie praten er misschien niet zo over, maar ik denk dat jullie weten dat er iets mis is.
+dus geen les, geen presentatie, beetje interactie mag, ik ben geen leerkracht. als je iets wil vragen, roep dan maar gewoon mara. 
+
 
 ---
 
@@ -281,7 +298,7 @@ dus denk daar even over na. als het meeste wat wij als generatie produceren doom
 
 maar als we het voeden met kunst. met echt nadenken. met echt gevoel. met dingen die ertoe doen, dingen die we met zorg gemaakt hebben. dan vormen we iets anders. dan leert het iets anders over wie wij zijn.
 
-en dit is waar het echt interessant wordt. in de AI-wereld heet dit *value alignment* — ervoor zorgen dat de waarden van een AI overeenkomen met de waarden van de mensheid. en iedereen behandelt dat als een technisch probleem. alsof ingenieurs in een lab het moeten oplossen. maar dat is het niet. het is een cultureel probleem. want de waarden van de AI komen uit de data. en de data zijn wij. wat wij maken is wat het eet. wat wij consumeren bepaalt wat er geproduceerd wordt. en wat er geproduceerd wordt is wat de AI leert.
+in de AI-wereld noemen ze dit *value alignment*. iedereen behandelt het als een technisch probleem, alsof ingenieurs in een lab het moeten oplossen. maar het is cultureel. want de waarden van de AI komen uit de data. en de data zijn wij. wat wij maken is wat het eet. en wat het eet, dat wordt het.
 
 dus als je denkt "ik ben maar een tiener, wat maakt het uit wat ik post" — het maakt heel veel uit. alles wat je maakt, of niet maakt, vormt letterlijk de intelligentie die na ons komt. en dat is iets dat niemand jullie vertelt. maar het is waar.
 
@@ -313,7 +330,7 @@ herkennen jullie jezelf hierin? of mist het iets?
 
 wat het mist is precies het punt. de AI maakte een profiel van jullie. en het klopte een beetje — het zag patronen, het zag thema's. maar het miste alles wat er echt toe doet. het miste jullie humor. het miste de manier waarop die ene persoon daar net iets zei en de hele kamer begon te lachen. het miste waarom die hobby zo belangrijk was — niet *dat* je tekende maar hoe het *voelde* om te tekenen. het miste de stilte in dat antwoord over eenzaamheid. het zag de woorden maar het voelde niks.
 
-en daar zit iets waar ik heel veel over nadenk. er is dit idee van een denker genaamd geert lovink — het berekenbare versus het onberekenbare. het berekenbare is alles wat het systeem in data kan veranderen. je klikken, je schermtijd, je locatie, je hartslag. dat kan het allemaal verwerken. maar er zijn dingen die je niet in data kan veranderen zonder ze te doden. wat een liedje met je doet. de stilte tussen twee mensen. waarom je van iemand houdt — niet de data van van-iemand-houden, niet de berichten en de foto's en de locatie-pings, maar de echte liefde. je probeert dat te kwantificeren en je krijgt een volgersaantal. een nummer. en dat nummer betekent eigenlijk dat de liefde, de vriendschap, dood is nu je het een getal gemaakt hebt.
+en daar zit iets waar ik heel veel over nadenk. lovink schrijft hierover — het berekenbare versus het onberekenbare. het berekenbare is alles wat het systeem in data kan veranderen. je klikken, je schermtijd, je locatie, je hartslag. dat kan het allemaal verwerken. maar er zijn dingen die je niet in data kan veranderen zonder ze te doden. wat een liedje met je doet. de stilte tussen twee mensen. waarom je van iemand houdt — niet de data van van-iemand-houden, niet de berichten en de foto's en de locatie-pings, maar de echte liefde. je probeert dat te kwantificeren en je krijgt een volgersaantal. een nummer. en dat nummer betekent eigenlijk dat de liefde, de vriendschap, dood is nu je het een getal gemaakt hebt.
 
 dat is wat er gebeurt als je leven data wordt. het berekenbare vervangt het onberekenbare. en alles wat ertoe doet — liefde, betekenis, iets maken voor niks, ergens om geven zonder reden — dat is onberekenbaar. dat is waar we echt leven. of waar we zouden kunnen leven, als we stopten met alles in te leveren.
 
@@ -321,13 +338,13 @@ dat is wat er gebeurt als je leven data wordt. het berekenbare vervangt het onbe
 
 *[slide: "betere output" vs. "slechter denken"]*
 
-en dan is er nog dit, en dit is iets waar ik dagelijks mee worstel in mijn werk. er was een studie van MIT vorig jaar. ze lieten studenten essays schrijven — sommigen met AI, sommigen zonder. de essays die met AI geschreven waren scoorden hoger. betere structuur, betere argumenten, beter taalgebruik. maar — en dit is het punt — de hersenactiviteit van de studenten die AI gebruikten was de laagste van alle groepen.
+en dan is er nog dit, en dit is iets waar ik dagelijks mee worstel in mijn werk. er was een studie van MIT vorig jaar. ze lieten studenten essays schrijven — sommigen met AI, sommigen zonder. de essays die met AI geschreven waren scoorden hoger. betere structuur, betere argumenten, beter taalgebruik. maar de hersenactiviteit van de studenten die AI gebruikten was de laagste van alle groepen.
 
 betere output. slechter brein.
 
 dus je krijgt een beter essay. maar je hebt niks geleerd. je brein heeft niks gedaan. het heeft de opdracht doorgestuurd naar een machine en het resultaat gekopieerd. en een brein dat niks doet, dat vergeet hoe het moet. dat is hoe spieren werken — als je ze niet gebruikt, verdwijnen ze. en je brein is een spier.
 
-en ik zeg dit niet als iemand die anti-AI is. ik werk in AI. ik gebruik het elke dag. maar er is een verschil — en dit is echt belangrijk — er is een verschil tussen een tool gebruiken om *beter* te denken, en een tool gebruiken om *niet meer te hoeven* denken. een rekenmachine helpt je sneller rekenen. maar als je nooit geleerd hebt hoe vermenigvuldigen werkt, helpt die rekenmachine je niet — dan ben je afhankelijk. en dat is wat er gebeurt met AI en denken.
+en ik zeg dit niet als iemand die anti-AI is. ik werk in AI. ik gebruik het elke dag. maar er is een verschil tussen een tool gebruiken om *beter* te denken, en een tool gebruiken om *niet meer te hoeven* denken. een rekenmachine helpt je sneller rekenen. maar als je nooit geleerd hebt hoe vermenigvuldigen werkt, helpt die rekenmachine je niet — dan ben je afhankelijk.
 
 *[slide: "als je het niet zonder AI kan, heb je het niet geleerd."]*
 

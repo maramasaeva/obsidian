@@ -83,6 +83,18 @@ mara writes published pieces in dutch. the rhythm transfers — short declarativ
 
 if drafting in dutch: same rules, more formality, retain the punch-and-fragment cadence.
 
+### dutch spoken / presentation register
+
+mara's workshop scripts ("presentatie tekst" → "dit is geen script. het is een gids") are written to be *spoken*, not read. this register tolerates more conversational mess than the op-ed.
+
+- **preserve spoken fillers**: "oké," "gewoon," "zo," "dus," "echt," "letterlijk," "ja," "zo iets van," "fucked." these are how she actually talks. claude wants to strip them. don't.
+- **preserve english code-switching**: "KPI," "voor jou pagina," "doom-scrolling," "shorts," "vibecoded," "value alignment." mara drops english into dutch for precision or punch. don't translate.
+- **avoid formal transition words** in spoken text: "Bovendien," "Daarnaast," "Voorts," "Tevens." use "en," "maar," "dus," "trouwens" instead.
+- **avoid "Daarom" as a tidy logical connector**: use "dus" or skip the connector.
+- **drop the formal "een denker genaamd X" construction**: mara says "lovink schrijft hierover" or just "lovink." not "een denker genaamd geert lovink."
+- **let sentences run conversationally**: dutch claude writes for the page with neat subordinate clauses. mara's spoken dutch has restarts, fragments, "ja-maar" turns. one-word sentences are fine. anacoluthon is fine.
+- **fucked / shit / fuck**: she swears in spoken text. don't sanitise.
+
 ### rough-notes scratch register
 
 her scratch notes have process markers that should be preserved if claude touches them:
@@ -113,6 +125,27 @@ specific tells that show up in claude-drafted prose and read wrong:
 10. **over-tidy formatting in source notes.** the Breaky thought template has structure, but the prose section is loose and uneven — not a structured commentary.
 11. **unwarranted hedges**: "maybe the proxy got loose from the goal" → "the proxy got loose from the goal." mara states; she doesn't soften.
 12. **smoothing the syntax-of-discovery.** if a sentence sounds like it's been edited three times for polish, it has lost her voice. leave the seams visible.
+
+### broader claude/LLM patterns to scan for
+
+these are widely-recognized claude tells beyond the session-specific ones above. scan output for any of them.
+
+13. **the "not X, but Y" / "it's not just X — it's Y" formula** — claude's favourite rhetorical engine. "this isn't just a chatbot — it's a [system that...]." overused as a default rhythm regardless of content. mara uses contrast occasionally; claude uses it every other paragraph. cap.
+14. **concept-naming-then-definition** — "this is called X — making sure Y reflects Z" / "dit heet X — ervoor zorgen dat Y." the formal name-then-defining-relative-clause structure. rewrite to: name the concept and just use it ("value alignment betekent dat..."), or describe without naming.
+15. **pivot announcements** — "and here's where it gets interesting," "and this is where it gets wild," "en dit is waar het bigger/interessant/echt wordt." just *make* the turn. don't announce that you're about to turn.
+16. **meta-commentary inserts** — "and this is the point —", "and this is really important —", "what i want you to understand is —", "maar — en dit is het punt —". claude can't trust the reader to notice what matters. mara trusts the reader. cut.
+17. **textbook wrap-ups after analogies** — "and that's what happens when X" / "and this is what's happening with AI and thinking" / "en dat is wat er gebeurt met X." the analogy or example should land on its own. the wrap-up explanation flattens it into a teacher's slide.
+18. **abstract metaphors that gesture at depth** — "tapestry," "weaving together," "navigate," "delve," "rich landscape," "at its core," "on a deeper level." claude reaches for these as faux-profundity. mara's metaphors are concrete and bodily — gut, hand, blood, scream, mouth.
+19. **filler intensifiers as faux-depth** — "fundamentally," "essentially," "in essence," "at its core," "ultimately," "truly," "deeply" used as analytical hedges. distinguish from mara's *spoken* fillers ("echt," "letterlijk," "gewoon," "actually") which are register, not depth-gesturing.
+20. **anaphoric symmetry** — three or more consecutive sentences starting with the same word as deliberate rhythm. mara does this once for emphasis, claude does it three times in a paragraph because it sounds rhetorical.
+21. **triadic lists when content is dyadic or singular** — claude defaults to lists of three. if the third item is a near-synonym of the first or feels added to round out a rhythm, kill it. two beats is fine. one beat is fine.
+22. **hedge-stacks** — "in many ways," "to some extent," "perhaps," "arguably," "in some sense" piled on a single claim. mara states. she doesn't pile.
+23. **sandwich structure** — validate → critique → validate again ("you make a fair point about X, but Y, still your underlying instinct is right"). corporate-mode empathy. mara either agrees, disagrees, or stays in the discomfort.
+24. **the "more than just X" formulation** — "this is more than just a chatbot," "this is bigger than just an essay." claude uses this constantly as comparative gesture. mara uses it only when the comparison is load-bearing.
+25. **em-dashes as default rhythm** — claude reaches for em-dash by reflex. mara uses them too, but they should be load-bearing (a real breath / rhetorical turn). if you can replace it with a comma or a period without losing anything, do.
+26. **bullets / bolded sub-headers / numbered lists in continuous prose** — claude defaults to structural markup. mara's prose is paragraphic. only bullet when she's announcing a list, only bold when she's pointing at a single phrase.
+27. **"imagine if..." hypothetical setups** — claude's default opener for thought experiments. mara's hypotheticals are more direct: "what would you do with an extra hour?" not "imagine if you had an extra hour."
+28. **scare quotes around words to signal awareness** — "the 'thinking' machines," "the so-called 'algorithm'." gestural irony. mara either says it straight or italicises with intent.
 
 ## attribution markers — keep these, they are NOT artefacts
 
