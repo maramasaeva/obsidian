@@ -17,6 +17,22 @@ this matters: the person giving the workshop is *one of them*. young, queer, wor
 
 ---
 
+## dissolving the status lens
+
+(via [[Picking winnable battles and the status lens]], inadequate equilibria)
+
+the biggest risk to this workshop is the status lens. when someone walks into a classroom and stands at the front, the automatic association is negative: higher-status person shares knowledge with lower-status people. whatever they say gets filtered through "adult telling me what to do." you can't talk someone out of this — the status parser is automatic. the environment has to not trigger it in the first place.
+
+concrete moves:
+- **chairs in a circle.** no front of the room. mara sits in the circle, not behind a desk or next to a screen.
+- **free discussion space.** not mara-asks-students-answer. actual conversations among students. let the person with something interesting to say speak. let interesting threads develop. don't redirect everything through the facilitator.
+- **make the shared position explicit.** mara is also trying to scroll less. also struggling with attention. also trying new things that lead nowhere. the gap between facilitator and participant should be as small as possible.
+- **action over knowledge.** the goal isn't "now you understand the problem" — it's "now you try something different in your actual life." trying matters even if it leads to nowhere. the trying *is* the point.
+
+this is also why the workshop is the winnable battle (in yudkowsky's terms): the gap is real, the advantage is genuine, and the status lens works *for* mara instead of against. being young, non-institutional, and visibly in-the-struggle is an asset with teenagers — it's exactly what makes the status lens not fire.
+
+---
+
 ## format
 
 **90 minutes total.** not a lecture — an interactive workshop. mara leads, but the room drives. ratio: ~30% mara talking/showing, ~70% them talking/doing/discovering.
