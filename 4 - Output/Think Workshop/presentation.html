@@ -11,15 +11,17 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/theme/black.css" id="theme">
 <style>
   :root {
-    --bg: #111111;
-    --fg: #fafafa;
-    --muted: #b0b0b0;
-    --dim: #555;
+    --bg: #0a0a08;
+    --fg: #ddddd8;
+    --bright: #f0f0ea;
+    --muted: #888880;
+    --dim: #555550;
     --accent: #c8f060;
-    --pink: #ec4899;
-    --border: rgba(255,255,255,0.08);
-    --card-bg: #1a1a1a;
-    --input-bg: #1e1e1e;
+    --accent-dim: #8aaa30;
+    --pink: #f472b6;
+    --border: #222220;
+    --card-bg: #111110;
+    --input-bg: #161614;
   }
 
   .reveal-viewport { background: var(--bg); }
@@ -34,6 +36,42 @@
     background-repeat: repeat;
   }
 
+  .scanlines {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 9998;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(200, 240, 96, 0.015) 2px,
+      rgba(200, 240, 96, 0.015) 4px
+    );
+    opacity: 0.6;
+  }
+
+  .scanline-bar {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 9997;
+    background: linear-gradient(
+      transparent 0%,
+      rgba(200, 240, 96, 0.03) 45%,
+      rgba(200, 240, 96, 0.04) 50%,
+      rgba(200, 240, 96, 0.03) 55%,
+      transparent 100%
+    );
+    background-size: 100% 220px;
+    animation: scanroll 8s linear infinite;
+  }
+
+  @keyframes scanroll {
+    from { background-position: 0 -220px; }
+    to { background-position: 0 100vh; }
+  }
+
   .reveal {
     font-family: 'DM Mono', monospace;
     font-weight: 300;
@@ -44,7 +82,7 @@
   .reveal h1, .reveal h2, .reveal h3 {
     font-family: 'DM Mono', monospace;
     font-weight: 400;
-    color: var(--fg);
+    color: var(--bright);
     text-transform: none;
     letter-spacing: -0.02em;
     line-height: 1.2;
@@ -74,6 +112,7 @@
     color: var(--accent);
     line-height: 1;
     margin: 0.2em 0;
+    text-shadow: 0 0 30px rgba(200, 240, 96, 0.2);
   }
 
   .reveal .big-number .unit {
@@ -90,12 +129,13 @@
     max-width: 80%;
     margin: 0 auto;
     line-height: 1.5;
+    text-shadow: 0 0 20px rgba(200, 240, 96, 0.15);
   }
 
   .reveal .card {
     background: var(--card-bg);
-    border: 1px solid var(--border);
-    border-radius: 10px;
+    border: 0.5px solid var(--border);
+    border-radius: 0;
     padding: 1.5em;
     text-align: left;
     margin: 0.5em 0;
@@ -103,8 +143,8 @@
 
   .reveal .rule-card {
     background: var(--card-bg);
-    border: 1px solid var(--border);
-    border-radius: 10px;
+    border: 0.5px solid var(--border);
+    border-radius: 0;
     padding: 0.8em 1.2em;
     text-align: left;
     margin: 0.6em auto;
@@ -162,8 +202,8 @@
 
   .reveal .tool-card {
     background: var(--card-bg);
-    border: 1px solid var(--border);
-    border-radius: 10px;
+    border: 0.5px solid var(--border);
+    border-radius: 0;
     padding: 1em;
     text-align: left;
     font-size: 0.7em;
@@ -206,8 +246,8 @@
   .reveal .controls .navigate-up,
   .reveal .controls .navigate-down { color: var(--muted); }
 
-  .reveal a { color: var(--accent); text-decoration: none; }
-  .reveal a:hover { color: var(--pink); }
+  .reveal a { color: var(--accent); text-decoration: none; border-bottom: 0.5px solid var(--accent-dim); }
+  .reveal a:hover { color: var(--pink); border-color: var(--pink); }
 
   .reveal .two-col {
     display: grid;
@@ -234,8 +274,8 @@
   .answer-input-row input {
     flex: 1;
     background: var(--input-bg);
-    border: 1px solid var(--border);
-    border-radius: 8px;
+    border: 0.5px solid var(--border);
+    border-radius: 0;
     padding: 0.5em 0.8em;
     color: var(--fg);
     font-family: 'DM Mono', monospace;
@@ -245,14 +285,14 @@
     transition: border-color 0.2s;
   }
 
-  .answer-input-row input:focus { border-color: var(--accent); }
+  .answer-input-row input:focus { border-color: var(--accent); box-shadow: 0 0 12px rgba(200, 240, 96, 0.1); }
   .answer-input-row input::placeholder { color: var(--dim); }
 
   .answer-input-row button {
     background: var(--accent);
     color: var(--bg);
     border: none;
-    border-radius: 8px;
+    border-radius: 0;
     padding: 0.5em 1em;
     font-family: 'DM Mono', monospace;
     font-size: 0.65em;
@@ -272,8 +312,8 @@
 
   .answer-chip {
     background: var(--card-bg);
-    border: 1px solid var(--border);
-    border-radius: 20px;
+    border: 0.5px solid var(--border);
+    border-radius: 0;
     padding: 0.3em 0.8em;
     font-size: 0.6em;
     color: var(--fg);
@@ -281,7 +321,7 @@
   }
 
   .answer-chip.mara-chip {
-    border-color: var(--accent);
+    border-color: var(--accent-dim);
     color: var(--accent);
   }
 
@@ -312,8 +352,8 @@
   .screentime-input-row input {
     width: 100px;
     background: var(--input-bg);
-    border: 1px solid var(--border);
-    border-radius: 8px;
+    border: 0.5px solid var(--border);
+    border-radius: 0;
     padding: 0.5em 0.8em;
     color: var(--accent);
     font-family: 'DM Mono', monospace;
@@ -324,7 +364,7 @@
     transition: border-color 0.2s;
   }
 
-  .screentime-input-row input:focus { border-color: var(--accent); }
+  .screentime-input-row input:focus { border-color: var(--accent); box-shadow: 0 0 12px rgba(200, 240, 96, 0.1); }
   .screentime-input-row input::placeholder { color: var(--dim); font-size: 0.7em; }
 
   .screentime-input-row .st-unit {
@@ -336,7 +376,7 @@
     background: var(--accent);
     color: var(--bg);
     border: none;
-    border-radius: 8px;
+    border-radius: 0;
     padding: 0.5em 1em;
     font-family: 'DM Mono', monospace;
     font-size: 0.65em;
@@ -354,8 +394,8 @@
 
   .st-chip {
     background: var(--card-bg);
-    border: 1px solid var(--border);
-    border-radius: 8px;
+    border: 0.5px solid var(--border);
+    border-radius: 0;
     padding: 0.3em 0.7em;
     font-size: 0.9em;
     font-weight: 500;
@@ -364,7 +404,7 @@
   }
 
   .st-chip.high { color: var(--pink); border-color: var(--pink); }
-  .st-chip.mara { border-color: var(--accent); }
+  .st-chip.mara { border-color: var(--accent-dim); }
 
   #st-average {
     font-size: 1.5em;
@@ -386,33 +426,34 @@
   }
 
   .glitch::before {
-    animation: glitch-1 2s infinite linear alternate-reverse;
+    animation: glitch-1 3s infinite linear alternate-reverse;
     clip-path: polygon(0 0, 100% 0, 100% 35%, 0 35%);
     color: var(--pink);
-    opacity: 0.5;
+    opacity: 0.4;
   }
 
   .glitch::after {
-    animation: glitch-2 3s infinite linear alternate-reverse;
+    animation: glitch-2 4s infinite linear alternate-reverse;
     clip-path: polygon(0 65%, 100% 65%, 100% 100%, 0 100%);
     color: var(--accent);
-    opacity: 0.5;
+    opacity: 0.4;
   }
 
   @keyframes glitch-1 {
-    0% { transform: translate(0); }
-    20% { transform: translate(-2px, 1px); }
-    40% { transform: translate(2px, -1px); }
-    60% { transform: translate(-1px, 2px); }
-    80% { transform: translate(1px, -2px); }
+    0%, 85% { transform: translate(0); }
+    86% { transform: translate(-3px, 1px); }
+    88% { transform: translate(3px, -1px); }
+    90% { transform: translate(-2px, 2px); }
+    92% { transform: translate(0); }
     100% { transform: translate(0); }
   }
 
   @keyframes glitch-2 {
-    0% { transform: translate(0); }
-    25% { transform: translate(2px, -1px); }
-    50% { transform: translate(-2px, 1px); }
-    75% { transform: translate(1px, 2px); }
+    0%, 80% { transform: translate(0); }
+    82% { transform: translate(2px, -2px); }
+    84% { transform: translate(-3px, 1px); }
+    86% { transform: translate(1px, 3px); }
+    88% { transform: translate(0); }
     100% { transform: translate(0); }
   }
 
@@ -425,11 +466,34 @@
     margin-bottom: 0.5em;
   }
 
+  .act-label::before {
+    content: '> ';
+    color: var(--accent-dim);
+  }
+
+  /* cursor blink */
+  .blink-cursor::after {
+    content: '█';
+    color: var(--accent);
+    animation: blink 1s step-end infinite;
+    font-size: 0.9em;
+    margin-left: 0.1em;
+  }
+
+  @keyframes blink {
+    50% { opacity: 0; }
+  }
+
+  /* stat glow */
+  .reveal .stat .num {
+    text-shadow: 0 0 25px rgba(200, 240, 96, 0.2);
+  }
+
   /* AI demo */
   .ai-demo-box {
     background: var(--card-bg);
-    border: 1px solid var(--border);
-    border-radius: 10px;
+    border: 0.5px solid var(--border);
+    border-radius: 0;
     padding: 1.5em;
     text-align: left;
     max-width: 85%;
@@ -455,6 +519,8 @@
 </head>
 <body>
 <div class="noise"></div>
+<div class="scanlines"></div>
+<div class="scanline-bar"></div>
 
 <div class="reveal">
 <div class="slides">
@@ -691,6 +757,34 @@
     </div>
   </section>
 
+  <!-- revenue calculation -->
+  <section>
+    <p class="muted" style="font-size:0.7em;">jullie schermtijd is niet gratis.</p>
+    <div class="left" style="margin-top:1em;">
+      <p>laten we even rekenen.</p>
+      <p style="margin-top:0.8em;">jullie gemiddelde: <em>3 uur per dag</em></p>
+      <p style="margin-top:0.5em;">TikTok verdient per gebruiker per uur: ~<em>€0,15</em></p>
+      <p style="margin-top:0.5em;">3u × €0,15 × 365 dagen =</p>
+    </div>
+    <p class="big-number" style="margin-top:0.3em;">€164 <span class="unit">per jaar</span></p>
+    <p class="muted" style="font-size:0.7em;">per persoon. van jullie. gratis.</p>
+  </section>
+
+  <section>
+    <div class="stat-row">
+      <div class="stat">
+        <div class="num">€4.100</div>
+        <div class="label">deze klas, per jaar</div>
+      </div>
+      <div class="stat">
+        <div class="num" style="color:var(--pink);">€82M</div>
+        <div class="label">alle Vlaamse tieners, per jaar</div>
+      </div>
+    </div>
+    <p style="margin-top:1.5em;">jullie geven je tijd <em>gratis</em> weg.</p>
+    <p style="margin-top:0.5em;">en iemand anders wordt er <em>rijk</em> van.</p>
+  </section>
+
   <section>
     <p class="muted" style="font-size:0.7em;">71 studies. 98.299 mensen. vijf continenten.</p>
     <div class="left" style="margin-top:1em;">
@@ -877,29 +971,55 @@
     </div>
   </section>
 
-  <!-- deep thinking experiment -->
+  <!-- design the most addictive app -->
   <section>
     <p class="act-label">experiment</p>
-    <h2>laten we het proberen.</h2>
-    <p class="muted" style="margin-top:0.5em; font-size:0.8em;">nu. samen. in deze ruimte.</p>
+    <h2>ontwerp de meest<br>verslavende app.</h2>
+    <p class="muted" style="margin-top:0.5em; font-size:0.8em;">groepjes van 3-4. pen en papier. geen telefoon.</p>
   </section>
 
   <section>
     <div class="left">
-      <p>we gaan iets doen dat jullie brein niet meer gewend is:</p>
-      <p style="margin-top:1em; font-size:1.2em;"><em>diep nadenken over iets nieuws.</em></p>
-      <p style="margin-top:1em;">geen telefoon. geen AI. geen shortcut.</p>
-      <p style="margin-top:1em;">gewoon jullie brein.</p>
+      <p>jullie zijn een startup.</p>
+      <p style="margin-top:0.5em;">jullie enige doel:</p>
+      <p style="margin-top:0.5em; font-size:1.2em;"><em>maak een app waar niemand mee kan stoppen.</em></p>
+      <p style="margin-top:1.5em;">welke features gebruik je?</p>
+      <p>welke psychologische trucs?</p>
+      <p>hoe hou je mensen op het scherm?</p>
+      <p style="margin-top:1.5em; font-size:0.7em;" class="muted">jullie hebben 8 minuten.</p>
     </div>
   </section>
 
   <section>
+    <p class="muted" style="font-size:0.6em;">[ 8 minuten — loop rond, luister, laat ze werken ]</p>
+    <p class="divider" style="margin-top:2em;">* * *</p>
+    <p style="margin-top:2em;">tijd.</p>
+    <p style="margin-top:1em;">wat hebben jullie ontworpen?</p>
+    <p class="muted" style="font-size:0.7em; margin-top:0.5em;">[ verzamel features op het bord ]</p>
+  </section>
+
+  <section>
+    <p class="question" style="text-align:center; max-width:90%;">kijk naar het bord.<br>herken je deze features?</p>
+    <p class="muted" style="margin-top:1.5em; font-size:0.8em;">jullie hebben net TikTok ontworpen.</p>
+    <p style="margin-top:0.5em;">in 8 minuten.</p>
+  </section>
+
+  <section>
     <div class="left">
-      <p class="muted" style="font-size:0.6em;">[ het experiment wordt live geleid door mara — details volgen ]</p>
-      <p style="margin-top:1.5em;">hoe voelde dat?</p>
-      <p style="margin-top:0.5em;">anders dan scrollen?</p>
-      <p style="margin-top:1em;"><em>dat is wat je brein kan als je het de kans geeft.</em></p>
+      <p><em>niet omdat jullie geniaal zijn.</em></p>
+      <p style="margin-top:0.5em;">maar omdat jullie het al kennen.</p>
+      <p style="margin-top:0.5em;">jullie leven erin.</p>
+      <p style="margin-top:1.5em;">en nu weten jullie ook:</p>
+      <p style="margin-top:0.5em; font-size:1.1em;"><em>het is geen toeval. het is een ontwerp.</em></p>
     </div>
+  </section>
+
+  <section>
+    <p class="question" style="text-align:center; max-width:90%;">nu flip het om.</p>
+    <p style="margin-top:1em;">jullie app verzamelt data over elke gebruiker.</p>
+    <p style="margin-top:0.5em;">op basis van wat ze klikten, scrollden, en hoe lang ze keken —</p>
+    <p style="margin-top:1em;"><em>welk profiel bouwt jullie app?</em></p>
+    <p class="muted" style="margin-top:0.5em; font-size:0.8em;">wat weet het over hen? wat verkoopt het?</p>
   </section>
 
   <!-- rolmodellen callback -->
@@ -976,6 +1096,29 @@
     </div>
   </section>
 
+  <!-- friend dare -->
+  <section>
+    <p class="act-label">de vriend-dare</p>
+    <h2>ontwerp iets voor<br>de persoon naast je.</h2>
+    <p class="muted" style="margin-top:0.5em; font-size:0.8em;">niet als straf. als cadeau.</p>
+  </section>
+
+  <section>
+    <div class="left">
+      <p>draai je naar je buurman of buurvrouw.</p>
+      <p style="margin-top:1em;">ontwerp een <em>klein experiment</em> voor hen. één week.</p>
+      <p style="margin-top:0.5em;">iets dat goed voor hen is. omdat je om hen geeft.</p>
+      <p style="margin-top:1.5em; font-size:0.8em; color:var(--muted);">vast? probeer:</p>
+      <ul style="font-size:0.75em; color:var(--muted);">
+        <li>geen telefoon het eerste uur na wakker worden, 3 dagen</li>
+        <li>maak iets met je handen en laat het me zien</li>
+        <li>bel iemand in plaats van een bericht</li>
+        <li>schrijf elke dag één ding op dat je opviel</li>
+      </ul>
+      <p style="margin-top:1em;">over een week: <em>wat is er gebeurd?</em></p>
+    </div>
+  </section>
+
   <!-- samen -->
   <section>
     <div class="left">
@@ -1023,6 +1166,28 @@
         <button onclick="addAnswer('q-onething',this.previousElementSibling)">+</button>
       </div>
       <div class="answer-list"></div>
+    </div>
+  </section>
+</section>
+
+
+<!-- ========================================== -->
+<!-- DE DOOS                                    -->
+<!-- ========================================== -->
+<section>
+  <section>
+    <p class="act-label">de doos</p>
+    <h2>schrijf één ding op.</h2>
+    <p class="muted" style="margin-top:0.5em; font-size:0.8em; max-width:80%; margin-left:auto; margin-right:auto;">iets dat je geraakt heeft. iets dat je wil proberen.<br>iets dat je nog nooit hardop gezegd hebt.</p>
+  </section>
+
+  <section>
+    <div class="left">
+      <p>niemand leest dit.</p>
+      <p style="margin-top:0.5em;">ik niet. je leerkracht niet.</p>
+      <p style="margin-top:1.5em;">vouw het op. stop het in de doos.</p>
+      <p style="margin-top:1.5em;"><em>dit is van jullie.</em></p>
+      <p class="muted" style="margin-top:2em; font-size:0.6em;">[ stilte. laat ze schrijven. ]</p>
     </div>
   </section>
 </section>

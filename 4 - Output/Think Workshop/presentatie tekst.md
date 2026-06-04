@@ -238,6 +238,26 @@ maar je brein is slim. het compenseert. het zakt onder je basislijn. na een tijd
 
 dat ben jij niet die kapot is. dat is het ontwerp dat precies doet wat het moet doen. en het is niet dat iédereen dit heeft, dit type verslaving, dat het gewoon oke is. de meeste zaken waaraan we verslaafd kunnen raken zijn verboden of gelimiteerd omdat ze een negatief effect hebben op onze gezondheid. hetzelfde geldt voor je telefoon, scrollen, maar dat kan niemand van jullie afpakken, omdat het zo hard in onze sociale infrastructuur gebakken zit, en omdat mensen er gewoon zoveel geld mee verdienen. 
 
+### revenue — laten we rekenen
+
+*[slide: schermtijd × revenue = €164 per persoon per jaar]*
+
+oké en nu ga ik iets doen wat een beetje oncomfortabel is. we gaan even rekenen.
+
+jullie hebben net je schermtijd gezien. laten we zeggen dat het gemiddelde in deze kamer 3 uur per dag is. TikTok verdient ongeveer 15 cent per uur per gebruiker. dat is een gemiddelde, het verschilt per land, maar de orde van grootte klopt.
+
+3 uur keer 15 cent keer 365 dagen. dat is €164 per persoon per jaar.
+
+*[schrijf het op het bord terwijl je rekent.]*
+
+€164. dat is wat jij waard bent voor TikTok. per jaar. en je ziet er niks van terug. je betaalt met je tijd en je aandacht en je krijgt... content. die je morgen vergeten bent.
+
+*[slide: €4.100 deze klas, €82M alle Vlaamse tieners]*
+
+en nu: deze klas samen. 25 mensen keer 164 — dat is €4.100 per jaar. gewoon deze kamer. en alle vlaamse tieners bij elkaar? €82 miljoen. per jaar. en dat is alleen TikTok. tel instagram, snapchat, youtube erbij en je verdubbelt het makkelijk.
+
+jullie geven je tijd gratis weg. en iemand anders wordt er stinkend rijk van. niet omdat jullie dom zijn. maar omdat het systeem zo werkt. jullie zijn het product. jullie aandacht is de grondstof. en niemand heeft jullie dat ooit zo verteld.
+
 ### de meta-analyse
 
 *[slide: "71 studies. 98.299 mensen. vijf continenten."]*
@@ -380,19 +400,47 @@ lezen. dat was het enige dat hun brein terug opbouwde. niet als huiswerk — als
 
 ik zeg niet dat jullie allemaal een boek moeten gaan lezen. maar ik zeg wel: lezen is het enige waarvan we weten dat het je brein terug opbouwt in plaats van afbreekt.
 
-### deep thinking experiment
+### design the most addictive app
 
-*[slide: "laten we het proberen. nu. samen. in deze ruimte."]*
+*[slide: "ontwerp de meest verslavende app." groepjes van 3-4, pen en papier.]*
 
-*[slide: "diep nadenken over iets nieuws. geen telefoon. geen AI. geen shortcut. gewoon jullie brein."]*
+oké, we gaan iets doen. jullie gaan in groepjes van drie of vier. pak een pen en een blad papier. telefoons mogen weg, die heb je niet nodig, maar jullie hersenen wel.
 
-*[dit deel is nog in ontwikkeling — mara leidt het experiment live. het kan een creatieve oefening zijn, een probleemoplossing, een schrijfopdracht. het punt is: ze doen iets dat langer dan twee minuten duurt, zonder hulp, en merken het verschil.]*
+de opdracht: jullie zijn een startup. jullie hebben één doel. maak een app die zo verslavend mogelijk is. ik wil dat mensen er letterlijk niet mee kunnen stoppen. elke psychologische truc die je kent, elke feature die je kan bedenken — alles mag. hoe maak je een app waar iemand om 11 uur 's avonds zegt "nog vijf minuutjes" en dan is het opeens 1 uur 's nachts?
 
-*[na het experiment:]*
+*[laat ze lachen. het is grappig. het is ook dodelijk serieus.]*
 
-hoe voelde dat? anders dan scrollen?
+jullie hebben 8 minuten. go.
 
-dat is wat je brein kan als je het de kans geeft. dat gevoel — dat je ergens *in* zat, dat de tijd even anders liep — dat is concentratie. dat is wat je kwijt bent aan het raken. en het is er nog. het heeft gewoon ruimte nodig.
+*[slide: timer/wachtslide — loop rond, luister, laat ze werken. ze zullen het eng goed doen. sommige groepjes zullen features bedenken die letterlijk bestaan. dat is het punt.]*
+
+*[na 8 minuten:]*
+
+oké, tijd. wat hebben jullie?
+
+*[laat elke groep hun beste features noemen. schrijf ze op het bord. infinite scroll, streaks, notificaties, gepersonaliseerde feed, autoplay, social validation, pull-to-refresh...]*
+
+*[slide: "kijk naar het bord. herken je deze features?"]*
+
+kijk naar het bord.
+
+*[stilte. laat ze kijken.]*
+
+herken je deze features?
+
+ja. dit is TikTok. dit is instagram. dit is snapchat. jullie hebben net in 8 minuten exact hetzelfde ontworpen als wat honderden ingenieurs met miljarden euro's gebouwd hebben. niet omdat jullie geniaal zijn — maar omdat jullie het al kennen. jullie wonen erin. elke dag. en nu weten jullie: het is geen toeval. het is een ontwerp. en jullie kennen het ontwerp. jullie hebben het net zelf gemaakt.
+
+*[slide: "niet omdat jullie geniaal zijn. maar omdat jullie het al kennen."]*
+
+en dat verandert iets. want je kan niet meer doen alsof het normaal is. je kan niet meer doen alsof het gewoon een leuke app is. jullie weten nu hoe het werkt. van binnenuit.
+
+*[slide: "nu flip het om. jullie app verzamelt data..."]*
+
+en nu gaan we het omdraaien. jullie app verzamelt data over elke gebruiker. alles wat ze klikken, hoe lang ze kijken, waar ze stoppen met scrollen, wat ze overslaan. op basis van die data — welk profiel bouwt jullie app? wat weet het over hen? en wat verkoopt het aan adverteerders?
+
+*[laat ze antwoorden. ze zullen het weten: leeftijd, interesses, onzekerheden, koopgedrag, emotionele triggers. want dat is precies wat hun eigen apps over hen weten.]*
+
+ja. precies. dat is wat er gebeurt met jullie data. elke dag. jullie hebben het net zelf ontworpen. welkom bij het internet.
 
 ### rolmodellen
 
@@ -458,6 +506,28 @@ maar als het moeilijk was? als je je onrustig voelde, als je hand bleef zoeken n
 
 en dan: wat heb je gedaan in de plaats? *dat* is waar het om gaat. niet "ik heb een dag overleefd zonder telefoon" maar "ik heb getekend," "ik heb met mijn zus gepraat," "ik ben gaan hardlopen," "ik heb twee uur gelezen en vergeten hoe laat het was."
 
+### de vriend-dare
+
+*[slide: "ontwerp iets voor de persoon naast je. niet als straf. als cadeau."]*
+
+oké, en nu iets dat ik misschien nog leuker vind dan de phone-free day. draai je naar de persoon naast je. kijk ze even aan.
+
+*[wacht. laat ze draaien. sommigen zullen lachen. dat is goed.]*
+
+jullie gaan iets voor elkaar ontwerpen. een klein experiment. voor één week. iets dat goed is voor de ander. niet om te straffen, niet om te controleren — omdat je om die persoon geeft. dit is een cadeau.
+
+*[slide: voorbeelden — geen telefoon eerste uur, maak iets, bel iemand, schrijf iets op]*
+
+als je vast zit, hier zijn wat ideeën. geen telefoon het eerste uur na wakker worden, drie dagen lang. maak iets met je handen en laat het me zien — tekenen, koken, knutselen, maakt niet uit. bel iemand in plaats van een bericht te sturen. schrijf elke dag één ding op dat je opviel. één dag alleen muziek in plaats van scrollen.
+
+maar het hoeft niet een van deze te zijn. bedenk iets voor je buurman of buurvrouw. iets waarvan je denkt: dat zou goed voor hen zijn.
+
+*[geef ze 2 minuten. ze fluisteren, ze lachen, ze onderhandelen. perfect.]*
+
+en over een week check je in. wat is er gebeurd? was het moeilijk? was het verrassend? heb je iets ontdekt?
+
+dit is niet iets dat ik jullie opleg. dit is iets dat jullie voor elkaar doen. omdat jullie om elkaar geven. en dat is sterker dan welke app ook.
+
 ### samen
 
 *[slide: "dit is geen persoonlijk falen. dit is een generatie-uitdaging."]*
@@ -491,6 +561,26 @@ laatste vraag. waar wil je deze week je tijd in steken? niet een goed voornemen,
 *[laat een paar mensen antwoorden. typ ze in. laat de kamer vol raken met dingen die mensen willen doen.]*
 
 dat is al genoeg. jullie hebben net allemaal hardop gezegd waar jullie om geven. in een kamer vol echte mensen. dat is al meer dan scrollen ooit zou geven.
+
+### de doos
+
+*[slide: "schrijf één ding op."]*
+
+oké. allerlaatste ding. ik heb een doos meegebracht. *[haal de doos tevoorschijn. karton, gleuf erin, simpel.]* en iedereen krijgt een papiertje.
+
+schrijf één ding op. het maakt niet uit wat. iets dat je vandaag geraakt heeft. iets dat je wil proberen. iets dat je bang maakt. iets dat je nog nooit aan iemand verteld hebt. of gewoon iets dat je voelt, nu, in dit moment.
+
+niemand leest dit. ik niet. je leerkracht niet. je klasgenoten niet. dit is niet voor instagram. dit is niet voor een score. dit is van jullie.
+
+*[geef ze een minuut. het wordt stil. dat is goed. laat de stilte.]*
+
+vouw het op. stop het in de doos.
+
+*[laat ze één voor één naar de doos komen. of geef de doos door. geen haast.]*
+
+deze doos blijft hier. jullie leerkracht beslist samen met jullie wat ermee gebeurt. open hem over een maand. of verbrand hem. of bewaar hem voor altijd dicht. maakt niet uit. het punt is niet wat erin zit. het punt is dat jullie net iets gemaakt hebben dat niet geconsumeerd wordt. iets dat van jullie is en van niemand anders.
+
+en dat — iets maken dat niet voor een scherm is, niet voor likes, niet voor een publiek — dat is precies waar het vandaag over ging.
 
 ---
 

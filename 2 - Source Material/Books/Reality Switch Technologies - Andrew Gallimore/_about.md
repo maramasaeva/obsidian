@@ -1,0 +1,23 @@
+Status: reading (pages 151-189 processed)
+Tags: [[drugs]], [[loops]], [[zeroes and ones]], [[hyperstition]], [[sorcery]], [[tao]]
+
+# Reality Switch Technologies: Psychedelic Molecular Technology Technical Manual — Andrew Gallimore
+
+andrew gallimore is a computational neurobiologist based in okinawa, japan. the book is a technical manual — dense neuropharmacology presented with the aesthetic of a classified japanese military document (stamps reading 現実制御学研究所、東京 — "reality control science research institute, tokyo," marked 秘 — "classified"). it's not pop science. it's a serious attempt to build a neuroscientific framework for what psychedelics actually do to the brain's world-building machinery, and whether the worlds they produce are "real."
+
+the core framework: the brain constructs a *world model* by navigating a vast state space called the **World Space Landscape**. normal waking consciousness occupies a small, stable region called the **Consensus Reality Space (CRS)**. psychedelics flatten the landscape, destabilize the CRS, and allow the cortex to explore states outside of it — including entirely novel "reality channels" that bear no resemblance to the normal waking world.
+
+the key question the book builds toward: when DMT users consistently report entering hypertechnological alien worlds populated by intelligent entities, is the brain fabricating these worlds, or is it *receiving information from an extrinsic source* — an alternate reality existing independently of our brains?
+
+mara is partway through. pages 151-189 cover chapters 8-9 (the C-Switch at the neuron level and the network level).
+
+## potential threads
+
+- **the world space as cortical state space** — [[loops]], [[zeroes and ones]]: gallimore's "world space landscape" is a topological framework where consciousness = movement through an attractor landscape. the CRS is a basin of attraction. psychedelics flatten the basin walls. this maps directly onto mara's interest in loops and the zero — the zero as the flattened landscape, the state where all possibilities are equally reachable.
+- **DMT space as extrinsic reality** — [[hyperstition]], [[sorcery]]: the book takes seriously the idea that DMT worlds are not hallucinations but access to a genuinely external information source. if hyperstition is fiction that makes itself real, the DMT space might be a reality that was always real but normally inaccessible — not something brought into being by belief, but something *revealed* by molecular perturbation.
+- **consensus reality as a filter, not the ground truth** — [[drugs]], [[tao]]: the book's framework implies that "normal" perception is not more real than psychedelic perception — it's just the brain's most energy-efficient world model. the CRS is a local minimum, not the truth. this connects to the foucault quote mara already has in the vault (via hannah baer): *"can we still know what we knew before the experience of drugs?"*
+- **the ant colony and emergent restructuring** — [[loops]], [[Spyrodynamism]]: gallimore uses ant colonies as an analogy — individual ants can trigger society-wide behavioral switches through chemical signaling. similarly, a single molecule can restructure the brain's entire attractor landscape. this is spyrodynamic: small perturbations → systemic phase transitions.
+- **the reality channel switch as literal channel surfing** — [[Network spirituality]]: the brain has multiple "reality channels" it can tune into. normal waking reality is one channel. DMT space is another. the molecule is the remote control. this reframes consciousness not as a single stream but as a selector among parallel information flows.
+- **entity encounters and the limits of neuroscience** — [[sorcery]], [[drugs]]: the book documents entity encounters (hypertechnological beings, alien intelligence) and treats them as data to be explained, not dismissed. gallimore doesn't claim they're real or unreal — he maps the neuroscience and leaves the ontological question genuinely open. the honest answer is: we don't know.
+- **closed-eye DMT indistinguishable from open-eye waking** — [[zeroes and ones]]: at breakthrough doses, the EEG signature of closed-eye DMT is virtually identical to normal open-eye waking. the brain appears to be *viewing a world* — it just isn't the one outside your skull. the zero between hallucination and reality collapses.
+- **time branches and consensus reality** — mara's thought experiment: if these entities and experiences exist outside consensus reality, they might exist in branches of time we can't normally access. the CRS constrains not just spatial perception but temporal perception. psychedelics might open access to states where non-linear time is perceivable.

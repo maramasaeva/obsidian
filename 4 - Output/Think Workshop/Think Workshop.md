@@ -95,6 +95,20 @@ this section needs to be concrete, visual, not preachy. numbers, brain scans, be
 
 **interactive beat:** quick show of hands — *how many of you can sit through a full youtube video without checking something else? how many of you read a book this month? how many of you feel like your attention is worse than it was two years ago?*
 
+**revenue calculation — make it personal:**
+
+after the show of hands, do this on the whiteboard. take the room's average screen time from act I. walk them through it:
+
+- average daily screen time in the room: say 3 hours
+- tiktok's estimated revenue per user per hour: ~€0.10–0.20
+- 3h × €0.15 × 365 = ~€164 per person per year
+- a class of 25: ~€4,100 per year. just this room.
+- all flemish teenagers (~500,000): ~€82 million per year
+
+the numbers don't have to be exact. the order of magnitude is what matters. they give their time for free and someone else gets paid. this is not abstract exploitation — it's arithmetic.
+
+this is the truth campaign move: don't tell them scrolling is bad. show them who profits from it. expose the manipulator, don't lecture the manipulated. *(source: american legacy foundation's truth anti-smoking campaign, 2000 — the campaign that actually worked with teens wasn't "smoking kills," it was "tobacco companies are lying to you and getting rich." rebellion against the system, not compliance with authority.)*
+
 ### 4. the value of long-form *(10 min)*
 
 **format:** short talk + personal examples.
@@ -135,6 +149,16 @@ this isn't abstract. this is happening right now. every day they scroll instead 
 
 **interactive beat:** *if an AI learned everything about the world only from your phone's screen time — what kind of intelligence would it become? what would it think humans care about?*
 
+**the profiling exercise — somekone simulator or manual:**
+
+if the school has a computer room or students have laptops: use somekone (somekone.gen-ai.fi), a finnish tool from the generation AI program. it simulates a social media platform where students see how their behavior — likes, scrolls, time spent — creates a profile the platform sells. designed for teenagers, takes ~10 minutes.
+
+if no screens available: do it manually. give each student a card. on one side they write three things they looked at on their phone yesterday (a video, a meme, a song, whatever). on the other side, other students try to "profile" them: what would an algorithm conclude about this person? what ads would it show them? what content would it push next?
+
+the point: they see themselves being turned into data points. "you are the training data" stops being a metaphor and becomes something they just experienced. the abstraction becomes visceral.
+
+*(source: finland's generation AI curriculum. somekone was developed by the finnish national agency for education. the manual version is adapted from EU better internet for kids profiling exercises.)*
+
 *source threads to draw from (simplified for the workshop):*
 - preciado: *"we feed and grow the intelligence of AI while we lose our own"* — [[Telebodies]]
 - lovink: the automation of the social is not a side effect, it's the purpose — [[Attention collapse and the automation of the social]]
@@ -145,20 +169,39 @@ this isn't abstract. this is happening right now. every day they scroll instead 
 
 keep it grounded. no jargon in the actual slides — the concepts above are for *your* preparation, not for the kids directly. in the room, it's: *you are the data. what you make matters. the future literally learns from you.*
 
-### 6. the deep thinking experiment *(10 min)*
+### 6. design the most addictive app *(15 min)*
 
-**format:** something done together, in the room, right now. this is the hardest section to design and the most important.
+**format:** small groups of 3-4. pen and paper. no phones. this is the exercise that replaces the abstract with the visceral.
 
-the problem (from jordi's reply to mara's tweet): *"I don't think that someone whose brain is already fried by AI slop and doomscroll short content is going to be much receptive to 'what was lost', because they never truly experienced it."* you can't argue them into understanding what sustained attention feels like. you have to make them *experience* it.
+the prompt: *"jullie zijn een startup. jullie enige doel: maak een app die zo verslavend mogelijk is. je wil dat mensen er niet meer mee kunnen stoppen. welke features gebruik je? welke psychologische trucs? hoe hou je ze op het scherm?"*
 
-so: create a moment in the workshop where they actually use their brain deeply — and notice the difference.
+give them 8 minutes. walk around, listen. they will be frighteningly good at this — they already know all the tricks because they live inside them.
 
-**what this could be (TBD — mara is still designing this):**
-- a live collaborative problem-solving exercise with claude code — mara shows how to think *with* AI instead of outsourcing to it. the room works through something together. they see what their brain can do when they direct it.
-- a creative exercise done without any devices — writing, drawing, building something physical. 5 minutes of sustained attention on a single task. then reflect: how did that feel? different from scrolling?
-- something completely new. mara wants to experiment with this.
+**what they'll come up with:**
+- infinite scroll
+- notifications at random intervals
+- streaks that punish you for stopping
+- social validation (likes, followers, hearts)
+- FOMO mechanics ("X is typing," "Y just posted")
+- personalized feed that knows what you want
+- short videos that autoplay
+- pull-to-refresh
 
-the point: before the challenge, give them a *taste* of what their brain can actually do when it's focused. that becomes the motivation for the dare.
+**the reversal:** when time is up, collect the features from each group. write them on the board. then pause.
+
+*"kijk naar het bord. herken je deze features?"*
+
+they will. they just described TikTok. Instagram. Snapchat. every app they use every day.
+
+*"jullie hebben net in 8 minuten hetzelfde ontworpen als wat teams van honderden ingenieurs met miljarden euro's budget gebouwd hebben. niet omdat jullie geniaal zijn — maar omdat jullie het al kennen. jullie leven erin. jullie weten precies hoe het werkt. en nu weten jullie ook dat het geen toeval is."*
+
+**the profiling flip:** now flip it. *"jullie app verzamelt data over elke gebruiker. op basis van wat ze klikten, scrollden, en hoe lang ze keken — welk profiel bouwt jullie app? wat weet het over hen? wat verkoopt het aan adverteerders?"*
+
+let them answer. they'll describe exactly what platforms do with their data — because they just designed the system themselves.
+
+this is the move: they didn't learn it from a lecture. they designed it themselves. the knowledge is now theirs. they can't unknow it.
+
+*(exercise source: adapted from EU better internet for kids program and finland's generation AI curriculum. the "design the manipulator" approach works because it flips the power dynamic — instead of being the target, they become the architect, and in doing so, see the architecture.)*
 
 ### 7. the challenge: bewijs het *(10 min)*
 
@@ -172,6 +215,21 @@ options:
 - **wissel met een vriend** — you swap phones. they control what you can access. social, fun, slightly chaotic.
 - **geef het aan mij** — mara holds their phone during the workshop as a symbolic start. (only works for the workshop day itself, but sets the tone.)
 - **zet hem uit. leg hem weg. niet kijken.** — the most powerful version. just you and the day.
+
+**the friend dare — micro-experiments in pairs:**
+
+before or alongside the big challenge, do this in the room: pair them up. each person designs a small experiment for their partner. not a punishment — an experiment. framed as care: *"je geeft om deze persoon. ontwerp iets dat goed voor hen is. één week."*
+
+examples to suggest if they're stuck:
+- "geen telefoon voor het eerste uur na wakker worden, drie dagen lang"
+- "maak iets met je handen — tekenen, koken, bouwen — laat het me zien"
+- "bel iemand in plaats van een bericht te sturen"
+- "schrijf elke dag één ding op dat je gezien, gedacht of gevoeld hebt"
+- "één dag alleen muziek in plaats van scrollen"
+
+the framing matters: this is care, not control. you're not policing your friend — you're designing something for them because you give a shit. and they do the same for you. after a week, check in: what happened? what was hard? what was surprising?
+
+this is the mesh starting to form — not from a program, but from two people who decided to look out for each other.
 
 the point is NOT abstinence. it's not about streaks or detox. it's about what they *do* with the time they get back. what happens when you're bored and there's no phone? what do you reach for instead? what do you notice? what do you make?
 
@@ -218,6 +276,22 @@ this is not a personal failing. this is a generational challenge.
 *as a generation, we can do this together. we can form connections that no other generation has formed before. we can be greater than this.*
 
 frame it as collective action, not individual discipline. this generation has tools and awareness that previous ones didn't. the struggle is shared — the solution can be too.
+
+### 8b. the box *(5 min)*
+
+**format:** anonymous, collective, private. the last thing before tools.
+
+bring a cardboard box with a sealed slot in the top. give everyone a small piece of paper.
+
+*"schrijf één ding op. iets dat je vandaag geraakt heeft, iets dat je wil proberen, iets dat je bang maakt, iets dat je nog nooit hardop gezegd hebt. het maakt niet uit wat. niemand leest dit — ik niet, je leerkracht niet. dit is van jullie."*
+
+give them a minute. let them write. let them fold the paper and put it in the box.
+
+the box stays sealed. no one opens it. the act of writing is the point — externalizing a thought without it being consumed by anyone, without it becoming content, without it being liked or shared or judged. writing something and letting it exist in silence. the opposite of social media.
+
+*(adapted from postsecret's community exercise model. frank warren found that the act of writing a secret — even if no one reads it — changes the writer's relationship to it. the sealed box works because it's creation without audience.)*
+
+leave the box with the teacher. they can decide with the class what to do — open it in a month, burn it, keep it sealed forever. the point isn't the content. the point is the act.
 
 ### 9. the practical: tools + finding your thing *(10 min)*
 
@@ -534,6 +608,6 @@ see `Research/` subfolder. key areas:
 - [ ] find a good live demo flow for opal setup (so everyone can do it together in the room)
 - [ ] refine the 7 cognitive health rules — test them: are they concrete enough? memorable? would a 16-year-old repeat them?
 - [ ] design a one-page "mesh map" — visual version of the table above, for the government pitch
-- [ ] **design the deep thinking experiment (section 6)** — the hardest and most important part. what makes them experience sustained attention? options: claude code live collab, creative exercise without devices, something else entirely. needs to land in 10 minutes and feel different from everything else in their school day.
+- [x] **design the deep thinking experiment (section 6)** — replaced with "design the most addictive app" exercise + profiling flip. small groups design a maximally addictive app, then realize they described their own apps.
 - [ ] **vibecode the tracking website** — simple vercel site. class code, name input, daily log (what did you do instead? what are you proud of?), feed of classmates' entries. NOT a streak tracker — a gain tracker. keep it minimal. maybe next.js + a simple db (vercel postgres or even just json).
 - [ ] reply to @blankspaces_222 with what we're building — they might have more ideas, especially about making reading appealing to teens
