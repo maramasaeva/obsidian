@@ -59,6 +59,18 @@ maybe the discourse is boring bc everyones either debunking or dooming & nobody 
 
 ur values spread the same way a meme does. imperfectly. losing fidelity with each copy. u say "i believe in beauty" & by the time it passes thru 3 ppl its "i believe in aesthetics" & by the time it hits the algorithm its "engagement metrics on pretty content." the funhouse mirror brangus talks abt isnt a bug in alignment. its the mutation rate of values under replication pressure.
 
+--> eventual tweet: """memes lose meaning and become more abstracted as time passes, as the meme passes from brain to the next. so do our values; with each copy, ur values lose fidelity
+
+  
+
+i say "i believe in beauty" & by the time it passes thru 3 ppl its "i believe in aesthetics" & by the time it really goes viral the algorithm makes it into "engagement metrics on pretty content" how does that happen, how does the mirror in the funhouse of virality warp and distort and mutate information? what happens there?
+
+  
+
+is it a warping mirror, or does the information warp itself? is this mutilation or automutilation? where does the thirst for annihilation originate from?"""
+
+
+
 alignment isnt a coding problem. its a virology problem.
 
 → engages brangus' kludge-of-values post. short enough for a quote tweet. the sonic warfare book backs this up.
