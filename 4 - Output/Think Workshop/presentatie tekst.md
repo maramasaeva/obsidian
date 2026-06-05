@@ -90,9 +90,7 @@ dus geen les, geen presentatie, beetje interactie mag, ik ben geen leerkracht. a
 
 *[slide: "laten we eerlijk zijn. ik ga eerst."]*
 
-we gaan even eerlijk zijn met elkaar. ik ga eerst — ik ga bij elke vraag mijn eigen antwoord geven, en dan hoor ik graag het jouwe.
-
-en ik wil dat jullie eerlijk zijn. niet wat je denkt dat ik wil horen. gewoon de waarheid.
+we gaan even eerlijk zijn met elkaar. ik ga bij elke vraag mijn eigen antwoord geven, en dan hoor ik graag het jouwe.
 
 ### slaap
 
