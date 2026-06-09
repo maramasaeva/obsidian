@@ -2,6 +2,8 @@
 
 _note added by claude, may 2026. this is a dossier compiled at mara's request after a friend-group raised concerns about the SV-rationalist scene that plzdontkillus is embedded in. treat as research + working assessment, not as my voice. companion to [[plzdontkillus application - April 2026]]. mara should re-research before acting on anything in here — the scene moves and people show up in new ways._
 
+**update june 8 2026: mara got accepted into plzdontkillus. visa in progress. ten years of knowing, and it's real. hyperstition works.**
+
 Status: #baby
 Tags: #plzdontkillus #residency #berkeley #safety #ai-safety #rationalism
 
