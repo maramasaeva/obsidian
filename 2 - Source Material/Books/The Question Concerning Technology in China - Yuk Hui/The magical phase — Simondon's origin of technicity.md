@@ -13,4 +13,8 @@ this is the deep history underneath [[Demythologisation is always remythologisat
 
 what the rationalist scene calls "technology" is figure without ground — tools stripped of cosmos. what indigenous and non-western traditions preserve is the ground that the figure keeps trying to leave behind. neither is complete alone.
 
+_note added by mara, june 2026: you can still see the magical phase in religious practice. prayer is a technology. giving to the poor is a technology. reading the bible is a technology. these are rituals that intensify your connection with the cosmos and harmonise you with it — and in that sense they are genuinely magical. we think of magic as wizardry, wands, harry potter — but that's magic after the split. before the bifurcation, magic didn't hold a "magical" connotation. it was just a way of being. me sitting here would be magic. breathing would be magic. everything was magic because the tool and the ritual hadn't separated yet. magic was not the exception — it was the default. it was just truth and good, undivided._
+
+_before the split, there was no word for magic because there was nothing non-magical to contrast it with. magic only becomes "magic" — strange, other, supernatural — after technics and religion go their separate ways. the wizard with the wand is what's left of the magical phase after it's been exiled from the everyday. the wand is a tool pretending to still be a ritual._
+
 Connects to: [[Cosmotechnics — technics under cosmological conditions]], [[Demythologisation is always remythologisation]], [[Ganying — resonance as Chinese cosmotechnics]], [[Four ontologies of nature — Descola]]
