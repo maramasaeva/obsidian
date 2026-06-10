@@ -27,6 +27,8 @@ this means alignment is not only an engineering problem. it is a cosmotechnical 
 ## toward a solution
 if the distortion is cosmotechnical, then the solution is cosmotechnical too. not better specification — different mirrors. AI built from different cosmologies would warp values in different directions. the distortions might cancel out, complement each other, or reveal which aspects of human values are truly universal (if any) and which are cosmological artifacts. cosmotechnical pluralism in AI design might be the only way to triangulate toward values that aren't just one culture's reflection.
 
+_note added by claude, june 2026. a concrete example surfaced: china's AI labs (deepseek, qwen, yi) ship open-source models while american labs (openai, anthropic, google) keep theirs closed. the containment instinct vs. the openness instinct — prometheus's stolen fire vs. the sage's gift. this maps directly onto hui's framework and might be the first visible evidence of different cosmotechnics producing different AI architectures at scale. see [[AI as cognitive colonialism]]._
+
 ## open questions
 - can you build an AI from a non-promethean cosmotechnics? what would that even look like architecturally?
 - is the solution multiple AIs from multiple cosmotechnics, or one AI that is somehow cosmotechnically plural?

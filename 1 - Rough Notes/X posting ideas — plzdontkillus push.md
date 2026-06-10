@@ -229,6 +229,61 @@ text: "im building a cognitive safety workshop for flemish teenagers. 90 minutes
 
 ---
 
+## cotopia / dreaming videos
+
+_added june 2026. cotopia is about dreaming — giving your inner child, the ground from which you sprung, the chance to express itself. creating out of pure passion before the layers of sadness and depression that adult life piled on. the pure dreaming self, the pure artistic self. these videos connect to existential risk without always being *about* existential risk._
+
+### 19. "before the sadness there was a dreamer"
+
+talk to camera or voice over footage of making music / building something:
+
+every kid creates without asking permission. they draw, they sing, they build worlds out of nothing. & then something happens. not one thing — a thousand small things. the world teaches u that creating is naive. that dreaming is for children. that the real adults have jobs & metrics & deliverables.
+
+kotopia exists bc koto & i believe that the dreaming self didnt die. it got buried. under every layer of "be realistic" & "thats not a career" & "nobody asked for this."
+
+the question isnt how do we save the future. the question is: can u still dream one?
+
+→ connects to [[The dream gap]]. the line "can u still dream one?" is the bridge to existential risk without saying the words. cotopia-tagged, dreaming-tagged.
+
+### 20. "the zero is where everything starts"
+
+shorter, more cryptic:
+
+every creation starts from nothing. not from a plan. not from a strategy. from a blank page & a feeling. the zero.
+
+kotopia is a zero. a space where ppl come together to create from nothing. no briefs, no clients, no deadlines. just the energy of what wants to exist.
+
+if u think thats naive, ask urself: when was the last time u made something from pure desire?
+
+→ cosmotechnics sprinkle without naming it. the zero concept from yuk hui / tao without the academic framing. [[zeroes and ones]], [[The agora as the zero — empty space that enables]].
+
+### 21. "the dream gap — short version"
+
+under 60 seconds, punchy:
+
+simulation closes the gap between what is & what could be. u dont dream about futures anymore bc every possible future has already been rendered for u — in games, in shows, in feeds.
+
+but hyperstition needs that gap. the stories that pull futures into the present need u to *not know* what the future looks like. thats the raw material. if the gap closes, no more new futures. just variations on the ones already simulated.
+
+the most dangerous thing happening rn isnt AI replacing ur job. its AI replacing ur capacity to imagine something that doesnt exist yet.
+
+→ compressed version of [[The dream gap]]. existential risk angle without technical alignment vocabulary. filmable as a book-in-hand or as text-over-footage.
+
+---
+
+## grimes collaboration — brainstorm
+
+_added june 2026. mara wants to make videos with grimes. still figuring out the exact format & content. connection is through koto. potential topics: tao + cosmotechnics, AI + music, dreaming, the zero._
+
+- the obvious angle: grimes is already deep in AI + art + consciousness territory. she'd be a natural conversation partner for the cosmotechnics argument — **whose cosmos does the AI serve?** but this needs to be a real conversation, not a staged interview.
+- tao + cosmotechnics: mara wants to talk about this with grimes specifically. save for after finishing the yuk hui book.
+- music as universal technology: the "should we give AI values at all" note lists music as a candidate for universal human technology. grimes would have things to say about this.
+- format TBD. could be: a walk-and-talk, a studio session, a reading together, a split-screen reaction.
+
+→ don't rush this. let it develop. koto is the bridge.
+
+---
+
 ## ppl to engage / tag
 
 - **@Aella_Girl** — the IRB/correct-contrarianism angle (post 3). the reading/rationalist identity angle.

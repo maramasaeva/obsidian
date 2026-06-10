@@ -13,4 +13,8 @@ the alternative is not rejecting AI. it's asking the cosmotechnical question: wh
 
 that AI doesn't exist yet. building toward it might be the most important thing.
 
+but here's something interesting: china is shipping mostly open-source models. deepseek, qwen, yi — open weights, open architectures. while american companies (openai, anthropic, google) keep their most powerful models closed, proprietary, paywalled — china is making theirs available for anyone to build on. this might be the first concrete example of a different cosmotechnics producing a different relation to AI. the western approach: contain, control, profit. the chinese approach: release, let others build, let the tool find its way. whether this is strategic, ideological, or cosmotechnical (or all three), the pattern is there. the containment instinct vs. the openness instinct. prometheus chains vs. the sage who gives freely.
+
+this doesn't mean china's approach is morally better — there are obvious state-control dimensions. but the *form* of the release — open, distributed, available — is cosmotechnically distinct from the american model. and it maps onto hui's framework: the chinese sages gave tools through benevolence, not through theft. the tools were gifts, not stolen fire.
+
 Connects to: [[Traditional metaphysics as dispositif]], [[China's failed dualism — importing tools without cosmology]], [[The moral good vs truth — Living vs Being]], [[Cosmotechnics — technics under cosmological conditions]], [[The dream gap]], [[AGI's natural enemy]]
