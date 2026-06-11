@@ -94,4 +94,98 @@ there is no universal technology. every tool carries the cosmology of the people
 
 ---
 
-Connects to: [[cosmotechnics]], [[tao]], [[mode collapse]], [[The dream gap]], [[AGI's natural enemy]], [[zeroes and ones]], [[Spyrodynamism]]
+# §8–§10: the two machines (pp. 70–108)
+
+_note added by claude, june 2026. this continues the walkthrough into the densest part of the book: where hui puts the greek and chinese cosmotechnics side by side and shows what each one actually does when it makes something. the previous sections say "they're different." these sections show how._
+
+---
+
+## the greeks make things through violence (§8, pp. 70–79)
+
+this is heidegger's reading and hui runs with it. when a greek builds a house, carves a statue, writes a poem — they are overstepping. they're taking raw stuff and forcing it into a shape it wouldn't take on its own. heidegger calls the human *deinotaton* — the uncanniest being, the one who leaves home by making things. you pick up a tool and you're already in exile.
+
+this is not cruelty. it's the structure of the relationship. the human and the cosmos are in tension. you *need* to make things. but making things disturbs the order. so after you make, you have to restore.
+
+that restoration is **dikē**. not justice like courts and judges — fittingness. like a joint in woodwork. heidegger connects it to the german word *fuge* — a seam, a fit. after you do violence through technē, you try to make it *fit* the cosmic order again. the cycle: steal fire → get punished → try to earn your place back. break something → fix the seam. every greek act of making is this loop.
+
+and the loop is geometric. literally. the agora is a circle. dikē is connected to geometry. "geometry was foundational for both technics and justice" (p. 79). your understanding of the shape of the cosmos determines how you build and how you judge. the cosmos is round, so justice is proportional, and the city is organized around a shared center.
+
+---
+
+## the chinese don't confront — they resonate (§9, pp. 80–88)
+
+completely different structure. no overstepping. no violence. no exile.
+
+chinese heaven — **tian** — is not a person and not a god. it's a moral being. the stars and the winds are not just weather. they are *messages*. the *huainanzi* (an ancient text) describes eight winds that arrive at specific intervals after the winter solstice. each one carries an instruction: release prisoners now. repair the fields now. execute punishments now. the cosmos is a calendar and a governance manual at the same time.
+
+and heaven is both anthropomorphic (it has intentions, it responds to you) and natural (it's the actual sky, the actual seasons). the west split these — nature became physics, intention became theology. china never split them. nature IS moral. the seasons ARE governance. there's no gap between what happens and what *should* happen.
+
+the mechanism is **ganying** — resonance. the qin and the se are two stringed instruments. play them together and they harmonize. for the confucians this is not metaphor. the resonance between heaven and human is "as objective and concrete as the resonance of these musical instruments" (p. 83). ganying is the operating system of chinese cosmotechnics.
+
+and then there's the void. "yang dwells in summer, and occupies itself with growing; yin dwells in winter, and accumulates in the void" (p. 85). the void is not empty. it's where yin stores everything. the zero is full of possibility. the nothingness is doing something — it's *accumulating*. and when summer comes, what was stored in the void grows into the world.
+
+the unity of cosmos and moral is the whole point (p. 88). neo-confucianism developed this further. the west never had it — or lost it so early it forgot it existed.
+
+---
+
+## the greek side of §10: skill, virtue, and the death of randomness (pp. 89–98)
+
+hui now gets into how these two cosmotechnics actually function when someone picks up a tool.
+
+on the greek side: plato says in the *gorgias* that experience puts you on the path of **technē** (skill), while inexperience puts you on the path of **tychē** (chance). the entire project of greek technics is killing randomness. if you have skill, you don't need luck. you walk the path of craft. if you don't, you're gambling.
+
+and the virtues — partnership, friendship, orderliness, self-control — are what hold the universe together (p. 91, still from gorgias). "you have failed to notice that proportionate equality has great power among both gods and men, and you suppose that you ought to practice getting the greater share. that is because you neglect geometry." neglecting geometry is a moral failure because geometry IS the structure of the cosmos.
+
+*good is order*. that's what the greeks believed. the good = things being in their right arrangement. the cosmos is a *kosmos* — an ordered world. and technē is your way of participating in that order.
+
+the tool doesn't make the master: "no tool makes anyone who picks it up a dēmiourgos, unless he has acquired the requisite knowledge and sufficient practice" (p. 92). knowledge first. tool second. you are not what you hold — you are what you know.
+
+but then poetry breaks the pattern (p. 93). a poet is "not the real author, but a channel for a divine power (*theia moira*)." when skill reaches its peak, the greeks can only explain it as *possession*. the gods move through you. the technē dissolves and something else takes over.
+
+the key distinction: **poiēsis** (making — you produce a thing) vs. **praxis** (acting — it's its own end) (p. 95). making produces tables, houses, poems. praxis produces *nothing external* — virtue, friendship, thinking are praxis. they don't leave objects behind. capitalism collapsed this. now everything is poiēsis. everything must have an output. a deliverable. a metric. *productivity with whatever result is excellence* — that's the modern equation the greeks would have found insane. because for them, technē aims at **aretē** (excellence) — not at output quantity.
+
+then the deepest layer (pp. 97–98): western metaphysics is *productionist*. from plato onward, being = idea = what can be made intelligible. "ever since being has been explicated as idea, the thinking of the being of beings has been metaphysical, and metaphysics theological" (p. 98). heidegger scholar zimmerman calls it "productionist metaphysics" — a metaphysics concerned with making from the very start. it ends in **machenschaft** (machination — everything is makeable) and **gestell** (enframing — everything is standing-reserve). the entire arc of western technology is already inside plato.
+
+china never went through this. "this history of ontotheology was apparently absent in China" (p. 98). instead they had "a very different relation between technics and virtue" — one based on moral and cosmological consciousness.
+
+---
+
+## the chinese side of §10: dao, qi, and the butcher's knife (pp. 99–108)
+
+now the chinese mechanism.
+
+**qi** (器) means tool, vessel, container. but there are actually three related words: **ji** (機, trigger/mechanism), **qi** (器, container/vessel), **xie** (械, shackle/machine). the character for qi has the pictogram of four squares around a dog — guarding containers. the most important thing: "what is formless is called Dao; what has form is called Qi" (p. 99, from the *xi ci* commentary on the *i ching*). dao gives form. qi receives it.
+
+and they cannot be separated. **道器合一** — the unity of dao and qi. "dao needs qi to carry it in order to be manifested in sensible forms; qi needs dao in order to become perfect" (p. 101). the tool needs the way. the way needs the tool. they are one continuous reality seen from two angles.
+
+**君子不器** — "the gentleman is not a utensil" (p. 100). a utensil has one purpose. a gentleman has none — or all. the ideal person is not reducible to a function. not instrumentalisable. the opposite of what capitalism wants from people.
+
+**wu wei** (無為) — non-doing, non-intervention. "governing without intervening. this is no pessimism or passivism, but rather a letting things be, leaving room for things to grow on their own, in the hope that beings will fully realise themselves and their potential" (p. 101). trust that things know how to be what they are. stop forcing.
+
+and then the story that pulls it all together: **pao ding**, the butcher.
+
+a prince asks pao ding about his skill with a knife. pao ding says: *what i care about is the dao, which goes beyond mere technique.* a bad butcher hacks through bone — changes his knife every month. a good butcher cuts through tendons — changes his knife yearly. pao ding has used the same knife for nineteen years and it looks brand new. because he never touches bone or tendon. he follows the **tianli** — the natural structure, the gaps between joints, the spaces that are already there. the knife enters the void. it meets no resistance because it only goes where there is nothing.
+
+this is the opposite of greek technē-as-violence. pao ding doesn't impose form on the ox. he follows the form the ox already has. the skill is not in the cutting — it's in the *seeing*. knowing where the void is. where the space between things opens up. and when he encounters difficulty, he "slows down the knife, and gropes for the right place." he doesn't force. he feels.
+
+the tool (knife) is perfected by dao, not by itself. technique alone makes you a good butcher. dao makes you a butcher whose knife never dulls.
+
+then the warning: the well-digger story (p. 105). an old man is watering his garden by hand, carrying buckets. someone suggests a machine. the old man refuses: *"where there are machines, there are bound to be machine worries; where there are machine worries, there are bound to be machine hearts (機心). with a machine heart in your breast, you've spoiled what was pure and simple; and without the pure and simple, the life of the spirit knows no rest."* the machine doesn't just change what you do. it changes what you *are*. it restructures the heart.
+
+finally, hui compares zhuangzi's warning to plato's story of theuth and writing (pp. 106–107). both warn against technology replacing genuine knowledge. but the concern is different. plato worries about *truth*: writing creates false wisdom, people will think they know things when they don't. zhuangzi worries about *freedom* and *dao*: machines create machine hearts, you lose touch with the way. plato is concerned you'll think wrong. zhuangzi is concerned you'll *become* wrong.
+
+---
+
+## what it all adds up to
+
+two cosmotechnics side by side:
+
+**the greek machine**: the cosmos is geometric order. making is violence — you overstep, impose, disturb. then you restore fittingness (dikē). the goal is truth, knowledge, and the elimination of randomness. at its peak, skill dissolves into divine possession (poetry). at its worst, everything becomes makeable, measurable, standing-reserve (gestell).
+
+**the chinese machine**: the cosmos is moral harmony. making follows the natural structure without imposing. the goal is resonance (ganying) with heaven. at its peak, skill dissolves into wu wei — non-doing, letting the dao cut through you. the gentleman is not a tool. the butcher's knife enters the void. at its worst, machines give you machine hearts and the spirit finds no rest.
+
+the question underneath: if we're building AI from one cosmotechnics (the western, productionist one), and the whole world uses it — does everyone get a machine heart? do we all lose touch with whatever our dao was? is there a way to build a tool that doesn't eat the mind?
+
+---
+
+Connects to: [[cosmotechnics]], [[tao]], [[mode collapse]], [[The dream gap]], [[AGI's natural enemy]], [[zeroes and ones]], [[Spyrodynamism]], [[funhouse mirror]], [[wu wei]], [[music]], [[AI as cognitive colonialism]]
