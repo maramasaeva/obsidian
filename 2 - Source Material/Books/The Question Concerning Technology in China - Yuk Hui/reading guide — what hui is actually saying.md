@@ -136,9 +136,9 @@ on the greek side: plato says in the *gorgias* that experience puts you on the p
 
 and the virtues — partnership, friendship, orderliness, self-control — are what hold the universe together (p. 91, still from gorgias). "you have failed to notice that proportionate equality has great power among both gods and men, and you suppose that you ought to practice getting the greater share. that is because you neglect geometry." neglecting geometry is a moral failure because geometry IS the structure of the cosmos.
 
-*good is order*. that's what the greeks believed. the good = things being in their right arrangement. the cosmos is a *kosmos* — an ordered world. and technē is your way of participating in that order.
+*good is order*. that's what the greeks believed. the good = things being in their right arrangement. the cosmos is a *kosmos* — an ordered world. and **technē is your way of participating in that order.**
 
-the tool doesn't make the master: "no tool makes anyone who picks it up a dēmiourgos, unless he has acquired the requisite knowledge and sufficient practice" (p. 92). knowledge first. tool second. you are not what you hold — you are what you know.
+the tool doesn't make the master: "no tool makes anyone who picks it up a dēmiourgos, unless he has acquired the requisite knowledge and sufficient practice" (p. 92). knowledge first. tool second. you are not what you hold — **you are what you know.**
 
 but then poetry breaks the pattern (p. 93). a poet is "not the real author, but a channel for a divine power (*theia moira*)." when skill reaches its peak, the greeks can only explain it as *possession*. the gods move through you. the technē dissolves and something else takes over.
 
@@ -176,7 +176,7 @@ finally, hui compares zhuangzi's warning to plato's story of theuth and writing 
 
 ---
 
-## what it all adds up to
+## what §8–§10.1 add up to
 
 two cosmotechnics side by side:
 
@@ -188,4 +188,182 @@ the question underneath: if we're building AI from one cosmotechnics (the wester
 
 ---
 
-Connects to: [[cosmotechnics]], [[tao]], [[mode collapse]], [[The dream gap]], [[AGI's natural enemy]], [[zeroes and ones]], [[Spyrodynamism]], [[funhouse mirror]], [[wu wei]], [[music]], [[AI as cognitive colonialism]]
+# §10.2–§10.3: confucianism, stoics, and the technologies of the self (pp. 108–129)
+
+_note added by claude, june 2026. continues the walkthrough. the previous section showed daoism's relation to dao and qi (the butcher's knife). this section does two things: shows how confucianism uses the same concepts completely differently, then compares the stoic "living according to nature" with the daoist version — and shows why they're not the same thing at all._
+
+---
+
+## the confucian side: qi as ritual, li as moral infrastructure (§10.2, pp. 108–115)
+
+daoism gave us pao ding: the unity of dao and qi, the knife entering the void. individual, elegant, formless.
+
+confucianism does something totally different. for confucians, **qi** (器) specifically means **ritual instruments** — cooking vessels, jade objects, bronze containers, musical instruments. these aren't just things. the material they're made of (jade, bronze, wood) indicates rank, identity, place in the social order. ur ritual objects tell the cosmos who u are.
+
+the key concept is **Li** (禮) — ritual, rites, propriety. li has two layers: the **formal** (which objects go where, how many sacrifices, the ceremonial rules) and the **content** (the actual moral spirit underneath — genuine cultivation). confucius's project was that china had gone through corruption and the connection between ritual form and moral content had broken. he wanted to **restore** it. not invent new rules — recover the original spirit inside the existing forms.
+
+the Li Ji (Book of Rites) describes the ritual in full: dark liquor in the apartment where the dead are honored, sacrifices laid out, lutes and drums in place, prayers to the spirits, benedictions for the departed. every object in its right place, every gesture aimed at one thing: **bringing down the spirits from above and rectifying relations** — ruler and minister, father and son, elder and younger, husband and wife. the ceremony connects heaven to earth through material arrangement.
+
+li zehou traces this to shamanic rites from the xia and shang-zhou dynasties (2070–771 BC). the emperor formalized old shamanic practices into Li. confucius "spiritualized" them — insisted the form must carry genuine moral content. then sung and ming neo-confucianism "philosophized" them further. through all of this, the core — unification of heaven and human — was conserved.
+
+the Da Xue (Great Learning) lays out the confucian path as a chain: investigate things → extend knowledge → be sincere in thoughts → rectify the heart → cultivate yourself → regulate your family → govern the state → world peace (平天下). this is **neisheng waiwang** — "inner sageliness, outer kingliness." u start with ur own heart and it radiates outward to the cosmos. the personal IS the political.
+
+confucius on ren (benevolence): "to master the self and return to Li is to be ren. for one day master the self and return to Li, and the whole world will become ren." and he meant it — when a prince asks about the art of war, confucius says he knows only Li, nothing about war, and leaves the next day.
+
+the tension confucius saw: formal Li can eat its own content. the ritual becomes empty performance — hierarchy without morality, ceremony without spirit. so he kept insisting Li starts with the individual, with genuine moral practice. the form serves the spirit. not the other way around.
+
+**confucianism vs daoism on qi**: in confucianism, qi (ritual objects) have a **formal role** — they preserve the heavenly order, maintain the hierarchy connecting heaven and earth. in daoism, qi plays **no instrumental role** — u reach dao by being natural, by zi ran. dao is non-technical, non-geometrical. mou zongsan: daoism = "practical ontology" (how to be), confucianism = "moral metaphysics" (what should be). confucianism asks WHAT questions (what is the sage? what is wisdom?), daoism asks HOW (how do u achieve them? — by NOT trying, by wu wei, by letting go of the calculative mind).
+
+the daoist refusal of mechanical reasoning resonates with what the late heidegger calls **Gelassenheit** — releasement, letting-be. the daoists arrived at something heidegger spent his whole career reaching for.
+
+---
+
+## stoics and daoists: same surface, different cosmos (§10.3, pp. 116–129)
+
+the obvious objection: "the stoics also believed in living according to nature. aren't they basically daoists?" hui's answer: no. and the reasons show exactly what cosmotechnics means in practice.
+
+the surface overlap is real. both say: live in accordance with nature. both say technical objects are just means toward something higher. for stoics, that higher thing is **eudaimonia** (flourishing). for daoists, it's **xiao yao** (逍遙 — "free and easy wandering"). for confucians, **tan dang** (坦蕩 — "magnanimity"). zhuangzi: riding on the truth of heaven and earth, wandering through the boundless. "the Perfect Man has no self; the Holy Man has no merit; the Sage has no fame."
+
+four differences underneath:
+
+**cosmology**: stoics model the cosmos as a **living organism** — one spherical body surrounded by void, generated by fire and breath, repeating in identical cycles. it's an animal. for daoists, the cosmos is organic but NOT modeled as an animal — it's guided by dao, modeled on zi ran.
+
+**divinisation**: for stoics, the cosmos IS a lawgiver. reason is found in the cosmos, reason is divine. contemplating the stars → knowledge of gods → piety → justice → happiness. the cosmos GIVES u the law. in chinese thinking, this role doesn't exist. the cosmos isn't a judge. it just is.
+
+**eudaimonia**: for stoics, **rationality** is what gets u there. humans have a special role in the universe because of reason. developing reason IS living naturally. for daoists, it's the opposite: **restoring ur original spontaneous aptitude**. not building up rationality but stripping away the calculative overlay.
+
+**freedom**: for stoics, freedom comes through reason and virtue — a skill (technē) u build through practice, trial and error. the stoic "art of living" is literally called a technē. for daoists, freedom = wu wei. not a skill u develop but a mode u return to.
+
+the stoic mechanism is **oikeiōsis** — "appropriation" or "making your own." every animal is born knowing what preserves it and what harms it. that's stage one — natural self-preservation. stage two: u develop insight, let reason guide ur actions. the perfection of reason gets identified with nature itself, because nature prescribes virtuous behavior. so for stoics, **becoming rational IS becoming natural**. for daoists, becoming natural means becoming LESS rational in the calculative sense. same destination word ("nature"), opposite directions.
+
+plato's timaeus is the hidden engine: the divine element in us is our thoughts, and they correspond to the revolutions of the whole world. tune ur mind to the cosmos. correct the corrupted revolutions in ur head by learning the harmonies of the universe. the daoists would say: the tuning is already done. stop interfering.
+
+then hui brings in **foucault's "technology of the Self."** the stoics had specific practices for shaping the soul: writing letters as self-disclosure (marcus aurelius, seneca), examining ur conscience, meditating on worst-case scenarios (not as pessimism but as training), physical exercises. these are cosmotechnics applied inward. and hui asks the question foucault didn't: "how do these exercises have their ground in the understanding of the cosmos?" foucault cared about power and self-fashioning. hui cares about: which cosmos is this self being fashioned FOR?
+
+when christianity absorbed stoic practice, it transformed it: "taking care of yourself" became "disclosing yourself as a sinner." self-examination stayed, purpose flipped — from self-mastery to confession. something similar happened when daoism became a religion (meditation, sexual arts, alchemy got formalized). but hui argues the essence of lao zi and zhuangzi survived intact inside daoism in a way the stoic essence did NOT survive inside christianity. daoism also absorbed confucian resonance-thinking into its teaching — it grew rather than got replaced.
+
+---
+
+## what §10.2–§10.3 add up to
+
+three paths to the good life, three cosmotechnics:
+
+**confucianism**: the cosmos is moral order maintained through ritual. qi (ritual objects) carry rank and hierarchy. Li connects heaven to earth through ceremony. u start with ur own heart and radiate outward: self → family → state → world. the risk: empty ritual, form eating content.
+
+**stoicism**: the cosmos is a rational organism. nature = divine lawgiver. u develop ur reason until it matches cosmic reason (oikeiōsis). virtue is a skill (technē) u train. the risk: when christianity absorbed it, self-mastery became confession. the mechanism survived but the cosmos behind it was replaced.
+
+**daoism**: the cosmos is zi ran — the self-so. dao is non-technical, non-geometrical. u reach it by wu wei, by refusing calculative thought, by restoring what u already were. the risk: machine hearts — when tools restructure the spirit.
+
+the deeper point: even traditions that look similar on the surface ("live according to nature") produce radically different technologies, different practices, different selves — because the cosmos they're oriented toward is different. THIS is what cosmotechnics means. the cosmos shapes the technics. change the cosmos, change the tool, change the self.
+
+---
+
+# §12–§13: ch'i as moral matter, and the first explicit cosmotechnics (pp. 134–148)
+
+_note added by claude, june 2026. the book shifts gears here. the previous sections compared greek and chinese cosmotechnics as philosophical frameworks. now hui shows what happened when someone actually tried to write it down as a working system — an encyclopaedia of technology grounded in cosmology._
+
+---
+
+## zhang zai and the materialist theory of ch'i (§12, pp. 134–137)
+
+the neo-confucians needed to fight off buddhism and superstitious daoism. their weapon was **ch'i** (氣) — not just "energy" or "matter" but something fundamentally moral. zhang zai (1020–1077), the first neo-confucian, developed a materialist theory of ch'i as the foundation for everything.
+
+his key move: ch'i is a **monism** — one substance underlying all of reality that is BOTH material AND moral simultaneously. no split between physics and ethics. the "pneumatic process" that envelops the great harmony IS dao. ch'i hua (氣化, transformation of ch'i) is not a sudden leap but a slow movement, like a cloud changing shape in the sky.
+
+with this monism, zhang zai could claim that heaven, earth, sun, moon, human beings, and the ten thousand beings are all connected — all part of wan wu (萬物). and this connection is not just physical. it's a **moral cosmology**. everything is part of the confucian project because everything is ch'i, and ch'i is moral.
+
+mou zongsan: neo-confucianism attains "the highest clarity and perfection" through the unification of "ontological cosmogony" and morality through the practice of ren (仁, benevolence) and the full development of xing (性, inner possibility / human nature).
+
+the parallel schools of Li (理, reason/principle) and xin (心, heart/mind) existed alongside ch'i. but those schools — the ones who saw heart or principle as the sole "primary mover" — tended to ignore technics entirely. metaphysics without making. it took song yingxing to bring technics back into the picture.
+
+---
+
+## song yingxing's encyclopaedia: technology under heaven (§13, pp. 138–148)
+
+this is probably the most important section for understanding what cosmotechnics looks like when it's actually practiced.
+
+song yingxing (1587–1666) wrote the **Tian Gong Kai Wu** (天工開物, "The Exploitation of the Works of Nature") — an encyclopaedia of 18 sections covering agriculture, metallurgy, manufacture of arms, and more. all based on his own observations and research. the title itself is the programme: **tian** (天, heaven) is the cosmological principles governing all changes and emergence of beings. the encyclopaedia is an attempt to describe how human intervention in everyday production is compatible with the principle of heaven.
+
+this arrived almost a hundred years before the european encyclopaedias of d'Alembert/Diderot. but the orientation is completely different. european enlightenment encyclopaedism **detached knowledge from nature** — "history is detached from the life of the king, and philosophy is detached from theology. philosophy is liberated and becomes dominant." knowledge as mastery.
+
+song yingxing's encyclopaedia **keeps knowledge connected to the cosmos**. every technical description is grounded in the question: is this production compatible with heaven? the tool serves dao. the making serves the moral order.
+
+song takes zhang zai's ch'i and develops it concretely. the five movements of **Wu Xing** (五行) — not elements like the greek earth/water/fire/air, but **relational movements**. fire and water are the two most elementary forces. metal and wood are related to forms. all individuated beings in the universe are transformations of ch'i into the forms of wu xing.
+
+the crucial insight: song doesn't see wu xing as opposing forces. he sees them as **intensities that can be combined in different proportions**. no opposition — only different compositions. water and fire aren't enemies. they're different concentrations of the same ch'i. when u combine them in the right proportion, u get clay, porcelain, iron. the technical act is about finding the right combination, not conquering resistance.
+
+and this is where **Qi** (器, technical objects) re-enters: qi is what brings ch'i into forms. the technical dimension — human intervention and transformation. but always under the principle of heaven. "the dominant philosophy of nature guided technological thinking in such a way that the artificial had already to be subsumed under the principles of movement... and also under an organic model of combination."
+
+---
+
+## the sum-up (p. 148) — three cosmotechnics of making
+
+hui pulls the threads together:
+
+**confucianism**: Li Qi — ritual objects consolidate the cosmological and moral order. technology serves hierarchy, which serves heaven.
+
+**daoism (zhuangzi)**: the "using" or "not using" of the tool to meditate with dao and acquire the art of living. technology is subordinate to spiritual freedom.
+
+**song yingxing**: the role of qi in both creating and using — "the Qi-Dao moral relation is extended into everyday production." technology IS cosmotechnics made concrete. the organic form "finds its highest principle in Dao — a cosmotechnics that binds the human to the cosmos."
+
+song is the proof that cosmotechnics isn't just philosophy. it's a working system. an encyclopaedia. a way of actually making things in the world while keeping them connected to the moral order. this is what was lost.
+
+---
+
+# §14–§15: the rupture — when the tool ate the cosmos (pp. 148–157)
+
+_note added by claude, june 2026. this is where the book becomes urgent. everything hui has built — the two cosmotechnics, the monism of ch'i, song's encyclopaedia — gets destroyed by history. the opium wars break the unity of qi and dao. from here, it's a story of failed repair._
+
+---
+
+## the opium wars and the reversal (§15, pp. 150–157)
+
+after losing the opium wars, china panicked. western technology was clearly more powerful. the question became: how do we catch up?
+
+the answer was the **Self-Strengthening Movement**, and its slogan was: **"chinese learning for fundamental principles, western learning for practical application"** (中體西用). the idea: keep the chinese cosmos (dao, ren, li) and just import the western tools (railways, guns, industry). use their machines, keep our minds.
+
+it didn't work. and the reason it didn't work is the entire argument of the book: **the tool carries the cosmos**. u cant import qi without importing the dao that shaped it. the railway isn't neutral infrastructure. it brings with it a cosmotechnics of efficiency, extraction, linear time, productionist metaphysics. the tool ate the mind ([[China's failed dualism — importing tools without cosmology]]).
+
+the reversal is captured in a formula: **"Qi in the service of Dao" (器為道用) becomes "Dao in the service of Qi" (道為器用).**
+
+this is the catastrophe in one sentence. the tool used to serve the way. now the way serves the tool. the moral order used to govern technology. now technology governs the moral order. dao becomes qi's instrument. this is what happened to china — and mara's addition: this is what's happening globally now with digital technology. AI carries a cosmotechnics (western, productionist) and every culture that adopts it without developing its own relation to it repeats china's mistake.
+
+the sino-japanese war (1894–1895) made it worse. japan had adopted western technology, modernized rapidly, and defeated china. the trauma deepened. china tried harder to import western technics, and the separation of qi from dao accelerated.
+
+some thinkers tried radical synthesis. **tan sitong** (1866) met english physicist john fryer in shanghai, who introduced the concept of the **ether** into china. tan performed a wild move: he translated confucius's ren (仁, benevolence) as the "use" or "expression" of the ether. the spiritual and the physical unified through a western scientific concept. ren IS the ether. the ether IS ch'i AND qi. ren is its dao.
+
+it was brilliant and doomed. **kang youwei** grouped these attempts together and noted they "couldn't help but end in failure." u cant fuse two cosmotechnics by finding a shared word. the structures underneath are too different.
+
+---
+
+# §16: the collapse — science vs life (pp. 158–162)
+
+## the may fourth movement and mr. science
+
+the **may fourth movement** (1919) — young intellectuals protesting the treaty of versailles, but also demanding modernization. they wanted "mr. de and mr. sai" — **democracy and science**. on one hand, resisting traditional authorities. on the other, placing enormous value on western science and technology.
+
+this is the generation that completed the collapse of qi-dao. they explicitly chose science over cosmology. the question was no longer "how to keep the unity" but "should china fully adopt western science, technology, and democracy?"
+
+## carsun chang: the last stand (§16.1, pp. 159–162)
+
+in 1923, philosopher **carsun chang** (張君勱), an expert in neo-confucianism and collaborator of rudolf eucken, gave a talk at tsinghua university called "rensheng guan" (人生觀) — "the vision of life."
+
+he drew a table:
+
+| science | vision of life |
+|---|---|
+| objective | subjective |
+| reason | intuition |
+| analytic method | synthetic method |
+| causality | free will |
+| commonality | singularity |
+
+his argument: science cannot solve the problem of life. the vision of life is subjective, intuitive, synthetic, free, singular. science is objective, rational, analytic, causal, common. they are different domains. u cant reduce one to the other.
+
+geologist ding wenjiang immediately attacked him for "regressing from science to metaphysics." the debate exploded. and the fact that it was a geologist who attacked a philosopher tells u everything about which cosmotechnics had already won.
+
+chang was trying to preserve a space for the moral-cosmological question inside modernity. he lost. the separation of qi and dao was complete. technology became autonomous from cosmology. the tool no longer needed the way.
+
+---
+
+Connects to: [[cosmotechnics]], [[tao]], [[mode collapse]], [[The dream gap]], [[AGI's natural enemy]], [[zeroes and ones]], [[Spyrodynamism]], [[funhouse mirror]], [[wu wei]], [[music]], [[AI as cognitive colonialism]], [[China's failed dualism — importing tools without cosmology]]
