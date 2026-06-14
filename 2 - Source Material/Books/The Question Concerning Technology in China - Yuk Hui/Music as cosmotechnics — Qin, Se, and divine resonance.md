@@ -1,6 +1,33 @@
 Status: #baby
 Tags: [[cosmotechnics]], [[music]], [[tao]], [[entanglement]]
 
+## pronunciation guide (for video)
+
+- **Qin** (琴) — "chin" (like the body part). seven-stringed zither.
+- **Se** (瑟) — "suh" (short, clipped, rhymes with "duh"). 25-stringed zither.
+- **ganying** (感應) — "gahn-ying" (first syllable like "gone" but shorter, second like "ying").
+- **Dao** (道) — "dow" (rhymes with "cow"). the way.
+- **Qi** (器) — "chee." tool, vessel, instrument.
+- **ch'i** (氣) — also "chee" (older romanization). vital energy, breath, the moral-material substance.
+- **tian** (天) — "tee-en" (one syllable, glides from "tea" into "en"). heaven.
+- **cosmotechnics** — hui's own term. technics under cosmological conditions.
+- **Li** (禮) — "lee." ritual, rites, propriety.
+- **ren** (仁) — "ren" (like "wren" the bird). benevolence, humaneness.
+- **wu wei** (無為) — "woo way." non-doing.
+- **zi ran** (自然) — "dzuh rahn." the self-so.
+- **Wu Xing** (五行) — "woo shing." the five movements/phases.
+- **xiao yao** (逍遙) — "shee-ow yow." free and easy wandering.
+- **neisheng waiwang** (內聖外王) — "nay-shung why-wahng." inner sageliness, outer kingliness.
+- **wan wu** (萬物) — "wahn woo." the ten thousand beings/things.
+- **Tian Gong Kai Wu** (天工開物) — "tee-en gohng kai woo." the exploitation of the works of nature (song yingxing's encyclopaedia).
+- **oikeiōsis** (greek) — "oy-kay-OH-sis." stoic concept of appropriation/making-your-own.
+- **eudaimonia** (greek) — "yoo-dai-MOH-nee-ah." flourishing, happiness.
+- **technē** (greek) — "TEKH-nay." skill, craft, art.
+- **dikē** (greek) — "DEE-kay." fittingness, justice.
+- **Gelassenheit** (german) — "geh-LAHS-en-hite." releasement, letting-be (heidegger).
+
+---
+
 Quote/moment: *"This resonance is best demonstrated by the Qin and the Se, two musical instruments that produce a harmony with one another. For the Confucians, the resonance between human and Heaven is not purely subjective, but as objective and concrete as the resonance of these musical instruments."* (p. 83)
 
 My claim: the qin and the se are not metaphors. they are the proof. when confucians want to show that the resonance between heaven and human is real — not poetic, not subjective, but objective and concrete — they point to two instruments producing harmony together. the sound is the evidence. you can hear it. you can feel it in your body.

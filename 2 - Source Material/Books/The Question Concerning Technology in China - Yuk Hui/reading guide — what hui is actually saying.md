@@ -366,4 +366,227 @@ chang was trying to preserve a space for the moral-cosmological question inside 
 
 ---
 
-Connects to: [[cosmotechnics]], [[tao]], [[mode collapse]], [[The dream gap]], [[AGI's natural enemy]], [[zeroes and ones]], [[Spyrodynamism]], [[funhouse mirror]], [[wu wei]], [[music]], [[AI as cognitive colonialism]], [[China's failed dualism — importing tools without cosmology]]
+## the manifesto and its critics (§16.2, pp. 162–164)
+
+in january 1935, ten professors published "a manifesto for a china-oriented cultural development" — criticizing the idea that chinese thought was just "body" and western thought was "function." they demanded deeper reform, accused westernization of being superficial, and wanted a new china capable of effectively integrating western science without losing its roots.
+
+on march 1, the marxist thinker responded mockingly to the manifesto, claiming that there was no need to worry about a "chinese-oriented" culture since china will always be china. the pragmatist attitude won: the dominant view was that the best intellectual war was experimentation and questioning, affirming westernization while anticipating differentiation arising from the obstructive forces of its own culture. on this view, chinese culture becomes purely **"functional aesthetics"** in li gushen's sense — meaning that it only serves as a decorative addition to the real driving forces of development: occidental sciences, technology, literature, and cosmopolitanism.
+
+this is the death certificate. the spirit of ancient cosmotechnics fades away, what proves incompatible with the modern is consigned to "tradition," and technology merges with science to become invisible. scholars of this generation still confine themselves to discourse on science and democracy — they are incapable of a more profound philosophical analysis that would take technology into account.
+
+mara's addition: this "functional aesthetics" is exactly what's happening now with chinese culture online — "in my chinese era," milady community using chinese symbols, chinese captions as aesthetic decoration. instead of recognizing that chinese language can contain more information and more nuanced meaning in shorter symbols, we just borrow the surface. the depth — the cosmotechnics underneath the symbols — gets left behind. it's the same pattern: importing the qi (the visible, the aesthetic) without the dao (the meaning system that made it). ([[China's failed dualism — importing tools without cosmology]])
+
+---
+
+# §17: needham's question — why no modern science? (pp. 165–172)
+
+_note added by claude, june 2026. this is one of the most important sections in the book. hui takes the question everyone has been asking — "why didn't china develop modern science?" — and shows that the question itself misunderstands what china was doing. the answer isn't that china failed. it's that china was doing something different._
+
+---
+
+## feng youlan's answer: china didn't need science (pp. 165–167)
+
+feng youlan (1895–1990), a chinese philosopher who completed his PhD at columbia in 1923, published an article called "why china has no science." he was only twenty-seven.
+
+his argument: china didn't develop science because **chinese philosophy prevented the scientific spirit from emerging**. in ancient china there were nine schools. only the first three — confucianism, daoism, and moism — were influential. feng believed **moism** was the school closest to science: it promoted the arts of building, the art of war, and utilitarianism. but confucianism crushed it. mencius attacked moism for its "universal love" (which disregards family hierarchy — confucianism's central value) and attacked daoism for holding nature to be fundamentally unintelligible.
+
+feng also notes an affinity between confucianism and daoism: both call to return to the self for moral principles. but the "nature" daoism proposes is not a scientific and moral principle — it's a dao that cannot be named, as announced in the first sentence of the dao de ching. for confucians, **ge wu** (格物, study of things) doesn't seek knowledge of the thing itself but the **heavenly principle** (天理) beyond the phenomenon.
+
+feng's conclusion: the dominance of confucianism marked the annihilation of any scientific spirit in china. even confucianism's own study-of-things seeks moral and political value in the secular world, not scientific knowledge. it fundamentally confuses what moism proposed — not a scientific spirit but a craftsman's spirit.
+
+feng's analysis is reductionist — he reduces culture to the manifestation of certain doctrines. but he confirms a key point: chinese philosophy tended to seek higher principles whose incarnation in the secular world would determine moral and political value, not scientific knowledge.
+
+---
+
+## joseph needham's correction: china had technics (pp. 167–168)
+
+joseph needham, the great historian who dedicated his life to *science and civilisation in china*, pushed back on feng. his counterargument: feng's pessimism is unjustified. china DID have an artisanal technical culture, and it was in many respects advanced compared to the same period in europe. technics continued to advance in china until the sixteenth century, when europe overtook it. even though moism never became dominant, **technics was not annihilated** — it flourished until european modernity arrived.
+
+needham also defended the neo-confucians against the claim that their philosophy prevented science. he argued their metaphysical achievements were as great as medieval european counterparts. and he defended chinese pictographic writing as even MORE effective and expressive than alphabetical writing — containing more information in less space.
+
+the question needham poses is also the question of the great historian: throughout the twentieth century, why modern science was not developed in china was of continual interest. but hui adds a crucial distinction: science has to be fundamentally distinguished from technics. the reason why modern science wasn't developed in china also explains the **collapse of qi-dao** in its confrontation with modernization.
+
+---
+
+## §17.1: the organic mode vs the mechanical mode (pp. 168–172)
+
+this is where needham gets most useful for hui's project.
+
+needham's main argument: the bureaucratic system in china discouraged science from developing into its modern form, since the mark of success was to enter the bureaucracy through examination and memorization, not through technical practice. the socio-economic factors matter.
+
+but the deeper argument is about **modes of thought**. needham distinguishes two philosophies of nature:
+
+**the mechanical mode** (european): the cosmos operates by **laws** given by a lawgiver. in europe, this comes from the stoic connection between cosmic order and legal order — cicero extended it: the universe obeys god, seas and land obey the universe, human life is subject to the decrees of the supreme law. the romans recognized both positive law and "law of nature" (lex naturae). this juridical structure — a cosmic legislator who writes laws that nature must obey — was absent in china.
+
+needham found that in china, there was a sort of denotation for "law" — but it was fundamentally different. the supreme being governed both human and non-human, but as an **organism**, not a judge. christianity also governed the principle of the law: the jurist ulpian taught that "natural law is that which nature has taught, but is common to all animals, for that kind of law is not peculiar to the human race" (p. 170). in china, this concept of a cosmic lawgiver **simply did not exist**.
+
+**the organic mode** (chinese): all beings are parts in a **hierarchy of wholes** forming a cosmic and organic pattern, and what they obeyed were the **internal dictates of their own natures** (p. 172). no external legislator. no imposed law. everything follows its own nature within a larger organic whole.
+
+mara's connection: this is **rhizomatic thinking** — the concept deleuze & guattari developed in *a thousand plateaus* (1980). the rhizome has no central root, no hierarchy in the tree sense — any point connects to any other point. the chinese organic cosmos works the same way: no lawgiver at the top issuing commands downward, but a network of beings each following their own nature within the larger pattern. this is opposed to the european tree-model where law flows from god → nature → human through a chain of command. ([[rhizomatic thinking]])
+
+the consequence: because china had no mechanical causal view, it lacked any programme to understand and manipulate beings through mechanical causalities. hui quotes needham's famous analogy: **"[w]ith their appreciation of relativism and the subtlety and immensity of the universe, they were groping after an einsteinian world-picture without having laid the foundations for a newtonian one. by that path science could not develop"** (p. 172).
+
+china was already thinking in terms of relativity and organic complexity — but you can't jump from organic wholeness to einstein without first passing through newton's mechanical reductions. the mechanical stage is the prerequisite for the organic-scientific stage. china tried to skip a step.
+
+and then the landing: what needham understood in a "whiteheadian organismic sense" by the neo-confucian school is **precisely what we describe here as a chinese cosmotechnics** (p. 172). needham saw it. he just didn't have hui's word for it.
+
+---
+
+# §18: mou zongsan — the last great attempt (pp. 173–185)
+
+_note added by claude, june 2026. mou zongsan is the climax of the book's historical arc. every thinker since the opium wars has been trying to answer the same question: can china modernize without destroying its cosmotechnics? mou is the one who got closest — and the way he failed is the most instructive._
+
+---
+
+## who mou is and what he's trying to do
+
+**mou zongsan** (牟宗三, 1909–1995) was the most important neo-confucian philosopher of the twentieth century. he was trained in western philosophy — whitehead, russell, kant — and devoted his life to showing that it's possible to develop a philosophical system that produces science and technology from within chinese thought, integrating traditional culture with modernity rather than amputating one for the other.
+
+mou's project is the neo-confucian project at its most ambitious: not "import western science" and not "reject western science" but **derive science from chinese philosophy itself**.
+
+---
+
+## §18.1: mou and kant — the fight over intellectual intuition (pp. 173–181)
+
+mou's key move is stunning. he takes kant's distinction between **phenomenon** and **noumenon** and uses it to map the entire difference between western and chinese philosophy.
+
+**kant's framework**: in the *critique of pure reason*, phenomena are what appears through sensible intuition — the world as we experience it through time and space. noumena are things-in-themselves — what's really there behind appearances. to access noumena directly, you'd need **intellectual intuition** — a kind of knowing that grasps reality without going through the senses. kant's position: intellectual intuition belongs only to god, not to humans. we are stuck with phenomena.
+
+**mou's reversal**: "according to kant, intellectual intuition belongs only to god but not to humans. i think this is really astonishing. i reflect on chinese philosophy, and if one follows the thought of kant, i think that confucianism, buddhism and daoism all confirm that humans have intellectual intuition; otherwise it wouldn't be possible to become a saint, buddha, or zhenren" (p. 174).
+
+this is the bomb. kant says humans can't do it. mou says: chinese philosophy is built on the assumption that they can. becoming a sage, a buddha, a realized being — all of these require direct access to reality-as-it-is, unmediated by the senses. that's intellectual intuition. chinese philosophy never banned it. it cultivated it.
+
+the concept that carries this is **cheng ming** (誠明) from the zhong yong (doctrine of the mean) — literally "sincerity and intelligence." cheng ming approaches the liangzhi (moral knowing) of heaven, and is totally different from knowing through hearing and seeing (p. 177). knowing based on moral intuition — not sensory data — characterizes chinese philosophy as **moral metaphysics**. not a metaphysics of nature (what IS the world?) but a metaphysics of morals (what SHOULD we be?).
+
+mou demonstrates that this intellectual intuition exists in all three traditions:
+- **confucianism**: through liangzhi (良知, innate moral knowing) and the chain of self-cultivation
+- **daoism**: through the story of pao ding — "your life has a limit, but knowledge has none; if you use what is limited to pursue what has no limit, you will be in danger" (p. 178). this SEEMS to confirm kant's prohibition. but pao ding shows another way: the dao is beyond knowledge, yet can be apprehended by the heart
+- **buddhism**: through direct insight into the nature of reality
+
+then hui compares mou with **fichte and schelling** — two post-kantian philosophers who ALSO argued for intellectual intuition against kant. fichte's tathandlung (the self-positing act of the I), schelling's "nature should be mind made visible, mind the invisible nature." the parallel is real but the direction is different. for the german idealists, the passage goes from finite to infinite — explaining being. for mou, the passage also goes from finite to infinite — but the aim is not a philosophy of nature, it's a **moral metaphysics**. same ladder, different roof.
+
+heidegger tried the same problem in *kant and the problem of metaphysics* — tried to show that dasein is finite but can also be infinite. he failed. mou doesn't try to escape finitude. he **grounds it** in a formless being: **xin** (心, heart) — as the ultimate possibility of both intellectual intuition and sensible intuition. the heart is where the infinite and the finite meet.
+
+---
+
+## mou's diagnosis: why no science (pp. 182–184)
+
+mou's crucial insight: when **intellectual intuition dominates** thinking, another form of knowing — what he calls **zhi de zhijue** (知的直覺, "cognitive mind") — is **indirectly suppressed**. this is the answer to needham's question from within chinese philosophy itself.
+
+china didn't develop modern science not because it was primitive, not because confucianism crushed moism, but because its entire philosophical culture was oriented toward moral intuition — toward accessing noumena directly through the heart. the "cognitive mind" (the analytic, logical, mathematical faculty) was never given space to develop because intellectual intuition was doing all the heavy lifting.
+
+mou calls the problem plainly: chinese philosophy has speculated about the spiritual and moral world and paid little attention to the phenomenal world — "the externalization of the spirit was considered secondary" (p. 182). occidental culture developed two modes: the "spirit of comprehending reason" (綜合的盡理之精神, the synthetic, moral mode china excelled at) and the "analytic spirit of comprehending reason" (分解的盡理之精神, the analytic, scientific mode china suppressed).
+
+this isn't a story of failure. it's a story of **trade-offs built into the structure of knowing itself**. if you cultivate moral intuition, you neglect analytical science. if you cultivate analytical science, you neglect moral intuition. the west went one way. china went the other. neither is complete.
+
+---
+
+## §18.2: the self-negation of liangzhi — the detour (pp. 184–185)
+
+this is mou's proposed solution to the dilemma, and it's the most philosophically sophisticated move in the book so far.
+
+the concept: **liangzhi** (良知) — innate moral knowing, consciousness of the good. developed by wang yangming from the i ching and confucian tradition. in wang's neo-confucianism, liangzhi is not limited to moral judgment — it extends to all beings. "the supreme level of knowing consists in the conscious return to liangzhi and its projection into every being. liangzhi, in this interpretation, becomes the cosmic mind" (p. 183) — the infinite mind, rooted in confucius's ren.
+
+the dilemma: if liangzhi is a moral consciousness rather than a knowing subject, and if objective knowledge has no position in liangzhi — then how can science emerge from within it? this is the dilemma of new confucianism: how to affirm confucian teaching while allowing modernization to proceed, without simply cutting them apart into two separate domains.
+
+mou's answer: **self-negation** (良知的自我坎陷). liangzhi must **negate itself** — deliberately restrict its own moral dominance — in order to create space for the cognitive mind to operate. this is not a fall, not a failure. it's a voluntary, active self-limitation. liangzhi holds back its own power so that analytic reason can breathe.
+
+the key word is **qu tong** (曲通) — "to reach by detour." liangzhi can't reach science directly. it has to negate itself, create the conditions for analytical thought, and arrive at its destination through a necessary detour. "this detour is necessary, since only by detouring thus can it reach its goal. the necessity is the necessity of dialectics" (p. 185).
+
+the parallel: this is what a culture would have to do to develop science from within its own cosmotechnics rather than importing it. not abandon your dao. negate it temporarily — hold it in suspension — so that the analytical mode can develop. then return. the detour, not the abandonment.
+
+whether this actually works is another question. but the structure is beautiful: the cosmos voluntarily dims itself so the tool can learn to see.
+
+## the end of §18.2: mou's dream and its fate (pp. 188–189)
+
+two ways to achieve outer kingliness (waiwang): the direct approach (direct reasoning from inner sageliness) and the indirect approach (the detour). mou insists the ancient scheme no longer functions. the "detour" through science and democracy is necessary — personal cultivation alone can't get u there anymore.
+
+but mou's thought remains idealist. his biographer zheng jiadong identifies liangzhi as "not a cognitive ich, but rather a cosmic ich" — when liangzhi negates itself into a knowing subject, it derives from a conscious act of liangzhi, coherent with liangzhi. so science and technology, when developed this way, will be a priori ethical.
+
+the verdict from mou's own biographer: "for hundreds of years, maintaining the status quo of the nation and at the same time being able to absorb western knowledge — having both fish and the bear's paw — was what the chinese dreamed of. the 'negation of liangzhi' is the most sophisticated and philosophical expression of this dream. but whether this dream can be realised is another question" (p. 189).
+
+mou's idealist proposal was totally ignored by the materialist movement in mainland china.
+
+---
+
+# §19: the dialectics of nature and the end of xing er shang xue (pp. 190–197)
+
+_note added by claude, june 2026. this section covers what actually happened in china while mou was dreaming philosophically. marxist dialectics replaced cosmotechnics. and then hui pulls back to assess the global situation: both west and east have lost something, and the task now is not to combine but to invent._
+
+---
+
+## the marxist replacement (pp. 190–194)
+
+heidegger declared the end of philosophy/metaphysics in the west. in china, **xing er shang xue** (形而上學, the ancient expression used to translate "metaphysics") also ended — but differently. in the west, metaphysics ended through its own internal exhaustion. in china, it ended through **the dissociation of dao from qi**. the development of xing er shang xue couldn't produce modern science, and so it was abandoned.
+
+from 1949, marxist ideology took over. engels's *dialectics of nature* and *anti-dühring* became foundational for chinese science policy. engels's materialist dialectics: nature as constant process of evolution, a "humanised nature" perceived through labour. yu guangyuan extended this to "social nature as a second nature." mao's 1958 slogan: **"open fire against nature, carry out technological innovation and technological revolution."**
+
+in 1956, dialectics of nature became a formal discipline in china. later renamed to science and technology studies. but engels's book contains nothing about technology — it was purely about the philosophy of science. so china inherited a philosophy of science without a philosophy of technology. technics remained invisible.
+
+## the dis-orientation (pp. 194–197)
+
+hui introduces his concept of **dis-orientation**: "a general loss of direction; one finds oneself in the middle of the ocean without being able to see either point of departure or destination" — echoing nietzsche's *gay science*. the orient is negated so it ceases to be the orient. and in consequence, the occident also loses sight of the orient. a homogeneity brought about by technological convergence and synchronisation.
+
+**technological reason is becoming the condition of all conditions**, the principle of all principles. jacques ellul predicted this in the 1970s: a totality forming through technical systems. accelerationism appeals to universalism to decouple from colonialist imposition — but at the same time draws its universalism from a promethean conception of technology whose cultural specificity it never interrogates. the category of technics itself harbours only one destiny.
+
+then the landing: **"the only hope for china to avoid the total destruction of its civilisation in the anthropocene is to invent a new form of thinking and invention"** (p. 197) — as mou zongsan did, but this time in a different way. this requires distancing from the traditional idealist approach and finding **another interface between what mou called noumenal and phenomenal ontology**. thinking cosmotechnically. developing qi without detaching it from dao and cosmological consciousness.
+
+---
+
+# §20: geometry and time — part 2 begins (pp. 201–216)
+
+_note added by claude, june 2026. part 2 of the book shifts gears. part 1 showed what chinese cosmotechnics was and how it was destroyed. part 2 asks: what now? hui starts with geometry and time — two things china never systematized the way europe did — and shows that the absence isn't a failure but a different structure of experience._
+
+---
+
+## the task: reinvent, don't combine (p. 201)
+
+hui opens part 2 by restating the project. even if western thought recognizes the philosophy of technology as central to its tradition, the relation between qi and chinese philosophy — the dao-qi concept — didn't exist as a philosophical tradition in the long paradoxical way western metaphysics developed. what happened was modernity forced a confrontation between two models.
+
+the voices calling for "overcoming modernity" — in europe (ecological crisis), in japan, now everywhere — tend to forget the cosmological lessons and metaphysical traditions. but we can't just go back. **we must instead reinvent a cosmotechnics for our time** (p. 201).
+
+had needham answered the question satisfactorily? no. his analysis took social, economic, theological factors into account but didn't go deep enough. the fundamental issue is the chinese philosophical system itself: its focus on moral ontology, the tendency to turn experience toward the infinite, the cosmos having a different structure than in the west, the role of the human determined **in coherence with the cosmos** (p. 202).
+
+mara's chain: organic → noumenal → infinite → coherence with the cosmos. this is the sequence. chinese philosophy builds from organic (not mechanical) thinking, oriented toward noumena (not phenomena), reaching toward the infinite (not reducing to the finite), all of it in coherence with the cosmos (not in opposition to it).
+
+---
+
+## §20.1: the absence of geometry in ancient china (pp. 203–208)
+
+the ancient chinese did not develop a systematic geometry — but this is NOT to say they had no geometrical knowledge. the history of controlling two great rivers — the yangtze and the yellow river — to prevent constant flooding and drought must have demanded geometrical knowledge, measurement, and calculation (p. 203).
+
+mara's connection: the yangtze river also appears in *machine decision is not final* as the **yangtze river computer** — a model for AI in which qigong and "somatic science" are written back into computation, uniting nature and artifice, human and machine ([[Time-sorcery is a Marxist Taoistic Queer Computer practice]]). the same river that demanded geometry for flood control becomes, in the cybernetic imaginary, a computer itself. the river as both the problem geometry was needed to solve AND the model for a computation that doesn't need geometry at all.
+
+needham notes that systematic knowledge of geometry came rather late to china — possibly only after the jesuits translated euclid's elements toward the end of the seventeenth century. the **jiu zhang suan shu** (nine chapters on mathematical art, 1st century CE) and the mathematician **liu hui** (3rd century) demonstrated advanced mathematical thinking. but liu hui's work differed fundamentally from greek geometry: no formal deductive system of axioms, theorems, and proofs. unlike greek mathematics which emphasizes geometry, the achievement of ancient chinese mathematics is the development of **algebra** (p. 203).
+
+einstein's characterisation of geometry as a "formal logical system" connects back to moism — the school that advocated logic and technics but was suppressed by confucianism. the development of western science rested on three great achievements: (1) the invention of formal logic (euclidean geometry), (2) the discovery of causal relations through systematic experiment (the renaissance), and in each case geometry played a crucial role by **detaching scientific knowledge from everyday experience** (p. 207).
+
+kepler, galileo, newton: geometrisation as the spirit of modern science. kepler mobilised plotinian light-as-emanation against aristotle. galileo's geometrisation of movement superseded the aristotelian concept of change. the apodictic nature of geometry — certitude not affected by human error — is what makes science possible. even einstein's general relativity is fundamentally a geometrical question.
+
+---
+
+## §20.2: geometrisation and temporalisation — stiegler's memory (pp. 209–216)
+
+this is where it gets really interesting. hui connects geometry to TIME — and through time, to technics and memory.
+
+his argument: the relation between time and geometry/space is fundamental to the western concept of technics. four steps: (1) geometry demands the spatialisation of time, (2) which involves exteriorization and idealization through technical means, (3) geometrical apodicticity then allows logical inferences, and (4) the technical objects and systems made possible on this basis participate in the constitution of temporality — experience, history, historicity.
+
+hui's hypothesis: **not only was geometry not developed in china; the question of time was not addressed in the same way as in the west. these two conditions together give rise to a different concept of technics** (p. 210).
+
+time in chinese thought is not abstract or linear. **shi** (時) = the four seasons. **zou** (走) = etymologically connected to the wheel of a wagon — circular movement. shi is cyclical, divided into twenty-four solar terms. time is also understood in terms of **occasions** — moments when something is appropriate. shi is linked to **shi** (勢, "propensity") and **cheng** (成, "achievement"). time as situational, not measured.
+
+françois jullien argues chinese thinking is **"situational thinking"** — connected to what detienne and vernant identified in ancient greece as **mētis** (cunning intelligence). the sophists explored this mode but it was repressed from official "hellenic science." the connection between shi and shi also undermines the subject/I perspective: what constitutes the subject is not the will or desire to know, **but rather what is outside of it and traverses it** (p. 213).
+
+then **bernard stiegler** enters. his argument: the relation between geometry and time in the west is demonstrated in socrates's response to the meno paradox. socrates asks an uneducated slave to solve a geometrical problem by drawing it in the sand. for stiegler, this exemplifies the **technical exteriorisation of memory**: the markings on the sand — a form of technē — are what allow the slave to trace the lines and "remember" the forgotten truth. the drawn figure is memory made external.
+
+**"geometry is knowledge of space, and space is a form of intuition"** (p. 214). but this knowing is not just mental — it requires a mark, a projection, an exteriorization. the point drawn in the sand is no longer a pure point — it's already a surface, already material. **the ideality of geometry demands a schematisation qua exteriorization as "writing"** (p. 214).
+
+mara's insight: geometry is knowledge, not shape. it is the knowledge OF shape. like writing is not information — it memorizes information. the medium (geometry, writing) is not the content but the technology that makes the content retainable, transmittable, thinkable. without the mark in the sand, the slave cannot "remember." without the written proof, geometry cannot travel across generations.
+
+stiegler calls this **epiphylogenetic memory** (p. 216): "a past that i never lived but that is nevertheless my past, without which i would never have had a past of my own." this is distinct from genetic memory (species) and ontogenetic memory (individual). it's a **techno-logical memory** — residing in languages, tools, goods, ritual practices. technics inscribes time and simultaneously opens a new dimension of time — one that heidegger left under-elaborated in *being and time*.
+
+the implication: if china didn't develop systematic geometry, and didn't elaborate time the same way, then it also didn't develop this form of technical memory-making. not because it lacked memory — but because its memory operated differently. not through geometric marks but through ritual, resonance, seasonal return. different technics, different time, different memory.
+
+---
+
+Connects to: [[cosmotechnics]], [[tao]], [[mode collapse]], [[The dream gap]], [[AGI's natural enemy]], [[zeroes and ones]], [[Spyrodynamism]], [[funhouse mirror]], [[wu wei]], [[music]], [[AI as cognitive colonialism]], [[China's failed dualism — importing tools without cosmology]], [[rhizomatic thinking]], [[Liangzhi — the cosmos dims itself so the tool can learn to see]], [[Time-sorcery is a Marxist Taoistic Queer Computer practice]], [[Technological consciousness as consciousness of time]]
