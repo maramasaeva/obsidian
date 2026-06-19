@@ -1,7 +1,7 @@
 Status: #baby
 Tags: [[eschatology]], [[biopolitics]], [[cosmotechnics]], [[exocapitalism]]
 
-this is a running summary of the argument. will be extended as mara reads further. currently covers: preface (pp. 1-3) + introduction (pp. 5-30) + chapter 1 (pp. 33-67).
+this is a running summary of the argument. this file covers: preface (pp. 1-3) + introduction (pp. 5-30) + chapter 1 (pp. 33-67). chapters 2-6 + non-conclusion are covered in [[_about|_about.md]]. the full book is now summarised.
 
 ---
 
@@ -171,19 +171,19 @@ vachnadze's thesis is genealogical, not causal (= he's not saying christianity C
 
 the introduction lays out the method and the central question. chapter 1 builds the structural model — the "diagram of the flesh" — by close-reading foucault's *confessions of the flesh*. it traces how the pastoral apparatus scaled from monastic practices (exomologesis, exagoreusis, probatio) through virginity as enhancement technology to marriage as population-level governance. the chapter's key discovery: foucault himself uses the word "programming" to describe stoic self-examination, and the stoic vs. christian difference maps precisely onto two models of computation — the self as re-writable software (stoic) vs. the self as read-only firmware with a divine signature (christian). the spectral monk — pure function, no autonomy — is the prototype of the spectral digital subject.
 
-chapters 2-6 will presumably apply this model to contemporary technologies of self-formation.
+chapter 2 maps the quantified self as digital pastoral, chapter 3 stages the wittgenstein-turing debate to show that calculation is normative practice not neutral procedure. chapter 4 introduces flesh — the living, sensing, resistant materiality that no computational or pastoral apparatus can fully capture — through hamilton's philology of the flesh, reading christ and wittgenstein as figures of the flesh's irreducibility. chapter 5 (via hayles) extends the genealogy into language itself: speech, writing, and code as three technologies of subjectivation that reinterpret each other in a non-linear loop. code is the new scripture, the homo algorismus the new confessing subject. the chapter's lateral move through stengers and latour reframes scientific knowledge as enfleshed practice — the neutrino as holy virgin, science as pious literature — and ends with latour's demolition of the turing test: AIs are interesting not because they pass it, but because they fail it productively. chapter 6 uses martha wells's *murderbot diaries* as a foucauldian thought experiment to imagine what resistance within the computational regime might look like — the rogue AI as a deleuzian minority machine that calculates differently, subverting from inside. the non-conclusion frames the entire apparatus as colonial: AI operates through the colonial supply chain, the international division of digital labour, and hegemonic knowledge production. the discourse of neutrality and value-freedom is rebranded colonialism.
 
 ---
 
-## what's coming
+## chapter overview
 
 - **ch. 1: bionic christ and the diagram of the flesh** (pp. 33-67) — COVERED ABOVE. the structural model: how the pastoral apparatus scaled from monastery to marriage to society.
-- **ch. 2: music and the poetics of time** (pp. 69-89)
-- **ch. 3: the incomputability of computation** (pp. 91-109) — sounds like it'll engage with gödel, turing limits, what escapes formalization
-- **ch. 4: the silence of the flesh** (pp. 111-125)
-- **ch. 5: my mother is an AI** (pp. 127-147)
-- **ch. 6: the heroic tale of a minority machine** (pp. 149-165) — "minority machine" is a deleuze phrase
-- **non-conclusion: AI colonialism** (pp. 167-173) — colonial frame, not just western-critical
+- **ch. 2: music and the poetics of time** (pp. 69-89) — COVERED in _about.md. the quantified self as digital pastoral; bergsonian duration as what resists computation.
+- **ch. 3: the incomputability of computation** (pp. 91-109) — COVERED in _about.md. wittgenstein-turing debate; calculation as normative practice; the theologico-machinic unconscious.
+- **ch. 4: the silence of the flesh** (pp. 111-125) — COVERED in _about.md. flesh vs. body; hamilton's philology of the flesh; christ and wittgenstein as figures of the flesh; nietzsche as first philologist of the flesh.
+- **ch. 5: my mother is an AI** (pp. 127-147) — COVERED in _about.md. hayles on speech/writing/code; signifiers as voltages; the neutrino as holy virgin; latour on the productive failure of the turing test.
+- **ch. 6: the heroic tale of a minority machine** (pp. 149-165) — COVERED in _about.md. murderbot diaries as foucauldian thought experiment; minor literature / minor tech-nology; deterritorialisation of calculation.
+- **non-conclusion: AI colonialism** (pp. 167-173) — COVERED in _about.md. muldoon & wu on the colonial matrix of power; supply chains, digital labour, hegemonic knowledge production.
 
 ---
 
