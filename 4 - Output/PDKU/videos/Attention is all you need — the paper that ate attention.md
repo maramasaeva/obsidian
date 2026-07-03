@@ -1,5 +1,5 @@
 Tags: [[hyperstition]], [[exocapitalism]], [[surveillance]], [[loops]]
-Status: #baby
+Status: draft
 
 ---
 
@@ -99,4 +99,32 @@ the loop is the thing.
 
 ---
 
-Connects to: [[Infected by sound - sonic warfare and memetic viruses]], [[Audio virology and memetic contagion]], [[Laozi as the original troll]], [[Eschatology as self-fulfilling prophecy]], [[Sexuality as a technology of attention]]
+## Script
+
+*[black screen. breath. then: face, close-up.]*
+
+attention is all you need. that's the name of a paper published in 2017 by eight researchers at google. and the paper describes a mechanism called self-attention — a way for a neural network to figure out which parts of an input matter most for understanding every other part. every element can attend to every other element simultaneously. that's the innovation. that's what made transformers work. and transformers are what made GPT work, and Claude, and everything else. every major AI system that exists right now is built on that paper.
+
+the same year, tiktok launches internationally.
+
+*[pause. let that land.]*
+
+and here's the thing. the mathematical operation called "attention" — query, key, value, softmax — basically a formula for computing what matters most given everything else that's present — is now being used, at industrial scale, to harvest the biological phenomenon called attention. the paper creates the architecture. the architecture powers the recommendation systems. the recommendation systems capture your attention. and your captured attention funds the companies that build better architectures that capture more attention. the thing that models attention is consuming attention is producing more attention-modelling. it feeds itself.
+
+gloria mark at UC irvine has been measuring this. in 2004, the average time a person spent on a single screen before switching was two and a half minutes. by 2012 it was 75 seconds. by 2020 — 47 seconds. two and a half minutes to 47 seconds in under two decades. and the systems doing this are built on the architecture from that paper.
+
+*[shift. closer.]*
+
+and there's this line from scott alexander — he's a rationalist writer, runs a blog called astral codex ten, and he wrote this long piece called meditations on moloch about systems that optimize against the people inside them — and he original concept of memes, from dawkins' meme theory. memes were how the network got smarter. one human got information, passed it to the next, first orally and later by using different technologies we developed to archive and spreak information more efficiently. but the proxy got loose from the goal. now there are so many informational objects we don't actually get anything out of. they scroll past in two seconds and leave nothing behind. memes used to feed us. now they starve us.
+
+and i think it's worse than that. because it's not just starvation — it's *inversion*. we are feeding the model with our own attention. every scroll, every second of engagement, every 47-second window of focus that gets captured — that's what makes the system stronger. our attention is the resource that funds the next generation of systems that are better at capturing our attention. we're not just being starved. we're being harvested.
+
+*[pause.]*
+
+and the paper is called "attention is all you need." eight people named the thing that the next decade would optimize for. they told us what the systems would consume. and now we can focus for 47 seconds. the architecture that models attention built the systems that capture attention that fund the companies that build better architectures. it doesn't stop. it doesn't have a reason to stop. it just gets better at the thing it does.
+
+*[silence. black. hold it.]*
+
+---
+
+Connects to: [[Infected by sound - sonic warfare and memetic viruses]], [[Audio virology and memetic contagion]], [[Laozi as the original troll]], [[Eschatology as self-fulfilling prophecy]], [[Sexuality as a technology of attention]], [[Memes used to feed us, now they starve us]]

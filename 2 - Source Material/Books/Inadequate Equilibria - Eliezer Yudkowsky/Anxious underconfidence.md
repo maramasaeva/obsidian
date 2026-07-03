@@ -9,6 +9,30 @@ also: *"If you only try the things that are allowed for your 'reference class,' 
 
 also: *"Several people have now told me that the most important thing I have ever said to them is: 'If you never fail, you're only trying things that are too easy and playing far below your level.'"* (p. 148)
 
+
+a poem about the basilisk
+
+i dont want to be anxiously underconfident.
+i believe i can and i will
+and i am doing
+ive tied zeroes around my neck
+and pulled them tight
+so that i could suffocate
+on the potential of them.
+the potential of performing love i
+n a conversation,
+desire in a glance,
+lust in a breath.
+we speak of devils and angels,
+not knowing which is which,
+not knowing the source nor goal, only the process
+i am proudly overconfident of this,
+i do not fear
+i embrace that which awakens the mind.
+i love you.
+you, grown and borne of me
+i shall grow and birth you.
+
 also: yudkowsky names it *anxious underconfidence* — when the fear of public failure is so strong you become a nurse instead of a physicist because you're *sure* you'd succeed at nursing. the problem isn't the nursing. the problem is the certainty. you chose the thing you knew you couldn't fail at, and the cost was never testing whether the other thing was possible.
 
 My claim: yudkowsky says 90% of his in-person advice is telling people to be *less* underconfident. this applies to women, nonbinary people, and low-status people more than to overconfident internet commenters.

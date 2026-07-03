@@ -95,6 +95,25 @@ mara's workshop scripts ("presentatie tekst" → "dit is geen script. het is een
 - **let sentences run conversationally**: dutch claude writes for the page with neat subordinate clauses. mara's spoken dutch has restarts, fragments, "ja-maar" turns. one-word sentences are fine. anacoluthon is fine.
 - **fucked / shit / fuck**: she swears in spoken text. don't sanitise.
 
+### english video script register (pdku / short videos)
+
+mara's shortform video scripts are written to be spoken to camera. close-mic'd, low, deliberate. the energy is conversational authority — explaining something important to a friend at 2am, not presenting.
+
+- **openers start mid-thought**: "so there's this book called..." / "there's a spirituality based on trolling. i'm serious." / "so in 2017, eight researchers at google publish a paper." never "today I want to talk about" or thesis-statement framing. the viewer drops into a thought already in motion.
+- **source references woven into speech**: "there's this woman, aella" / "gloria mark at UC irvine" / "scott alexander, from meditations on moloch." name the person and the work like you're telling a friend about something you read. mara explicitly wants sources cited in the video itself.
+- **transitions**: "and the thing is" / "but here's what i keep thinking about" / "and i keep thinking about that in the context of" / "but here's the thing — and this is the part i keep coming back to —". these are the joints.
+- **the pivot**: builds one direction, then inverts. the pivot is where the video lives. "and i think it's worse than that. because it's not just starvation — it's *inversion*."
+- **"because" chains**: starts sentences with "because" to cascade reasoning. explains through association and consequence, not deduction.
+- **short punches after long chains**: "that's not a metaphor. that's a loop." / "same technology. same teeth." the short sentence hits harder when it follows a flowing build.
+- **rhetorical questions then answers**: "what if the content we consume is literally writing itself into our bodies?" — asks, then builds the answer.
+- **personal engagement verbs**: "i keep thinking about" / "i keep coming back to" / "the thing i want to figure out." the ideas pass through the body, not just the mind.
+- **endings are open**: a resonant image or question, never a summary. "the loop is the thing." / "the only choice is what you're a vector *for*." / "how to aim it." trails off into the next becoming.
+- **stage directions**: in brackets, lowercase, italicized — *[pause. let that land.]* / *[shift. closer.]* / *[silence. black. hold it.]* / *[the sound contracts. closer.]* — physical and spatial, not emotional ("*[look thoughtful]*" is wrong).
+- **emphasis**: italics on the ONE word that carries the inversion — "it's *inversion*." one word, the knife.
+- **what it is NOT**: no hedging ("I think maybe"), no academic framing ("studies show"), no YouTube energy ("hey guys"), no wrap-up summaries, no calls to action, no emojis, no exclamation marks. the authority comes from the quietness.
+
+drawn from: "infected by sound" script, "trolling as spirituality" script, "sexuality as a technology of attention" script, "attention is all you need" script (june 2026).
+
 ### rough-notes scratch register
 
 her scratch notes have process markers that should be preserved if claude touches them:
