@@ -18,7 +18,8 @@
 .smtcmp_vector_db*
 
 # Rendered videos (too large for GitHub)
-4 - Output/Short video's/*.mp4
+*.mp4
+!4 - Output/assets/m-watermark.mp4
 
 # Untitled scratch files
 Untitled.md
