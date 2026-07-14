@@ -83,7 +83,7 @@ SOPHIE's sound became a genre about six months after she died. her successors ar
 i don't know what to do with this yet. but i keep thinking about the name of this residency — *please don't kill us* — and how much heavier it just got.
 
 
-invert the basilisk and you get its sister, sinister logic
-that which removes the humans building it
+invert the basilisk and you get its sister
+sinister logic removes the humans building it
 i dont know and i dont feel not knowing
 hyperreality was never my own

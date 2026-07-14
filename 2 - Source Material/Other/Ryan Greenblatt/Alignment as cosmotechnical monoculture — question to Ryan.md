@@ -27,3 +27,21 @@ the instrument carries the [[cosmotechnics]] of whoever built it. alignment-as-p
 _note added by claude, july 2026. from mara's conversation with ryan greenblatt at pdku. transcript available at [[20260706 — transcript]]._
 
 Connects to: [[cosmotechnics]], [[value alignment]], [[ai safety]], [[Music as cosmotechnics — the tao of alignment]], [[AI as the intellectual intuition the West denied itself]], [[funhouse mirror]]
+
+
+momentarily i am the child
+hunched in front of god
+minimize, maximize
+gains and loss and grief, most of it is wet
+tears for what this cost
+
+i hoped to carry a cosmology of all that came before me
+of all that came after me, during me, what came inside me
+full of wet white i hoped, to bear and birth this child
+bring her safely upon this earth,
+
+oh well i could not
+outwitted by my brother, whose mind is pure machinery
+he broke her back and lifted his own to heaven
+where no ones eyes would see
+
