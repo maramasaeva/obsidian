@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "tao",
-  "showTags": false,
+  "search": "exocapitalism",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 8,
+  "scale": 2.6070294360845248,
   "close": true
 }

@@ -14,6 +14,8 @@ Quote/moment: the tweet itself:
 
 *so how does democracy work anymore? isnt collective thought essential to democracy? we're decapitated.. democracy is dead*
 
+some of my friends here were filling in a grant application and one of the questions was: what is something you believe that no one agrees with? and thats a difficult one to answer, but for me is, basically, i think democracy is impossible in a post-internet 
+
 My claim: this is the political face of the simulation-depression spiral. the same mechanism that closes the dream gap ([[The dream gap]]) also closes the political gap — the space where collective thought happens. simulation replaces the agora with feeds. the communist party embedded in daily life (carting, bowling, funerals — all the same activity) was infrastructure for thinking together. social media is structurally different: millions of members, no binding presence, no real connections. baudrillard's hyperreality applied to democracy itself — we're simulating political participation now.
 
 the "individual booths, individual phones" move is the concrete version of the abstraction: democracy requires a People (collective subject) but every interface we have now is designed for individual users. the infrastructure produces individuals, not peoples. so the democratic subject dissolves not through oppression but through UX.
